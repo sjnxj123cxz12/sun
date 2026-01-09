@@ -1,0 +1,167 @@
+natra.png
+size: 1422, 408
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+MDGT
+  rotate: true
+  xy: 1383, 7
+  size: 183, 35
+  orig: 183, 35
+  offset: 0, 0
+  index: -1
+MDGT light
+  rotate: false
+  xy: 1152, 4
+  size: 183, 35
+  orig: 183, 35
+  offset: 0, 0
+  index: -1
+Na Tra
+  rotate: false
+  xy: 1152, 107
+  size: 198, 64
+  orig: 198, 65
+  offset: 0, 1
+  index: -1
+Na Tra light
+  rotate: false
+  xy: 1152, 41
+  size: 198, 64
+  orig: 198, 65
+  offset: 0, 1
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 617, 25
+  size: 215, 87
+  orig: 215, 88
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 47
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 261, 55
+  size: 222, 351
+  orig: 222, 351
+  offset: 0, 0
+  index: -1
+bang_1
+  rotate: false
+  xy: 834, 7
+  size: 179, 114
+  orig: 179, 114
+  offset: 0, 0
+  index: -1
+bang_2
+  rotate: false
+  xy: 1167, 210
+  size: 216, 196
+  orig: 223, 337
+  offset: 0, 0
+  index: -1
+boder_rss/boder
+  rotate: false
+  xy: 227, 47
+  size: 32, 359
+  orig: 32, 359
+  offset: 0, 0
+  index: -1
+boder_rss/boder_glass
+  rotate: true
+  xy: 1385, 192
+  size: 214, 35
+  orig: 214, 36
+  offset: 0, 1
+  index: -1
+boder_rss/boder_moneybar_s
+  rotate: false
+  xy: 130, 2
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 485, 114
+  size: 220, 292
+  orig: 220, 292
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1167, 173
+  size: 214, 35
+  orig: 214, 36
+  offset: 0, 1
+  index: -1
+long
+  rotate: false
+  xy: 707, 123
+  size: 182, 283
+  orig: 186, 288
+  offset: 0, 0
+  index: -1
+long_mat
+  rotate: false
+  xy: 2, 2
+  size: 62, 43
+  orig: 80, 77
+  offset: 18, 0
+  index: -1
+long_toc_1
+  rotate: true
+  xy: 1015, 4
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+long_toc_2
+  rotate: true
+  xy: 403, 14
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+lua_1
+  rotate: false
+  xy: 1016, 183
+  size: 149, 223
+  orig: 155, 223
+  offset: 6, 0
+  index: -1
+natra
+  rotate: false
+  xy: 891, 147
+  size: 123, 259
+  orig: 123, 289
+  offset: 0, 28
+  index: -1
+natra_mat
+  rotate: false
+  xy: 66, 2
+  size: 62, 43
+  orig: 80, 77
+  offset: 18, 0
+  index: -1
+natra_toc
+  rotate: true
+  xy: 498, 5
+  size: 107, 117
+  orig: 107, 117
+  offset: 0, 0
+  index: -1
+web38/jp1
+  rotate: false
+  xy: 183, 4
+  size: 218, 41
+  orig: 218, 41
+  offset: 0, 0
+  index: -1
+

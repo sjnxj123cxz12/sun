@@ -1,0 +1,90 @@
+
+38.png
+size: 1571,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1_0000_rt_text
+  rotate: false
+  xy: 1442, 278
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+Untitled-1_0005_rt_bt
+  rotate: false
+  xy: 477, 55
+  size: 395, 96
+  orig: 395, 96
+  offset: 0, 0
+  index: -1
+Untitled-1_0006_$2
+  rotate: false
+  xy: 1424, 81
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Untitled-1_0007_$1
+  rotate: false
+  xy: 1483, 81
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Untitled-1_0008_$3
+  rotate: false
+  xy: 1411, 24
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 1318, 36
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 1374, 108
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+rt_as
+  rotate: false
+  xy: 1542, 136
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+rt_l_3
+  rotate: false
+  xy: 477, 0
+  size: 385, 55
+  orig: 385, 55
+  offset: 0, 0
+  index: -1
+rt_pt
+  rotate: false
+  xy: 862, 0
+  size: 313, 55
+  orig: 313, 55
+  offset: 0, 0
+  index: -1
+tomb
+  rotate: false
+  xy: 1438, 138
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+vase
+  rotate: false
+  xy: 954, 55
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1

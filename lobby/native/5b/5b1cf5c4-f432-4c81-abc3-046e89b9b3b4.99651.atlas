@@ -1,0 +1,69 @@
+
+halloween_packed.png
+size: 1951,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1830, 110
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Jackpots
+  rotate: false
+  xy: 1562, 85
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as1
+  rotate: false
+  xy: 1696, 85
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 1562, 22
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 1696, 22
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as4
+  rotate: false
+  xy: 1315, 19
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+jack_1
+  rotate: false
+  xy: 1830, 0
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+jack_2
+  rotate: false
+  xy: 1866, 67
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+jack_3
+  rotate: false
+  xy: 1449, 17
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1

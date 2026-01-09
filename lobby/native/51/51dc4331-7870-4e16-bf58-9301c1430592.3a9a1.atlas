@@ -1,0 +1,90 @@
+
+lobby_ALT.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1_0000_rt_text
+  rotate: false
+  xy: 698, 2005
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+Untitled-1_0000_rt_text_2
+  rotate: false
+  xy: 827, 2005
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+Untitled-1_0005_rt_bt
+  rotate: false
+  xy: 1127, 1888
+  size: 395, 96
+  orig: 395, 96
+  offset: 0, 0
+  index: -1
+Untitled-1_0006_$2
+  rotate: false
+  xy: 1885, 1984
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Untitled-1_0007_$1
+  rotate: false
+  xy: 1885, 1984
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Untitled-1_0008_$3
+  rotate: false
+  xy: 1946, 1984
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+rt_as
+  rotate: false
+  xy: 343, 2018
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+rt_l_2
+  rotate: false
+  xy: 649, 2008
+  size: 47, 33
+  orig: 81, 45
+  offset: 17, 7
+  index: -1
+rt_l_3
+  rotate: false
+  xy: 1498, 1986
+  size: 385, 55
+  orig: 385, 55
+  offset: 0, 0
+  index: -1
+rt_l_4
+  rotate: false
+  xy: 956, 1994
+  size: 273, 47
+  orig: 273, 47
+  offset: 0, 0
+  index: -1
+rt_pt
+  rotate: false
+  xy: 1231, 1987
+  size: 265, 54
+  orig: 265, 55
+  offset: 0, 0
+  index: -1
+rt_sd
+  rotate: false
+  xy: 532, 2012
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1

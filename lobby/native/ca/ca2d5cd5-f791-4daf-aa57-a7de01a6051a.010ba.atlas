@@ -1,0 +1,55 @@
+lode.png
+size: 366, 1012
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+72d34489796a3e2117c74ca2d96ffeeb
+  rotate: false
+  xy: 2, 46
+  size: 216, 246
+  orig: 216, 246
+  offset: 0, 0
+  index: -1
+Layer 1 copy 4
+  rotate: true
+  xy: 2, 567
+  size: 218, 344
+  orig: 218, 344
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 5 copy2
+  rotate: true
+  xy: 276, 394
+  size: 171, 73
+  orig: 171, 73
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: true
+  xy: 2, 787
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+yellow_ball
+  rotate: false
+  xy: 220, 148
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+yellow_ball2
+  rotate: false
+  xy: 220, 2
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+yellow_ball_1
+  rotate: false
+  xy: 2, 294
+  size: 272, 271
+  orig: 280, 280
+  offset: 4, 3
+  index: -1
+

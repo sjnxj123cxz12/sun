@@ -1,0 +1,132 @@
+XDTL_ICON.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+app37/template_icon_boder
+  rotate: false
+  xy: 277, 83
+  size: 266, 427
+  orig: 266, 427
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 2, 7
+  size: 66, 216
+  orig: 70, 226
+  offset: 1, 1
+  index: -1
+background
+  rotate: false
+  xy: 2, 75
+  size: 273, 435
+  orig: 273, 435
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 545, 98
+  size: 231, 412
+  orig: 271, 422
+  offset: 40, 0
+  index: -1
+dia_1
+  rotate: false
+  xy: 778, 101
+  size: 155, 133
+  orig: 155, 133
+  offset: 0, 0
+  index: -1
+dia_2
+  rotate: false
+  xy: 935, 120
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+dia_fx
+  rotate: false
+  xy: 865, 34
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 778, 236
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+fx text
+  rotate: true
+  xy: 1053, 251
+  size: 259, 239
+  orig: 259, 239
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 1294, 238
+  size: 272, 225
+  orig: 272, 225
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 246, 4
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 220, 4
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+lb_money_icon (1)
+  rotate: true
+  xy: 685, 2
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+text_tulinh
+  rotate: false
+  xy: 1043, 18
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+text_tulinhlight
+  rotate: false
+  xy: 482, 4
+  size: 201, 77
+  orig: 201, 77
+  offset: 0, 0
+  index: -1
+text_xocdia
+  rotate: false
+  xy: 685, 31
+  size: 178, 65
+  orig: 178, 65
+  offset: 0, 0
+  index: -1
+text_xocdialight
+  rotate: false
+  xy: 935, 181
+  size: 168, 53
+  orig: 168, 53
+  offset: 0, 0
+  index: -1
+web38/jp1
+  rotate: false
+  xy: 220, 24
+  size: 260, 49
+  orig: 260, 49
+  offset: 0, 0
+  index: -1
+

@@ -1,0 +1,69 @@
+
+Lode.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: true
+  xy: 208, 380
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 73, 382
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 147, 382
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 2, 385
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+background
+  rotate: true
+  xy: 390, 2
+  size: 231, 402
+  orig: 231, 402
+  offset: 0, 0
+  index: -1
+ball7_loading
+  rotate: false
+  xy: 269, 235
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+ball8_loading
+  rotate: false
+  xy: 462, 235
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+ball9_loading
+  rotate: false
+  xy: 655, 235
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+effect
+  rotate: true
+  xy: 2, 15
+  size: 218, 386
+  orig: 218, 386
+  offset: 0, 0
+  index: -1

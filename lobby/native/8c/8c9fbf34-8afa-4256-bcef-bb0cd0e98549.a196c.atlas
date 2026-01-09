@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 58, 19
+  size: 235, 197
+  orig: 235, 197
+  offset: 0, 0
+  index: -1
+MINI POKER
+  rotate: true
+  xy: 2, 2
+  size: 252, 54
+  orig: 252, 54
+  offset: 0, 0
+  index: -1
+bar
+  rotate: true
+  xy: 376, 71
+  size: 183, 88
+  orig: 183, 88
+  offset: 0, 0
+  index: -1
+game
+  rotate: true
+  xy: 257, 45
+  size: 209, 117
+  orig: 229, 150
+  offset: 10, 33
+  index: -1
+lb_money_icon
+  rotate: false
+  xy: 466, 184
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char/BG
+  rotate: true
+  xy: 2, 5
+  size: 233, 400
+  orig: 233, 400
+  offset: 0, 0
+  index: -1
+Char/black
+  rotate: true
+  xy: 854, 23
+  size: 100, 102
+  orig: 100, 103
+  offset: 0, 1
+  index: -1
+Char/black  light
+  rotate: false
+  xy: 733, 119
+  size: 119, 119
+  orig: 144, 144
+  offset: 12, 13
+  index: -1
+Char/blue
+  rotate: false
+  xy: 854, 125
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+Char/blue light
+  rotate: true
+  xy: 587, 98
+  size: 140, 144
+  orig: 153, 157
+  offset: 11, 12
+  index: -1
+Char/red 1
+  rotate: true
+  xy: 587, 26
+  size: 70, 75
+  orig: 88, 77
+  offset: 17, 2
+  index: -1
+Char/red light
+  rotate: false
+  xy: 733, 21
+  size: 94, 96
+  orig: 113, 119
+  offset: 10, 11
+  index: -1
+Fx/Energy_01
+  rotate: false
+  xy: 958, 2
+  size: 48, 42
+  orig: 86, 76
+  offset: 19, 16
+  index: -1
+Fx/Energy_02
+  rotate: true
+  xy: 965, 165
+  size: 73, 56
+  orig: 102, 89
+  offset: 14, 16
+  index: -1
+Fx/Energy_03
+  rotate: false
+  xy: 958, 46
+  size: 62, 77
+  orig: 103, 115
+  offset: 22, 19
+  index: -1
+Fx/Energy_04
+  rotate: false
+  xy: 829, 4
+  size: 91, 17
+  orig: 116, 66
+  offset: 11, 25
+  index: -1
+Fx/Energy_05
+  rotate: true
+  xy: 829, 29
+  size: 88, 19
+  orig: 111, 56
+  offset: 11, 21
+  index: -1
+lighttt
+  rotate: false
+  xy: 404, 57
+  size: 181, 181
+  orig: 190, 190
+  offset: 5, 4
+  index: -1

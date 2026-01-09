@@ -1,0 +1,104 @@
+pirateking.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: false
+  xy: 310, 78
+  size: 264, 418
+  orig: 264, 418
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 746, 2
+  size: 181, 137
+  orig: 183, 137
+  offset: 1, 0
+  index: -1
+SD
+  rotate: false
+  xy: 2, 4
+  size: 226, 63
+  orig: 258, 72
+  offset: 16, 5
+  index: -1
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 69
+  size: 266, 427
+  orig: 266, 427
+  offset: 0, 0
+  index: -1
+boder_rss/boder
+  rotate: false
+  xy: 270, 69
+  size: 38, 427
+  orig: 38, 427
+  offset: 0, 0
+  index: -1
+boder_rss/boder_glass
+  rotate: false
+  xy: 828, 149
+  size: 255, 42
+  orig: 255, 43
+  offset: 0, 1
+  index: -1
+boder_rss/boder_moneybar_b
+  rotate: true
+  xy: 576, 92
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 576, 141
+  size: 250, 355
+  orig: 262, 358
+  offset: 11, 1
+  index: -1
+hand
+  rotate: true
+  xy: 1191, 105
+  size: 121, 106
+  orig: 122, 107
+  offset: 1, 0
+  index: -1
+named
+  rotate: false
+  xy: 230, 11
+  size: 256, 56
+  orig: 258, 72
+  offset: 1, 5
+  index: -1
+named_2
+  rotate: false
+  xy: 488, 20
+  size: 256, 56
+  orig: 258, 72
+  offset: 1, 5
+  index: -1
+spark
+  rotate: false
+  xy: 828, 193
+  size: 256, 303
+  orig: 257, 303
+  offset: 1, 0
+  index: -1
+spark_2
+  rotate: false
+  xy: 1086, 228
+  size: 257, 268
+  orig: 257, 364
+  offset: 0, 0
+  index: -1
+web38/jp3
+  rotate: false
+  xy: 929, 22
+  size: 260, 125
+  orig: 260, 125
+  offset: 0, 0
+  index: -1
+

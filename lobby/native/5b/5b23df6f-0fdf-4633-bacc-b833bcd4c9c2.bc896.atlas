@@ -1,0 +1,103 @@
+Header & Jackpot.png
+size: 1791,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1724, 67
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Jackpots
+  rotate: false
+  xy: 1387, 121
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+Lion
+  rotate: false
+  xy: 1566, 77
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+Lion1
+  rotate: false
+  xy: 1464, 14
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Lion2
+  rotate: false
+  xy: 1754, 108
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Lion3
+  rotate: false
+  xy: 1663, 17
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Lion4
+  rotate: false
+  xy: 1387, 18
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+Lion5
+  rotate: false
+  xy: 481, 8
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+as1
+  rotate: false
+  xy: 1387, 58
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 958, 17
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 1092, 17
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as4
+  rotate: false
+  xy: 1566, 153
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+firecracker
+  rotate: false
+  xy: 1633, 5
+  size: 28, 70
+  orig: 28, 70
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 1562, 216
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1

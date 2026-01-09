@@ -1,0 +1,1 @@
+{"platform":"ios","groupList":["default"],"collisionMatrix":[[true]],"hasResourcesBundle":false,"hasStartSceneBundle":false,"remoteBundles":false,"subpackages":[],"launchScene":"db://assets/MainScene.fire","orientation":"","server":"","jsList":[],"bundleVers":{"internal":"7b6e9","BanCa":"411d0","TaiXiu":"03438","lobby":"2aa3e","main":"b3713"}}

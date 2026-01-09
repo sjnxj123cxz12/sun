@@ -1,0 +1,272 @@
+roullet.png
+size: 438, 1029
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3D
+  rotate: false
+  xy: 87, 40
+  size: 123, 65
+  orig: 124, 66
+  offset: 0, 1
+  index: -1
+C1
+  rotate: false
+  xy: 404, 946
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+C10
+  rotate: true
+  xy: 190, 7
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+C11
+  rotate: true
+  xy: 406, 379
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+C12
+  rotate: false
+  xy: 404, 913
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+C2
+  rotate: true
+  xy: 406, 822
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+C3
+  rotate: true
+  xy: 407, 417
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+C4
+  rotate: false
+  xy: 35, 6
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+C5
+  rotate: true
+  xy: 425, 735
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+C6
+  rotate: true
+  xy: 431, 31
+  size: 31, 5
+  orig: 31, 5
+  offset: 0, 0
+  index: -1
+C7
+  rotate: false
+  xy: 211, 4
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+C8
+  rotate: true
+  xy: 423, 696
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+C9
+  rotate: false
+  xy: 2, 4
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+Eg
+  rotate: false
+  xy: 227, 852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+La
+  rotate: true
+  xy: 221, 116
+  size: 112, 176
+  orig: 112, 176
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 668
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 227, 729
+  size: 177, 121
+  orig: 178, 126
+  offset: 1, 5
+  index: -1
+cir
+  rotate: false
+  xy: 2, 22
+  size: 83, 83
+  orig: 87, 87
+  offset: 2, 2
+  index: -1
+e
+  rotate: false
+  xy: 392, 312
+  size: 33, 48
+  orig: 33, 50
+  offset: 0, 2
+  index: -1
+ef
+  rotate: true
+  xy: 370, 254
+  size: 106, 20
+  orig: 106, 20
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 2, 321
+  size: 217, 345
+  orig: 217, 345
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 392, 262
+  size: 33, 48
+  orig: 36, 50
+  offset: 2, 2
+  index: -1
+li
+  rotate: false
+  xy: 370, 412
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+o
+  rotate: true
+  xy: 87, 2
+  size: 36, 50
+  orig: 39, 51
+  offset: 2, 1
+  index: -1
+p1
+  rotate: true
+  xy: 227, 671
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+p138
+  rotate: true
+  xy: 325, 671
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+p1a
+  rotate: true
+  xy: 406, 768
+  size: 52, 26
+  orig: 52, 27
+  offset: 0, 1
+  index: -1
+p1b
+  rotate: false
+  xy: 370, 230
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+p1c
+  rotate: true
+  xy: 404, 855
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+p1d
+  rotate: true
+  xy: 406, 729
+  size: 37, 17
+  orig: 37, 18
+  offset: 0, 1
+  index: -1
+ptc1
+  rotate: true
+  xy: 221, 230
+  size: 217, 147
+  orig: 217, 147
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 370, 362
+  size: 34, 48
+  orig: 38, 50
+  offset: 2, 2
+  index: -1
+sa
+  rotate: false
+  xy: 212, 12
+  size: 217, 50
+  orig: 217, 52
+  offset: 0, 1
+  index: -1
+t
+  rotate: false
+  xy: 404, 979
+  size: 32, 48
+  orig: 32, 50
+  offset: 0, 2
+  index: -1
+u
+  rotate: true
+  xy: 139, 2
+  size: 36, 49
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+web38/jp1
+  rotate: false
+  xy: 212, 64
+  size: 218, 41
+  orig: 218, 41
+  offset: 0, 0
+  index: -1
+whe1
+  rotate: false
+  xy: 2, 107
+  size: 217, 212
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+whe1hl38
+  rotate: true
+  xy: 221, 449
+  size: 217, 212
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+

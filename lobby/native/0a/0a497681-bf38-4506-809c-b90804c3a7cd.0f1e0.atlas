@@ -1,0 +1,83 @@
+
+lobby_ALT.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_1
+  rotate: false
+  xy: 2, 2034
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: false
+  xy: 67, 2034
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+web_mobile_789_0000_NT_1
+  rotate: false
+  xy: 641, 1928
+  size: 201, 75
+  orig: 201, 75
+  offset: 0, 0
+  index: -1
+web_mobile_789_0001_K_6
+  rotate: false
+  xy: 1524, 1833
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0002_K_5
+  rotate: false
+  xy: 2, 1798
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0003_K_4
+  rotate: false
+  xy: 481, 1763
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0004_K_3
+  rotate: false
+  xy: 960, 1737
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0005_K_2
+  rotate: false
+  xy: 1439, 1682
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0006_K_1
+  rotate: false
+  xy: 2, 1647
+  size: 477, 149
+  orig: 477, 149
+  offset: 0, 0
+  index: -1
+web_mobile_789_0015_Shape-13
+  rotate: false
+  xy: 481, 1606
+  size: 1560, 74
+  orig: 1560, 74
+  offset: 0, 0
+  index: -1
+web_mobile_789_0017_NT_2
+  rotate: false
+  xy: 372, 1949
+  size: 189, 61
+  orig: 189, 61
+  offset: 0, 0
+  index: -1

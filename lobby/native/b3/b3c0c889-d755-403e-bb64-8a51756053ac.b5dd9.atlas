@@ -1,0 +1,111 @@
+
+Tru Tien 38.png
+size: 626,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 244
+  size: 231, 402
+  orig: 231, 402
+  offset: 0, 0
+  index: -1
+BGlight
+  rotate: false
+  xy: 287, 654
+  size: 218, 386
+  orig: 218, 386
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 648
+  size: 283, 392
+  orig: 283, 431
+  offset: 0, 37
+  index: -1
+JP
+  rotate: false
+  xy: 222, 15
+  size: 221, 46
+  orig: 221, 46
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 523, 96
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 437, 68
+  size: 84, 123
+  orig: 84, 123
+  offset: 0, 0
+  index: -1
+TIEN
+  rotate: false
+  xy: 222, 63
+  size: 213, 128
+  orig: 214, 128
+  offset: 1, 0
+  index: -1
+TRU
+  rotate: false
+  xy: 455, 310
+  size: 169, 109
+  orig: 171, 109
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 402, 421
+  size: 218, 231
+  orig: 218, 231
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 455, 209
+  size: 99, 147
+  orig: 105, 150
+  offset: 4, 0
+  index: -1
+light
+  rotate: true
+  xy: 523, 15
+  size: 79, 100
+  orig: 81, 102
+  offset: 1, 1
+  index: -1
+logoBG
+  rotate: false
+  xy: 235, 193
+  size: 218, 209
+  orig: 218, 212
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 507, 659
+  size: 93, 381
+  orig: 95, 382
+  offset: 2, 1
+  index: -1
+toc
+  rotate: false
+  xy: 235, 404
+  size: 165, 242
+  orig: 165, 250
+  offset: 0, 0
+  index: -1
+tocBG
+  rotate: false
+  xy: 2, 2
+  size: 218, 240
+  orig: 218, 240
+  offset: 0, 0
+  index: -1

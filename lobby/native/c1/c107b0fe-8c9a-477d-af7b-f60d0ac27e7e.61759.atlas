@@ -1,0 +1,146 @@
+xeng.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+7
+  rotate: true
+  xy: 310, 565
+  size: 118, 168
+  orig: 126, 171
+  offset: 0, 0
+  index: -1
+7_P
+  rotate: false
+  xy: 310, 853
+  size: 135, 166
+  orig: 139, 169
+  offset: 2, 1
+  index: -1
+7_P_2
+  rotate: false
+  xy: 310, 685
+  size: 135, 166
+  orig: 139, 169
+  offset: 2, 1
+  index: -1
+7_T
+  rotate: false
+  xy: 307, 398
+  size: 136, 165
+  orig: 139, 168
+  offset: 1, 1
+  index: -1
+7_T_2
+  rotate: false
+  xy: 2, 11
+  size: 136, 166
+  orig: 139, 168
+  offset: 2, 0
+  index: -1
+8
+  rotate: false
+  xy: 140, 9
+  size: 122, 168
+  orig: 126, 171
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 179
+  size: 259, 411
+  orig: 259, 411
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 447, 896
+  size: 61, 53
+  orig: 61, 54
+  offset: 0, 1
+  index: -1
+Layer 14
+  rotate: false
+  xy: 447, 959
+  size: 55, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 447, 216
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 592
+  size: 266, 427
+  orig: 266, 427
+  offset: 0, 0
+  index: -1
+boder_rss/boder
+  rotate: false
+  xy: 270, 592
+  size: 38, 427
+  orig: 38, 427
+  offset: 0, 0
+  index: -1
+boder_rss/boder_glass
+  rotate: true
+  xy: 263, 335
+  size: 255, 42
+  orig: 255, 43
+  offset: 0, 1
+  index: -1
+coin_1
+  rotate: false
+  xy: 447, 260
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: false
+  xy: 447, 850
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+coin_3
+  rotate: false
+  xy: 445, 519
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+coin_4
+  rotate: true
+  xy: 263, 190
+  size: 22, 43
+  orig: 23, 44
+  offset: 1, 0
+  index: -1
+coin_5
+  rotate: true
+  xy: 2, 2
+  size: 7, 43
+  orig: 7, 43
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: false
+  xy: 307, 306
+  size: 182, 90
+  orig: 184, 90
+  offset: 1, 0
+  index: -1
+xeng_2
+  rotate: false
+  xy: 263, 214
+  size: 182, 90
+  orig: 184, 90
+  offset: 1, 0
+  index: -1
+

@@ -1,0 +1,209 @@
+BaccaratC5.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3
+  rotate: false
+  xy: 808, 375
+  size: 140, 135
+  orig: 140, 135
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 2, 215
+  size: 311, 295
+  orig: 311, 295
+  offset: 0, 0
+  index: -1
+50
+  rotate: false
+  xy: 941, 115
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Live
+  rotate: false
+  xy: 677, 20
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1
+Live_text
+  rotate: false
+  xy: 2, 2
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+R11
+  rotate: false
+  xy: 237, 8
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 315, 225
+  size: 289, 285
+  orig: 289, 285
+  offset: 0, 0
+  index: -1
+aura1
+  rotate: false
+  xy: 606, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+blur_cir
+  rotate: false
+  xy: 880, 112
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+boder_rss/board_1
+  rotate: false
+  xy: 677, 55
+  size: 235, 25
+  orig: 235, 25
+  offset: 0, 0
+  index: -1
+boder_rss/board_2
+  rotate: false
+  xy: 677, 82
+  size: 235, 26
+  orig: 235, 26
+  offset: 0, 0
+  index: -1
+boder_rss/board_3
+  rotate: false
+  xy: 999, 164
+  size: 3, 170
+  orig: 3, 170
+  offset: 0, 0
+  index: -1
+card1
+  rotate: false
+  xy: 781, 113
+  size: 97, 119
+  orig: 97, 119
+  offset: 0, 0
+  index: -1
+card2
+  rotate: false
+  xy: 677, 110
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 950, 390
+  size: 142, 120
+  orig: 142, 120
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 444, 3
+  size: 231, 220
+  orig: 231, 220
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 909, 269
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+co_shadow
+  rotate: false
+  xy: 841, 239
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+decor1
+  rotate: false
+  xy: 812, 18
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+decor2
+  rotate: false
+  xy: 808, 310
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+decor3
+  rotate: false
+  xy: 841, 27
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 20
+  size: 233, 193
+  orig: 233, 193
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 808, 336
+  size: 217, 37
+  orig: 217, 37
+  offset: 0, 0
+  index: -1
+live_triangle
+  rotate: false
+  xy: 42, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+live_triangle2
+  rotate: false
+  xy: 834, 313
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+ro
+  rotate: false
+  xy: 914, 54
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+ro_shadow
+  rotate: false
+  xy: 880, 173
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+techplay
+  rotate: false
+  xy: 770, 5
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 606, 234
+  size: 233, 74
+  orig: 233, 74
+  offset: 0, 0
+  index: -1
+

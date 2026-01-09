@@ -1,0 +1,55 @@
+
+download789.png
+size: 823,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+app
+  rotate: true
+  xy: 730, 14
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 436, 0
+  size: 292, 71
+  orig: 292, 71
+  offset: 0, 0
+  index: -1
+cl
+  rotate: true
+  xy: 745, 74
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 0, 19
+  size: 434, 136
+  orig: 434, 136
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 786, 111
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 436, 73
+  size: 307, 82
+  orig: 307, 82
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 771, 22
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1

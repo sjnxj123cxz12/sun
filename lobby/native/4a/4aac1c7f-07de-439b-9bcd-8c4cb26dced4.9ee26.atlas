@@ -1,0 +1,90 @@
+thantai.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 392
+  size: 266, 427
+  orig: 266, 427
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 2, 126
+  size: 264, 418
+  orig: 264, 418
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 313, 407
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+cai shen slots
+  rotate: false
+  xy: 532, 468
+  size: 272, 90
+  orig: 272, 90
+  offset: 0, 0
+  index: -1
+cai shen slots light
+  rotate: false
+  xy: 2, 34
+  size: 272, 90
+  orig: 272, 90
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 270, 402
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 270, 560
+  size: 273, 259
+  orig: 273, 259
+  offset: 0, 0
+  index: -1
+par
+  rotate: false
+  xy: 276, 83
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 422, 2
+  size: 216, 168
+  orig: 263, 168
+  offset: 24, 0
+  index: -1
+thantai
+  rotate: false
+  xy: 422, 172
+  size: 259, 259
+  orig: 261, 267
+  offset: 1, 2
+  index: -1
+thantai2
+  rotate: false
+  xy: 545, 560
+  size: 259, 259
+  orig: 261, 267
+  offset: 1, 7
+  index: -1
+web38/jp3
+  rotate: false
+  xy: 270, 433
+  size: 260, 125
+  orig: 260, 125
+  offset: 0, 0
+  index: -1
+

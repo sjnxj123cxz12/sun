@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: true
+  xy: 2, 15
+  size: 239, 197
+  orig: 267, 223
+  offset: 12, 13
+  index: -1
+cao
+  rotate: false
+  xy: 315, 5
+  size: 97, 55
+  orig: 149, 87
+  offset: 24, 14
+  index: -1
+cao copy
+  rotate: true
+  xy: 342, 76
+  size: 178, 136
+  orig: 200, 160
+  offset: 9, 9
+  index: -1
+lb_money_icon
+  rotate: false
+  xy: 414, 4
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+thap
+  rotate: false
+  xy: 201, 2
+  size: 112, 58
+  orig: 195, 97
+  offset: 42, 18
+  index: -1
+thap copy
+  rotate: true
+  xy: 201, 62
+  size: 192, 139
+  orig: 211, 161
+  offset: 11, 9
+  index: -1

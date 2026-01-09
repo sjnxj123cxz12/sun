@@ -1,0 +1,377 @@
+Jackpots_web38.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ci1
+  rotate: false
+  xy: 3, 310
+  size: 186, 199
+  orig: 186, 199
+  offset: 0, 0
+  index: -1
+Ci2
+  rotate: false
+  xy: 3, 119
+  size: 182, 188
+  orig: 182, 189
+  offset: 0, 0
+  index: -1
+Ci3
+  rotate: false
+  xy: 188, 130
+  size: 171, 177
+  orig: 172, 177
+  offset: 0, 0
+  index: -1
+Cry_snow1
+  rotate: true
+  xy: 723, 15
+  size: 34, 71
+  orig: 34, 75
+  offset: 0, 4
+  index: -1
+Cry_snow2
+  rotate: true
+  xy: 758, 149
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+Cry_snow3
+  rotate: false
+  xy: 453, 130
+  size: 33, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Cry_snow4
+  rotate: true
+  xy: 192, 310
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Gen_RDice_1
+  rotate: true
+  xy: 25, 5
+  size: 4, 60
+  orig: 4, 60
+  offset: 0, 0
+  index: -1
+Gen_RDice_1side
+  rotate: false
+  xy: 666, 387
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_RDice_2side
+  rotate: false
+  xy: 693, 422
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_RDice_3side
+  rotate: false
+  xy: 722, 479
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_RDice_4side
+  rotate: false
+  xy: 699, 389
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_RDice_5
+  rotate: true
+  xy: 278, 313
+  size: 18, 16
+  orig: 18, 17
+  offset: 0, 1
+  index: -1
+Gen_RDice_5side
+  rotate: false
+  xy: 726, 446
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_RDice_6side
+  rotate: false
+  xy: 755, 479
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gen_blurcir
+  rotate: false
+  xy: 192, 334
+  size: 175, 175
+  orig: 200, 200
+  offset: 13, 12
+  index: -1
+Gen_bokeh1
+  rotate: true
+  xy: 3, 12
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+Gen_bokeh2
+  rotate: false
+  xy: 679, 145
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+Gen_spark1
+  rotate: true
+  xy: 666, 455
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Jackpots
+  rotate: true
+  xy: 370, 360
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_light
+  rotate: false
+  xy: 533, 145
+  size: 143, 60
+  orig: 152, 81
+  offset: 4, 11
+  index: -1
+Jackpots_s1
+  rotate: true
+  xy: 444, 360
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s2
+  rotate: true
+  xy: 512, 208
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s3
+  rotate: true
+  xy: 518, 360
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s4
+  rotate: true
+  xy: 586, 208
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s5
+  rotate: true
+  xy: 592, 360
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+SM_body
+  rotate: true
+  xy: 666, 420
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+SM_cheek
+  rotate: false
+  xy: 17, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+SM_eye
+  rotate: false
+  xy: 100, 5
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+SM_hat1
+  rotate: false
+  xy: 249, 313
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+SM_hat2
+  rotate: true
+  xy: 345, 321
+  size: 10, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+SM_hat3
+  rotate: false
+  xy: 211, 6
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+SM_head
+  rotate: false
+  xy: 221, 310
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+SM_mouth1
+  rotate: false
+  xy: 3, 3
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+SM_nose
+  rotate: false
+  xy: 88, 5
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+SM_scarf
+  rotate: false
+  xy: 317, 320
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+SM_scarf2
+  rotate: false
+  xy: 134, 3
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+SM_scarf3
+  rotate: false
+  xy: 153, 3
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Sp_cir_small
+  rotate: true
+  xy: 660, 239
+  size: 118, 116
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+Swirl_px
+  rotate: false
+  xy: 362, 182
+  size: 147, 149
+  orig: 153, 150
+  offset: 4, 0
+  index: -1
+Swirl_water
+  rotate: false
+  xy: 364, 6
+  size: 130, 121
+  orig: 132, 127
+  offset: 1, 2
+  index: -1
+chip
+  rotate: false
+  xy: 238, 3
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+chip_l
+  rotate: true
+  xy: 362, 130
+  size: 49, 88
+  orig: 68, 90
+  offset: 0, 1
+  index: -1
+chip_sd
+  rotate: true
+  xy: 773, 75
+  size: 71, 29
+  orig: 76, 31
+  offset: 4, 0
+  index: -1
+cirl1
+  rotate: false
+  xy: 558, 22
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 134, 21
+  size: 94, 95
+  orig: 99, 96
+  offset: 5, 1
+  index: -1
+cry2
+  rotate: false
+  xy: 681, 8
+  size: 39, 41
+  orig: 42, 42
+  offset: 2, 1
+  index: -1
+cry3
+  rotate: true
+  xy: 797, 12
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+cryy
+  rotate: true
+  xy: 681, 52
+  size: 90, 89
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+liti1
+  rotate: true
+  xy: 167, 5
+  size: 13, 41
+  orig: 15, 46
+  offset: 1, 4
+  index: -1
+liti2
+  rotate: false
+  xy: 489, 137
+  size: 41, 42
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+shinyd
+  rotate: false
+  xy: 297, 314
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: true
+  xy: 497, 8
+  size: 126, 58
+  orig: 142, 68
+  offset: 15, 5
+  index: -1
+

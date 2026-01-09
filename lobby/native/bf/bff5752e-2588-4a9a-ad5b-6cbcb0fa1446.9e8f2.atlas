@@ -1,0 +1,90 @@
+thuycung.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: true
+  xy: 431, 213
+  size: 262, 417
+  orig: 262, 417
+  offset: 0, 0
+  index: -1
+CLAM D
+  rotate: false
+  xy: 571, 138
+  size: 149, 73
+  orig: 151, 75
+  offset: 1, 1
+  index: -1
+CLAM M
+  rotate: true
+  xy: 977, 62
+  size: 92, 12
+  orig: 94, 14
+  offset: 1, 1
+  index: -1
+CLAM U
+  rotate: false
+  xy: 431, 114
+  size: 138, 97
+  orig: 140, 99
+  offset: 1, 1
+  index: -1
+PEARL
+  rotate: false
+  xy: 571, 90
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+THUYCUNG
+  rotate: true
+  xy: 850, 264
+  size: 211, 170
+  orig: 212, 170
+  offset: 0, 0
+  index: -1
+WOMB_BODY
+  rotate: false
+  xy: 722, 82
+  size: 60, 129
+  orig: 60, 129
+  offset: 0, 0
+  index: -1
+WOMB_EYE 1
+  rotate: false
+  xy: 977, 181
+  size: 33, 39
+  orig: 36, 42
+  offset: 1, 1
+  index: -1
+WOMB_EYE 2
+  rotate: false
+  xy: 977, 222
+  size: 34, 40
+  orig: 37, 43
+  offset: 1, 1
+  index: -1
+WOMB_MOUTH
+  rotate: false
+  xy: 977, 156
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+app37/template_icon_boder
+  rotate: true
+  xy: 2, 209
+  size: 266, 427
+  orig: 266, 427
+  offset: 0, 0
+  index: -1
+web38/jp3
+  rotate: true
+  xy: 850, 2
+  size: 260, 125
+  orig: 260, 125
+  offset: 0, 0
+  index: -1
+

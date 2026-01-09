@@ -1,0 +1,293 @@
+coup.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bg2
+  rotate: true
+  xy: 410, 20
+  size: 234, 116
+  orig: 236, 139
+  offset: 1, 1
+  index: -1
+Bg3
+  rotate: true
+  xy: 2, 5
+  size: 249, 115
+  orig: 250, 159
+  offset: 0, 0
+  index: -1
+Chess_02_light
+  rotate: true
+  xy: 1079, 2
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Chess_02_light2
+  rotate: true
+  xy: 1125, 147
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Gen_shiny
+  rotate: true
+  xy: 1125, 111
+  size: 34, 46
+  orig: 39, 50
+  offset: 3, 1
+  index: -1
+Gen_spark1
+  rotate: true
+  xy: 1509, 200
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1
+Gen_sparking
+  rotate: true
+  xy: 766, 99
+  size: 155, 85
+  orig: 173, 98
+  offset: 4, 6
+  index: -1
+bg
+  rotate: true
+  xy: 528, 23
+  size: 231, 198
+  orig: 235, 198
+  offset: 0, 0
+  index: -1
+boder_rss/board_1
+  rotate: true
+  xy: 383, 19
+  size: 235, 25
+  orig: 235, 25
+  offset: 0, 0
+  index: -1
+boder_rss/board_2
+  rotate: true
+  xy: 355, 19
+  size: 235, 26
+  orig: 235, 26
+  offset: 0, 0
+  index: -1
+boder_rss/board_3
+  rotate: true
+  xy: 119, 12
+  size: 3, 167
+  orig: 3, 170
+  offset: 0, 2
+  index: -1
+chess_00
+  rotate: true
+  xy: 984, 5
+  size: 103, 93
+  orig: 104, 94
+  offset: 0, 1
+  index: -1
+chess_01
+  rotate: true
+  xy: 1364, 167
+  size: 87, 78
+  orig: 88, 78
+  offset: 1, 0
+  index: -1
+chess_01_1
+  rotate: true
+  xy: 1488, 140
+  size: 56, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+chess_01_2
+  rotate: true
+  xy: 1444, 179
+  size: 75, 35
+  orig: 77, 37
+  offset: 1, 1
+  index: -1
+chess_01_3
+  rotate: true
+  xy: 1322, 166
+  size: 88, 40
+  orig: 88, 41
+  offset: 0, 0
+  index: -1
+chess_01_4
+  rotate: true
+  xy: 1329, 24
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+chess_01_5
+  rotate: true
+  xy: 1420, 54
+  size: 70, 35
+  orig: 72, 36
+  offset: 1, 0
+  index: -1
+chess_02
+  rotate: true
+  xy: 888, 4
+  size: 104, 94
+  orig: 105, 94
+  offset: 1, 0
+  index: -1
+chess_02_1
+  rotate: false
+  xy: 1452, 21
+  size: 59, 31
+  orig: 61, 32
+  offset: 1, 1
+  index: -1
+chess_02_10
+  rotate: true
+  xy: 1277, 20
+  size: 91, 50
+  orig: 93, 51
+  offset: 1, 0
+  index: -1
+chess_02_11
+  rotate: true
+  xy: 1373, 25
+  size: 86, 45
+  orig: 88, 47
+  offset: 1, 1
+  index: -1
+chess_02_12
+  rotate: true
+  xy: 1481, 198
+  size: 56, 26
+  orig: 59, 28
+  offset: 2, 1
+  index: -1
+chess_02_13
+  rotate: false
+  xy: 1173, 113
+  size: 68, 32
+  orig: 71, 35
+  offset: 2, 2
+  index: -1
+chess_02_2
+  rotate: false
+  xy: 1380, 126
+  size: 79, 39
+  orig: 79, 41
+  offset: 0, 1
+  index: -1
+chess_02_3
+  rotate: false
+  xy: 1289, 113
+  size: 89, 46
+  orig: 90, 48
+  offset: 0, 1
+  index: -1
+chess_02_4
+  rotate: true
+  xy: 1275, 161
+  size: 93, 45
+  orig: 95, 47
+  offset: 1, 1
+  index: -1
+chess_02_5
+  rotate: true
+  xy: 1177, 16
+  size: 95, 46
+  orig: 97, 48
+  offset: 1, 1
+  index: -1
+chess_02_6
+  rotate: true
+  xy: 838, 2
+  size: 95, 48
+  orig: 97, 50
+  offset: 1, 1
+  index: -1
+chess_02_7
+  rotate: true
+  xy: 1223, 156
+  size: 98, 50
+  orig: 100, 51
+  offset: 1, 1
+  index: -1
+chess_02_8
+  rotate: true
+  xy: 786, 2
+  size: 95, 50
+  orig: 96, 52
+  offset: 1, 1
+  index: -1
+chess_02_9
+  rotate: true
+  xy: 1225, 18
+  size: 93, 50
+  orig: 95, 52
+  offset: 1, 1
+  index: -1
+chess_shadow
+  rotate: false
+  xy: 1457, 62
+  size: 30, 62
+  orig: 35, 65
+  offset: 1, 3
+  index: -1
+chip_01
+  rotate: false
+  xy: 1461, 149
+  size: 25, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+chip_02
+  rotate: true
+  xy: 1243, 113
+  size: 41, 44
+  orig: 43, 46
+  offset: 1, 1
+  index: -1
+co
+  rotate: true
+  xy: 997, 111
+  size: 143, 126
+  orig: 150, 134
+  offset: 3, 4
+  index: -1
+gen_Star
+  rotate: false
+  xy: 1420, 15
+  size: 30, 37
+  orig: 44, 53
+  offset: 9, 9
+  index: -1
+glass
+  rotate: true
+  xy: 728, 37
+  size: 217, 36
+  orig: 217, 37
+  offset: 0, 1
+  index: -1
+glow
+  rotate: true
+  xy: 119, 17
+  size: 237, 234
+  orig: 271, 255
+  offset: 5, 15
+  index: -1
+icon
+  rotate: true
+  xy: 728, 2
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+up
+  rotate: true
+  xy: 853, 110
+  size: 144, 142
+  orig: 150, 151
+  offset: 3, 5
+  index: -1
+

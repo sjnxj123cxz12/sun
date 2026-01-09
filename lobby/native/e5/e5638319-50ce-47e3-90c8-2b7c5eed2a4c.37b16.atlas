@@ -1,0 +1,167 @@
+
+LHL_38.png
+size: 665,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char_HappyBuddha head
+  rotate: false
+  xy: 589, 127
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Char_HappyBuddha head arm
+  rotate: true
+  xy: 590, 330
+  size: 66, 54
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Char_HappyBuddha head arm RIGHT
+  rotate: true
+  xy: 509, 5
+  size: 69, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+Char_HappyBuddha head fan
+  rotate: false
+  xy: 578, 204
+  size: 74, 87
+  orig: 75, 88
+  offset: 0, 1
+  index: -1
+Char_HappyBuddha trunk
+  rotate: true
+  xy: 417, 160
+  size: 131, 159
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+Icon_ankhang
+  rotate: false
+  xy: 424, 2
+  size: 83, 72
+  orig: 85, 74
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 125
+  size: 231, 402
+  orig: 231, 402
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 213, 14
+  size: 131, 45
+  orig: 132, 47
+  offset: 1, 1
+  index: -1
+gold
+  rotate: true
+  xy: 592, 8
+  size: 31, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hutien
+  rotate: true
+  xy: 469, 398
+  size: 129, 169
+  orig: 151, 169
+  offset: 1, 0
+  index: -1
+jp
+  rotate: false
+  xy: 235, 89
+  size: 221, 46
+  orig: 221, 46
+  offset: 0, 0
+  index: -1
+lion
+  rotate: true
+  xy: 235, 137
+  size: 137, 180
+  orig: 137, 180
+  offset: 0, 0
+  index: -1
+lion big eye
+  rotate: false
+  xy: 346, 25
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+lion big eye 1
+  rotate: false
+  xy: 589, 91
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+lion big eye 2
+  rotate: true
+  xy: 592, 41
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+lion fur
+  rotate: true
+  xy: 590, 293
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+lion head
+  rotate: false
+  xy: 235, 276
+  size: 179, 143
+  orig: 179, 143
+  offset: 0, 0
+  index: -1
+lion jaw
+  rotate: false
+  xy: 458, 76
+  size: 129, 82
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+lion small eye
+  rotate: true
+  xy: 639, 109
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+red
+  rotate: true
+  xy: 213, 61
+  size: 26, 209
+  orig: 26, 209
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 2, 17
+  size: 209, 106
+  orig: 225, 126
+  offset: 16, 10
+  index: -1
+title
+  rotate: false
+  xy: 416, 293
+  size: 172, 103
+  orig: 172, 103
+  offset: 0, 0
+  index: -1
+title-bg
+  rotate: false
+  xy: 235, 421
+  size: 232, 106
+  orig: 232, 114
+  offset: 0, 0
+  index: -1

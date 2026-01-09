@@ -1,0 +1,265 @@
+
+AD_Symbol_Wild_Genie.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 814, 8
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+Arm Right
+  rotate: false
+  xy: 1226, 50
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 756, 123
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+Body Smoke
+  rotate: false
+  xy: 662, 102
+  size: 92, 152
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+Diamond 1
+  rotate: true
+  xy: 1363, 20
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 2
+  rotate: true
+  xy: 1385, 116
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 3
+  rotate: true
+  xy: 1396, 188
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 4
+  rotate: true
+  xy: 1415, 48
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 5
+  rotate: true
+  xy: 1437, 120
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 6
+  rotate: true
+  xy: 1448, 188
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 7
+  rotate: true
+  xy: 1467, 52
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Diamond 8
+  rotate: true
+  xy: 1489, 120
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: true
+  xy: 474, 5
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+Forearm Left
+  rotate: true
+  xy: 1123, 7
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+Forearm Left Bright
+  rotate: true
+  xy: 1203, 7
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+Forearm Right
+  rotate: false
+  xy: 1308, 172
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Forearm Right Bright
+  rotate: false
+  xy: 1336, 88
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1357, 184
+  size: 70, 37
+  orig: 70, 38
+  offset: 0, 1
+  index: -1
+Hair Bright
+  rotate: false
+  xy: 662, 78
+  size: 28, 22
+  orig: 70, 38
+  offset: 42, 1
+  index: -1
+Hand Left
+  rotate: false
+  xy: 604, 5
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+Hand Right
+  rotate: false
+  xy: 1274, 68
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1283, 9
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Lamp Copper
+  rotate: false
+  xy: 1102, 152
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Lamp Glow
+  rotate: false
+  xy: 872, 125
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+Lamp Gold
+  rotate: false
+  xy: 1123, 48
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Lamp Silver
+  rotate: false
+  xy: 1205, 152
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Lamp Smoke
+  rotate: false
+  xy: 604, 78
+  size: 56, 176
+  orig: 56, 176
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 55, 16
+  size: 238, 417
+  orig: 238, 417
+  offset: 0, 0
+  index: -1
+Layer 5 copy
+  rotate: true
+  xy: 474, 22
+  size: 232, 128
+  orig: 232, 128
+  offset: 0, 0
+  index: -1
+Sand Dust
+  rotate: true
+  xy: 1001, 150
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+Slot
+  rotate: false
+  xy: 864, 13
+  size: 257, 108
+  orig: 257, 108
+  offset: 0, 0
+  index: -1
+Sparkle Copper
+  rotate: false
+  xy: 1500, 200
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Sparkle Gold
+  rotate: false
+  xy: 1519, 64
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Sparkle Silver
+  rotate: false
+  xy: 1519, 8
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Spin Smoke
+  rotate: false
+  xy: 713, 2
+  size: 99, 98
+  orig: 102, 99
+  offset: 1, 1
+  index: -1
+lb_khung_ten (1)
+  rotate: true
+  xy: 2, 7
+  size: 247, 51
+  orig: 247, 51
+  offset: 0, 0
+  index: -1
+lb_money_icon
+  rotate: false
+  xy: 642, 6
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1

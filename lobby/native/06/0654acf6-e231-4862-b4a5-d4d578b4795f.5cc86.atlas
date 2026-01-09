@@ -1,0 +1,440 @@
+pokeraof.png
+size: 1159, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+AoF_1
+  rotate: true
+  xy: 1143, 228
+  size: 16, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+AoF_2
+  rotate: true
+  xy: 1143, 246
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+AoF_3
+  rotate: true
+  xy: 1143, 283
+  size: 36, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+AoF_4
+  rotate: false
+  xy: 158, 6
+  size: 32, 14
+  orig: 41, 14
+  offset: 6, 0
+  index: -1
+AoF_5
+  rotate: true
+  xy: 1143, 321
+  size: 40, 14
+  orig: 44, 14
+  offset: 2, 0
+  index: -1
+AoF_6
+  rotate: true
+  xy: 1143, 363
+  size: 41, 14
+  orig: 42, 14
+  offset: 1, 0
+  index: -1
+AoF_7
+  rotate: true
+  xy: 1088, 2
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+AoF_8
+  rotate: true
+  xy: 192, 2
+  size: 18, 13
+  orig: 20, 13
+  offset: 2, 0
+  index: -1
+BG
+  rotate: false
+  xy: 227, 170
+  size: 222, 351
+  orig: 222, 351
+  offset: 0, 0
+  index: -1
+Card
+  rotate: false
+  xy: 451, 350
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card1
+  rotate: false
+  xy: 451, 177
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card2
+  rotate: false
+  xy: 581, 350
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card3
+  rotate: false
+  xy: 581, 177
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card4
+  rotate: false
+  xy: 711, 350
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card5
+  rotate: false
+  xy: 711, 177
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card6
+  rotate: false
+  xy: 841, 350
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card7
+  rotate: false
+  xy: 841, 177
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card8
+  rotate: false
+  xy: 971, 350
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card9
+  rotate: false
+  xy: 971, 177
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Card_back
+  rotate: true
+  xy: 294, 48
+  size: 120, 171
+  orig: 120, 171
+  offset: 0, 0
+  index: -1
+Chip1
+  rotate: false
+  xy: 620, 8
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+Chip2
+  rotate: true
+  xy: 1065, 98
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+Chip3
+  rotate: false
+  xy: 787, 41
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+Chip_sd
+  rotate: false
+  xy: 940, 27
+  size: 62, 62
+  orig: 82, 92
+  offset: 17, 12
+  index: -1
+Gen_F
+  rotate: true
+  xy: 1124, 226
+  size: 80, 17
+  orig: 102, 23
+  offset: 10, 3
+  index: -1
+Gen_Sconfesti1
+  rotate: false
+  xy: 1146, 510
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Gen_Sconfesti2
+  rotate: false
+  xy: 1146, 497
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Gen_Sconfesti3
+  rotate: true
+  xy: 1146, 485
+  size: 10, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Gen_Spark
+  rotate: false
+  xy: 1004, 38
+  size: 59, 54
+  orig: 60, 55
+  offset: 1, 0
+  index: -1
+Gen_SparkG
+  rotate: false
+  xy: 1065, 38
+  size: 38, 58
+  orig: 45, 63
+  offset: 5, 2
+  index: -1
+Gen_Swirl
+  rotate: true
+  xy: 158, 22
+  size: 138, 134
+  orig: 141, 143
+  offset: 1, 4
+  index: -1
+Gen_blurcir
+  rotate: false
+  xy: 2, 6
+  size: 154, 154
+  orig: 168, 168
+  offset: 7, 7
+  index: -1
+Gen_bokeh1
+  rotate: false
+  xy: 604, 67
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+Gen_bokeh2
+  rotate: true
+  xy: 693, 2
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Gen_cir
+  rotate: false
+  xy: 693, 83
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Gen_confesti1
+  rotate: false
+  xy: 981, 94
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+Gen_confesti2
+  rotate: true
+  xy: 294, 2
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Gen_lighttopbg
+  rotate: false
+  xy: 693, 68
+  size: 89, 13
+  orig: 93, 16
+  offset: 0, 0
+  index: -1
+Gen_lineshine1
+  rotate: true
+  xy: 549, 12
+  size: 43, 69
+  orig: 44, 70
+  offset: 1, 1
+  index: -1
+Gen_lineshine2
+  rotate: false
+  xy: 1105, 47
+  size: 35, 49
+  orig: 36, 51
+  offset: 1, 1
+  index: -1
+Gen_soundeff
+  rotate: false
+  xy: 895, 91
+  size: 84, 84
+  orig: 92, 85
+  offset: 7, 0
+  index: -1
+Gen_spark1
+  rotate: false
+  xy: 1128, 141
+  size: 29, 42
+  orig: 45, 45
+  offset: 10, 1
+  index: -1
+Gen_sparkB
+  rotate: false
+  xy: 1128, 122
+  size: 28, 17
+  orig: 30, 22
+  offset: 2, 2
+  index: -1
+Spades_Shine
+  rotate: false
+  xy: 1101, 406
+  size: 43, 115
+  orig: 47, 130
+  offset: 2, 6
+  index: -1
+Text_AoF
+  rotate: true
+  xy: 1101, 192
+  size: 114, 21
+  orig: 115, 23
+  offset: 1, 1
+  index: -1
+Text_Crown1
+  rotate: false
+  xy: 1101, 177
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Text_E
+  rotate: true
+  xy: 812, 8
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Text_K
+  rotate: false
+  xy: 1105, 5
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Text_P
+  rotate: true
+  xy: 1004, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Text_R
+  rotate: true
+  xy: 1046, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Text_Spades
+  rotate: true
+  xy: 864, 7
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Text_line
+  rotate: false
+  xy: 2, 2
+  size: 179, 2
+  orig: 185, 2
+  offset: 1, 0
+  index: -1
+Text_shine1
+  rotate: false
+  xy: 908, 27
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Text_shine2
+  rotate: false
+  xy: 1125, 185
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Text_shine3
+  rotate: false
+  xy: 864, 49
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Text_shine4
+  rotate: false
+  xy: 370, 6
+  size: 95, 40
+  orig: 97, 40
+  offset: 1, 0
+  index: -1
+Text_shine5
+  rotate: true
+  xy: 1101, 308
+  size: 96, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+Text_shine6
+  rotate: false
+  xy: 467, 15
+  size: 80, 40
+  orig: 81, 40
+  offset: 1, 0
+  index: -1
+Text_shine7
+  rotate: false
+  xy: 771, 4
+  size: 39, 35
+  orig: 40, 36
+  offset: 1, 1
+  index: -1
+app37/template_icon_boder
+  rotate: false
+  xy: 2, 162
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+card_sd
+  rotate: true
+  xy: 787, 97
+  size: 78, 106
+  orig: 80, 108
+  offset: 1, 1
+  index: -1
+goldfoid
+  rotate: true
+  xy: 467, 57
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+

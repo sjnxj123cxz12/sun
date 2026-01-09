@@ -1,0 +1,69 @@
+
+Header37.png
+size: 1560,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HD_light_1
+  rotate: false
+  xy: 0, 15
+  size: 89, 10
+  orig: 89, 10
+  offset: 0, 0
+  index: -1
+HD_light_2
+  rotate: false
+  xy: 954, 67
+  size: 359, 35
+  orig: 359, 35
+  offset: 0, 0
+  index: -1
+Particle_KT_1
+  rotate: false
+  xy: 954, 0
+  size: 306, 65
+  orig: 306, 65
+  offset: 0, 0
+  index: -1
+Particle_KT_2
+  rotate: false
+  xy: 0, 27
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1
+btn_naptien
+  rotate: false
+  xy: 1315, 21
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+header
+  rotate: false
+  xy: 0, 104
+  size: 1560, 131
+  orig: 1560, 131
+  offset: 0, 0
+  index: -1
+header-1
+  rotate: false
+  xy: 1398, 24
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+lb_money_icon (1)
+  rotate: false
+  xy: 1474, 34
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+sun_0005_khung_tien2
+  rotate: false
+  xy: 477, 27
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1
