@@ -1,0 +1,27 @@
+
+18-CaNgua.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 46, 2
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 12
+  size: 42, 50
+  orig: 44, 52
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 46, 23
+  size: 46, 39
+  orig: 48, 41
+  offset: 1, 1
+  index: -1

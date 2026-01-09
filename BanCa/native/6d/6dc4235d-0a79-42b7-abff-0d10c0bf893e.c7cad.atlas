@@ -1,0 +1,349 @@
+
+Thang-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin-Banca/10
+  rotate: false
+  xy: 88, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/11
+  rotate: false
+  xy: 174, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/12
+  rotate: false
+  xy: 260, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/13
+  rotate: false
+  xy: 2, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/14
+  rotate: false
+  xy: 88, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/15
+  rotate: false
+  xy: 174, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/16
+  rotate: false
+  xy: 260, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/17
+  rotate: false
+  xy: 346, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/18
+  rotate: false
+  xy: 2, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/19
+  rotate: false
+  xy: 88, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/2
+  rotate: false
+  xy: 2, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/20
+  rotate: false
+  xy: 174, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/21
+  rotate: false
+  xy: 260, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/22
+  rotate: false
+  xy: 346, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/23
+  rotate: false
+  xy: 432, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/24
+  rotate: false
+  xy: 88, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/25
+  rotate: true
+  xy: 2, 2
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/26
+  rotate: false
+  xy: 174, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/27
+  rotate: false
+  xy: 260, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/28
+  rotate: false
+  xy: 346, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/29
+  rotate: false
+  xy: 432, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/3
+  rotate: false
+  xy: 2, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/30
+  rotate: false
+  xy: 518, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/31
+  rotate: false
+  xy: 174, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/32
+  rotate: false
+  xy: 260, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/33
+  rotate: false
+  xy: 346, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/34
+  rotate: false
+  xy: 432, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/35
+  rotate: false
+  xy: 518, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/36
+  rotate: false
+  xy: 604, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/37
+  rotate: false
+  xy: 260, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/38
+  rotate: true
+  xy: 156, 2
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/39
+  rotate: false
+  xy: 346, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/4
+  rotate: false
+  xy: 88, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/40
+  rotate: false
+  xy: 432, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/41
+  rotate: false
+  xy: 518, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/42
+  rotate: false
+  xy: 604, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/43
+  rotate: false
+  xy: 690, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/44
+  rotate: false
+  xy: 346, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/45
+  rotate: false
+  xy: 432, 242
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/46
+  rotate: false
+  xy: 518, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/47
+  rotate: false
+  xy: 604, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/48
+  rotate: false
+  xy: 690, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/49
+  rotate: false
+  xy: 776, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/5
+  rotate: false
+  xy: 2, 550
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/50
+  rotate: false
+  xy: 432, 88
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/6
+  rotate: false
+  xy: 88, 704
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/7
+  rotate: false
+  xy: 174, 858
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/8
+  rotate: false
+  xy: 2, 396
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+Coin-Banca/9
+  rotate: true
+  xy: 310, 2
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1

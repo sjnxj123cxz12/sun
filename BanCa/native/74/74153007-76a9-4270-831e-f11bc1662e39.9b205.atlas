@@ -1,0 +1,20 @@
+
+Ca-27.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 139, 28
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 135, 49
+  orig: 137, 51
+  offset: 1, 1
+  index: -1

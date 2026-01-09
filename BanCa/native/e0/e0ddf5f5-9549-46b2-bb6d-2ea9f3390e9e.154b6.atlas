@@ -1,0 +1,62 @@
+
+BanCa-Lobby-BackGroud-1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanCa/cay-1
+  rotate: false
+  xy: 447, 214
+  size: 146, 262
+  orig: 146, 262
+  offset: 0, 0
+  index: -1
+BanCa/cay-2
+  rotate: false
+  xy: 219, 127
+  size: 226, 349
+  orig: 226, 349
+  offset: 0, 0
+  index: -1
+BanCa/cay-3
+  rotate: false
+  xy: 595, 229
+  size: 141, 247
+  orig: 141, 247
+  offset: 0, 0
+  index: -1
+BanCa/cay-4
+  rotate: false
+  xy: 2, 41
+  size: 215, 435
+  orig: 215, 435
+  offset: 0, 0
+  index: -1
+ThuyCung-BackGroud/4 - Copy
+  rotate: false
+  xy: 447, 89
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+ThuyCung-BackGroud/fx-1
+  rotate: true
+  xy: 219, 2
+  size: 123, 210
+  orig: 123, 210
+  offset: 0, 0
+  index: -1
+ThuyCung-BackGroud/fx-2
+  rotate: false
+  xy: 738, 296
+  size: 168, 180
+  orig: 168, 180
+  offset: 0, 0
+  index: -1
+ThuyCung-BackGroud/fx-3
+  rotate: true
+  xy: 738, 230
+  size: 64, 106
+  orig: 64, 106
+  offset: 0, 0
+  index: -1

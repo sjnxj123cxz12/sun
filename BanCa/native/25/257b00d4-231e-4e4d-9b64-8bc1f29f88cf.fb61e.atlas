@@ -1,0 +1,27 @@
+
+Ca-36.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 185, 19
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 181, 43
+  orig: 183, 45
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 207, 19
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1

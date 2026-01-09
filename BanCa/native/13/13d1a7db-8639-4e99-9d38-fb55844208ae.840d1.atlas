@@ -1,0 +1,174 @@
+
+BanCa-BachTuoc.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BachTuoc-P/1
+  rotate: false
+  xy: 342, 161
+  size: 59, 69
+  orig: 114, 148
+  offset: 28, 46
+  index: -1
+BachTuoc-P/10
+  rotate: false
+  xy: 2, 370
+  size: 100, 140
+  orig: 114, 148
+  offset: 8, 0
+  index: -1
+BachTuoc-P/11
+  rotate: false
+  xy: 2, 228
+  size: 100, 140
+  orig: 114, 148
+  offset: 10, 0
+  index: -1
+BachTuoc-P/12
+  rotate: false
+  xy: 104, 370
+  size: 98, 140
+  orig: 114, 148
+  offset: 12, 0
+  index: -1
+BachTuoc-P/13
+  rotate: false
+  xy: 2, 87
+  size: 98, 139
+  orig: 114, 148
+  offset: 12, 0
+  index: -1
+BachTuoc-P/14
+  rotate: false
+  xy: 104, 232
+  size: 96, 136
+  orig: 114, 148
+  offset: 13, 2
+  index: -1
+BachTuoc-P/15
+  rotate: false
+  xy: 302, 378
+  size: 94, 132
+  orig: 114, 148
+  offset: 13, 4
+  index: -1
+BachTuoc-P/16
+  rotate: false
+  xy: 398, 383
+  size: 89, 127
+  orig: 114, 148
+  offset: 13, 6
+  index: -1
+BachTuoc-P/17
+  rotate: false
+  xy: 192, 114
+  size: 79, 116
+  orig: 114, 148
+  offset: 15, 11
+  index: -1
+BachTuoc-P/18
+  rotate: true
+  xy: 204, 304
+  size: 71, 96
+  orig: 114, 148
+  offset: 16, 20
+  index: -1
+BachTuoc-P/19
+  rotate: true
+  xy: 202, 232
+  size: 70, 86
+  orig: 114, 148
+  offset: 17, 29
+  index: -1
+BachTuoc-P/2
+  rotate: false
+  xy: 290, 232
+  size: 60, 70
+  orig: 114, 148
+  offset: 27, 45
+  index: -1
+BachTuoc-P/20
+  rotate: false
+  xy: 273, 155
+  size: 67, 75
+  orig: 114, 148
+  offset: 20, 40
+  index: -1
+BachTuoc-P/21
+  rotate: false
+  xy: 275, 7
+  size: 63, 71
+  orig: 114, 148
+  offset: 24, 44
+  index: -1
+BachTuoc-P/22
+  rotate: false
+  xy: 352, 239
+  size: 63, 70
+  orig: 114, 148
+  offset: 24, 45
+  index: -1
+BachTuoc-P/23
+  rotate: true
+  xy: 382, 314
+  size: 62, 69
+  orig: 114, 148
+  offset: 25, 46
+  index: -1
+BachTuoc-P/24
+  rotate: false
+  xy: 417, 243
+  size: 59, 69
+  orig: 114, 148
+  offset: 28, 46
+  index: -1
+BachTuoc-P/3
+  rotate: false
+  xy: 275, 80
+  size: 62, 73
+  orig: 114, 148
+  offset: 25, 42
+  index: -1
+BachTuoc-P/4
+  rotate: true
+  xy: 302, 311
+  size: 65, 78
+  orig: 114, 148
+  offset: 22, 37
+  index: -1
+BachTuoc-P/5
+  rotate: false
+  xy: 2, 2
+  size: 69, 83
+  orig: 114, 148
+  offset: 18, 32
+  index: -1
+BachTuoc-P/6
+  rotate: true
+  xy: 102, 35
+  size: 73, 89
+  orig: 114, 148
+  offset: 15, 26
+  index: -1
+BachTuoc-P/7
+  rotate: false
+  xy: 193, 12
+  size: 80, 100
+  orig: 114, 148
+  offset: 12, 20
+  index: -1
+BachTuoc-P/8
+  rotate: false
+  xy: 102, 110
+  size: 88, 116
+  orig: 114, 148
+  offset: 9, 11
+  index: -1
+BachTuoc-P/9
+  rotate: false
+  xy: 204, 377
+  size: 96, 133
+  orig: 114, 148
+  offset: 6, 3
+  index: -1

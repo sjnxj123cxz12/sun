@@ -1,0 +1,62 @@
+
+JackPot-2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5 1
+  rotate: false
+  xy: 364, 260
+  size: 253, 192
+  orig: 255, 194
+  offset: 1, 1
+  index: -1
+5 2
+  rotate: false
+  xy: 802, 389
+  size: 52, 63
+  orig: 54, 65
+  offset: 1, 1
+  index: -1
+5 3
+  rotate: false
+  xy: 2, 2
+  size: 52, 63
+  orig: 54, 65
+  offset: 1, 1
+  index: -1
+5 4
+  rotate: false
+  xy: 364, 194
+  size: 52, 64
+  orig: 54, 66
+  offset: 1, 1
+  index: -1
+5 5
+  rotate: false
+  xy: 364, 194
+  size: 52, 64
+  orig: 54, 66
+  offset: 1, 1
+  index: -1
+fx-1
+  rotate: false
+  xy: 619, 269
+  size: 181, 183
+  orig: 181, 183
+  offset: 0, 0
+  index: -1
+fx-3
+  rotate: false
+  xy: 2, 102
+  size: 360, 350
+  orig: 360, 350
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 67
+  size: 120, 33
+  orig: 120, 33
+  offset: 0, 0
+  index: -1

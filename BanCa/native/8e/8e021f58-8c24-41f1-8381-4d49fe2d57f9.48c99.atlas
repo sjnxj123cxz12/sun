@@ -1,0 +1,34 @@
+
+Ca-43.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 30, 5
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 47, 8
+  size: 17, 20
+  orig: 19, 22
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 66, 20
+  size: 11, 8
+  orig: 13, 10
+  offset: 1, 1
+  index: -1

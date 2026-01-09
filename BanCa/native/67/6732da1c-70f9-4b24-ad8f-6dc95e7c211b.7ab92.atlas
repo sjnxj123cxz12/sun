@@ -1,0 +1,195 @@
+
+BanCa-Lobby-ChoiThu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 30
+  rotate: false
+  xy: 391, 163
+  size: 428, 347
+  orig: 428, 347
+  offset: 0, 0
+  index: -1
+Layer 58 copy
+  rotate: false
+  xy: 821, 372
+  size: 453, 138
+  orig: 453, 138
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: true
+  xy: 821, 225
+  size: 145, 307
+  orig: 145, 307
+  offset: 0, 0
+  index: -1
+Layer 65 copy
+  rotate: true
+  xy: 2, 10
+  size: 104, 220
+  orig: 104, 220
+  offset: 0, 0
+  index: -1
+Layer 68 copy
+  rotate: true
+  xy: 1130, 217
+  size: 153, 137
+  orig: 153, 137
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: false
+  xy: 2, 116
+  size: 387, 394
+  orig: 387, 394
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: false
+  xy: 1772, 179
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+Layer 72-1
+  rotate: false
+  xy: 556, 10
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Layer 73
+  rotate: false
+  xy: 1543, 384
+  size: 220, 126
+  orig: 220, 126
+  offset: 0, 0
+  index: -1
+Layer 73 copy
+  rotate: false
+  xy: 1269, 224
+  size: 179, 103
+  orig: 179, 103
+  offset: 0, 0
+  index: -1
+Layer 73 copy 3
+  rotate: false
+  xy: 1782, 279
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+Layer 74
+  rotate: true
+  xy: 923, 26
+  size: 132, 153
+  orig: 132, 153
+  offset: 0, 0
+  index: -1
+Layer 75
+  rotate: false
+  xy: 556, 38
+  size: 203, 123
+  orig: 203, 123
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: true
+  xy: 821, 160
+  size: 63, 238
+  orig: 63, 238
+  offset: 0, 0
+  index: -1
+Layer 76 copy
+  rotate: true
+  xy: 1543, 320
+  size: 62, 237
+  orig: 62, 237
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: true
+  xy: 391, 2
+  size: 159, 163
+  orig: 159, 163
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: false
+  xy: 1078, 47
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+Layer 79
+  rotate: false
+  xy: 1695, 221
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: false
+  xy: 1542, 221
+  size: 151, 97
+  orig: 151, 97
+  offset: 0, 0
+  index: -1
+Layer 81
+  rotate: false
+  xy: 1873, 198
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+Layer 82
+  rotate: false
+  xy: 1276, 329
+  size: 265, 181
+  orig: 265, 181
+  offset: 0, 0
+  index: -1
+Layer 83
+  rotate: true
+  xy: 1450, 212
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 761, 32
+  size: 160, 126
+  orig: 160, 126
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: false
+  xy: 1765, 384
+  size: 199, 126
+  orig: 199, 126
+  offset: 0, 0
+  index: -1
+Layer 86
+  rotate: true
+  xy: 224, 2
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+Layer 87
+  rotate: false
+  xy: 328, 51
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Layer 88
+  rotate: false
+  xy: 1966, 393
+  size: 73, 117
+  orig: 73, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Ca-48.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 229, 19
+  size: 34, 19
+  orig: 35, 20
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 203, 2
+  size: 14, 15
+  orig: 15, 15
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 199, 51
+  orig: 199, 52
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 203, 19
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1

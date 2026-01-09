@@ -1,0 +1,27 @@
+
+Lobby-Icon-HuongDan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huongdan1
+  rotate: false
+  xy: 167, 78
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 280, 134
+  size: 164, 33
+  orig: 164, 33
+  offset: 0, 0
+  index: -1
+vi1
+  rotate: false
+  xy: 2, 2
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1

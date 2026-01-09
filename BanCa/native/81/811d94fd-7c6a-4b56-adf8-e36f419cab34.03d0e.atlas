@@ -1,0 +1,90 @@
+
+Ca-38.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ca-38/1
+  rotate: false
+  xy: 2, 102
+  size: 208, 140
+  orig: 210, 142
+  offset: 1, 1
+  index: -1
+Ca-38/10
+  rotate: false
+  xy: 383, 169
+  size: 61, 73
+  orig: 63, 75
+  offset: 1, 1
+  index: -1
+Ca-38/11
+  rotate: false
+  xy: 212, 120
+  size: 122, 122
+  orig: 124, 124
+  offset: 1, 1
+  index: -1
+Ca-38/12
+  rotate: false
+  xy: 212, 85
+  size: 62, 33
+  orig: 64, 35
+  offset: 1, 1
+  index: -1
+Ca-38/2
+  rotate: true
+  xy: 446, 167
+  size: 75, 55
+  orig: 77, 57
+  offset: 1, 1
+  index: -1
+Ca-38/3
+  rotate: false
+  xy: 439, 120
+  size: 62, 45
+  orig: 64, 47
+  offset: 1, 1
+  index: -1
+Ca-38/4
+  rotate: true
+  xy: 2, 71
+  size: 29, 125
+  orig: 31, 127
+  offset: 1, 1
+  index: -1
+Ca-38/5
+  rotate: false
+  xy: 336, 136
+  size: 45, 106
+  orig: 47, 108
+  offset: 1, 1
+  index: -1
+Ca-38/6
+  rotate: false
+  xy: 383, 115
+  size: 54, 52
+  orig: 56, 54
+  offset: 1, 1
+  index: -1
+Ca-38/7
+  rotate: true
+  xy: 2, 4
+  size: 65, 80
+  orig: 67, 82
+  offset: 1, 1
+  index: -1
+Ca-38/8
+  rotate: true
+  xy: 276, 78
+  size: 40, 51
+  orig: 42, 53
+  offset: 1, 1
+  index: -1
+Ca-38/9
+  rotate: false
+  xy: 84, 2
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1

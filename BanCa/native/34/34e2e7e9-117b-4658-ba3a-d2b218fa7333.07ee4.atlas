@@ -1,0 +1,69 @@
+
+BanCa-Gun-2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun-2-P/1
+  rotate: false
+  xy: 2, 33
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+Gun-2-P/2
+  rotate: false
+  xy: 97, 188
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+Gun-2-P/3
+  rotate: false
+  xy: 170, 205
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+Gun-2-P/4
+  rotate: false
+  xy: 97, 155
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Gun-2-P/5
+  rotate: false
+  xy: 46, 4
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Gun-2-P/6
+  rotate: true
+  xy: 76, 82
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+Gun-2-P/7
+  rotate: false
+  xy: 2, 2
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+Gun-2-P/8
+  rotate: false
+  xy: 130, 167
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+fx-1
+  rotate: false
+  xy: 2, 129
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1

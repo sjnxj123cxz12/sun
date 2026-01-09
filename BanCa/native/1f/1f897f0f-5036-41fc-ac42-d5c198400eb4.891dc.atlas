@@ -1,0 +1,111 @@
+
+BanCa-JackPot.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JackPot-TienNu-P/1
+  rotate: true
+  xy: 915, 472
+  size: 219, 412
+  orig: 267, 459
+  offset: 27, 42
+  index: -1
+JackPot-TienNu-P/10
+  rotate: false
+  xy: 208, 57
+  size: 259, 395
+  orig: 267, 459
+  offset: 4, 59
+  index: -1
+JackPot-TienNu-P/11
+  rotate: false
+  xy: 469, 97
+  size: 258, 377
+  orig: 267, 459
+  offset: 5, 78
+  index: -1
+JackPot-TienNu-P/12
+  rotate: false
+  xy: 729, 106
+  size: 256, 364
+  orig: 267, 459
+  offset: 7, 90
+  index: -1
+JackPot-TienNu-P/13
+  rotate: false
+  xy: 987, 105
+  size: 255, 365
+  orig: 267, 459
+  offset: 8, 89
+  index: -1
+JackPot-TienNu-P/14
+  rotate: false
+  xy: 1792, 529
+  size: 252, 375
+  orig: 267, 459
+  offset: 11, 79
+  index: -1
+JackPot-TienNu-P/15
+  rotate: true
+  xy: 1329, 271
+  size: 234, 396
+  orig: 267, 459
+  offset: 20, 58
+  index: -1
+JackPot-TienNu-P/2
+  rotate: true
+  xy: 903, 693
+  size: 211, 439
+  orig: 267, 459
+  offset: 31, 14
+  index: -1
+JackPot-TienNu-P/3
+  rotate: false
+  xy: 2, 454
+  size: 219, 450
+  orig: 267, 459
+  offset: 31, 9
+  index: -1
+JackPot-TienNu-P/4
+  rotate: false
+  xy: 2, 2
+  size: 204, 450
+  orig: 267, 459
+  offset: 34, 5
+  index: -1
+JackPot-TienNu-P/5
+  rotate: true
+  xy: 1344, 712
+  size: 192, 446
+  orig: 267, 459
+  offset: 39, 5
+  index: -1
+JackPot-TienNu-P/6
+  rotate: true
+  xy: 479, 476
+  size: 191, 434
+  orig: 267, 459
+  offset: 39, 19
+  index: -1
+JackPot-TienNu-P/7
+  rotate: true
+  xy: 1344, 507
+  size: 203, 423
+  orig: 267, 459
+  offset: 32, 30
+  index: -1
+JackPot-TienNu-P/8
+  rotate: true
+  xy: 479, 669
+  size: 235, 422
+  orig: 267, 459
+  offset: 16, 32
+  index: -1
+JackPot-TienNu-P/9
+  rotate: false
+  xy: 223, 496
+  size: 254, 408
+  orig: 267, 459
+  offset: 6, 46
+  index: -1

@@ -1,0 +1,76 @@
+
+JacPot-1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effects1
+  rotate: false
+  xy: 0, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L1
+  rotate: false
+  xy: 0, 183
+  size: 512, 69
+  orig: 512, 69
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 130, 105
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 443, 156
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+L4
+  rotate: false
+  xy: 130, 53
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+L5
+  rotate: true
+  xy: 514, 214
+  size: 38, 106
+  orig: 38, 106
+  offset: 0, 0
+  index: -1
+L6
+  rotate: true
+  xy: 274, 110
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+L7
+  rotate: false
+  xy: 365, 108
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+L8
+  rotate: false
+  xy: 0, 0
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+suoding_02
+  rotate: false
+  xy: 514, 185
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

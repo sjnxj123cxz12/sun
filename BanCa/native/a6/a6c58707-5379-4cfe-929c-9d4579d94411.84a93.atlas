@@ -1,0 +1,41 @@
+
+Ca-31.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 230, 102
+  size: 16, 24
+  orig: 18, 26
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 27
+  size: 25, 47
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 29, 53
+  size: 21, 48
+  orig: 23, 50
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 76
+  size: 226, 42
+  orig: 228, 44
+  offset: 1, 1
+  index: -1

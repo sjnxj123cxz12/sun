@@ -1,0 +1,124 @@
+
+BanCa-NoHu-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 2, 309
+  size: 761, 680
+  orig: 761, 680
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 29
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Layer 17 copy 3
+  rotate: false
+  xy: 279, 265
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 191
+  size: 137, 116
+  orig: 137, 116
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 904, 940
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 141, 191
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+Layer 7 copy 2
+  rotate: false
+  xy: 765, 873
+  size: 137, 116
+  orig: 137, 116
+  offset: 0, 0
+  index: -1
+Layer 7 copy 3
+  rotate: false
+  xy: 765, 755
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+Layer 7 copy 4
+  rotate: false
+  xy: 2, 73
+  size: 137, 116
+  orig: 137, 116
+  offset: 0, 0
+  index: -1
+Layer 7 copy 5
+  rotate: false
+  xy: 141, 73
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+Layer 8 copy
+  rotate: false
+  xy: 765, 704
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Layer 8 copy 2
+  rotate: false
+  xy: 904, 907
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Layer 8 copy 3
+  rotate: false
+  xy: 954, 958
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Layer 8 copy 4
+  rotate: false
+  xy: 2, 2
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+
+BanCa-NoHu-12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 2, 418
+  size: 633, 339
+  orig: 633, 339
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 2
+  size: 389, 414
+  orig: 389, 414
+  offset: 0, 0
+  index: -1

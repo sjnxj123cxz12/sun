@@ -1,0 +1,111 @@
+
+2-Tom-1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 97, 35
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+1-2
+  rotate: false
+  xy: 96, 23
+  size: 29, 10
+  orig: 31, 12
+  offset: 1, 1
+  index: -1
+1-3
+  rotate: false
+  xy: 2, 4
+  size: 29, 12
+  orig: 31, 14
+  offset: 1, 1
+  index: -1
+1-4
+  rotate: false
+  xy: 96, 2
+  size: 23, 19
+  orig: 25, 21
+  offset: 1, 1
+  index: -1
+2-1
+  rotate: true
+  xy: 56, 19
+  size: 30, 11
+  orig: 32, 13
+  offset: 1, 1
+  index: -1
+2-2
+  rotate: false
+  xy: 33, 6
+  size: 29, 10
+  orig: 31, 12
+  offset: 1, 1
+  index: -1
+2-3
+  rotate: false
+  xy: 31, 51
+  size: 28, 9
+  orig: 30, 11
+  offset: 1, 1
+  index: -1
+2-4
+  rotate: false
+  xy: 64, 8
+  size: 24, 7
+  orig: 26, 9
+  offset: 1, 1
+  index: -1
+3-1
+  rotate: true
+  xy: 69, 17
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+3-2
+  rotate: true
+  xy: 2, 18
+  size: 31, 52
+  orig: 33, 54
+  offset: 1, 1
+  index: -1
+4-1
+  rotate: true
+  xy: 69, 36
+  size: 17, 26
+  orig: 19, 28
+  offset: 1, 1
+  index: -1
+4-2
+  rotate: false
+  xy: 31, 62
+  size: 37, 64
+  orig: 39, 66
+  offset: 1, 1
+  index: -1
+5-1
+  rotate: false
+  xy: 70, 55
+  size: 25, 71
+  orig: 27, 73
+  offset: 1, 1
+  index: -1
+5-2
+  rotate: false
+  xy: 97, 56
+  size: 22, 70
+  orig: 24, 72
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 2, 51
+  size: 27, 75
+  orig: 29, 77
+  offset: 1, 1
+  index: -1

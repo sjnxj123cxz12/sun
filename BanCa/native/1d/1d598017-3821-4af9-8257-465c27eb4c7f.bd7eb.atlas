@@ -1,0 +1,27 @@
+
+Lobby-Icon-XepHang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+text3
+  rotate: false
+  xy: 2, 2
+  size: 146, 27
+  orig: 146, 27
+  offset: 0, 0
+  index: -1
+vi3
+  rotate: false
+  xy: 2, 31
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+vinhdanh1
+  rotate: false
+  xy: 167, 80
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
