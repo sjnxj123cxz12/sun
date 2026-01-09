@@ -1,0 +1,96 @@
+UI_BigWin.png
+size: 650,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board_Red
+  rotate: true
+  xy: 450, 86
+  size: 207, 149
+  orig: 207, 149
+  offset: 0, 0
+  index: -1
+Chuc_Mung_Nam_Moi
+  rotate: false
+  xy: 2, 132
+  size: 96, 632
+  orig: 96, 632
+  offset: 0, 0
+  index: -1
+Kumquat
+  rotate: true
+  xy: 2, 17
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+Kumquat_Back
+  rotate: false
+  xy: 105, 35
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 766
+  size: 645, 251
+  orig: 645, 251
+  offset: 0, 0
+  index: -1
+Light_Board
+  rotate: false
+  xy: 100, 162
+  size: 348, 131
+  orig: 348, 131
+  offset: 0, 0
+  index: -1
+Scoll_Green_Horizontal
+  rotate: true
+  xy: 601, 107
+  size: 186, 13
+  orig: 186, 13
+  offset: 0, 0
+  index: -1
+Scroll
+  rotate: true
+  xy: 105, 122
+  size: 38, 156
+  orig: 38, 156
+  offset: 0, 0
+  index: -1
+Scroll_Blue
+  rotate: false
+  xy: 100, 452
+  size: 547, 155
+  orig: 547, 155
+  offset: 0, 0
+  index: -1
+Scroll_Green
+  rotate: false
+  xy: 100, 609
+  size: 548, 155
+  orig: 548, 155
+  offset: 0, 0
+  index: -1
+Scroll_Horizontal
+  rotate: true
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+Scroll_Violet
+  rotate: false
+  xy: 100, 295
+  size: 547, 155
+  orig: 547, 155
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 195, 72
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+GAMEBONUS_PACKED.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 186, 202
+  size: 138, 304
+  orig: 138, 304
+  offset: 0, 0
+  index: -1
+Layer
+  rotate: false
+  xy: 2, 257
+  size: 182, 249
+  orig: 182, 249
+  offset: 0, 0
+  index: -1
+minigame_card
+  rotate: false
+  xy: 2, 6
+  size: 182, 249
+  orig: 182, 249
+  offset: 0, 0
+  index: -1
+minigame_ring
+  rotate: true
+  xy: 393, 61
+  size: 156, 134
+  orig: 156, 134
+  offset: 0, 0
+  index: -1

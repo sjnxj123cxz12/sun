@@ -1,0 +1,488 @@
+Symbol_Jackpot_BonusG_Lotus.png
+size: 1009,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100%
+  rotate: false
+  xy: 354, 331
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+100_Bonus_Text
+  rotate: true
+  xy: 931, 458
+  size: 106, 36
+  orig: 106, 36
+  offset: 0, 0
+  index: -1
+100_Bonus_Text_Disable
+  rotate: false
+  xy: 589, 37
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+100_Disable
+  rotate: false
+  xy: 196, 269
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+100_Frame
+  rotate: false
+  xy: 390, 547
+  size: 157, 144
+  orig: 157, 144
+  offset: 0, 0
+  index: -1
+100_Frame_00
+  rotate: false
+  xy: 2, 505
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+25%
+  rotate: true
+  xy: 608, 208
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+25_Bonus_Disable
+  rotate: true
+  xy: 354, 413
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+25_Bonus_Text
+  rotate: true
+  xy: 903, 83
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+25_Disable
+  rotate: true
+  xy: 663, 209
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+25_Frame
+  rotate: false
+  xy: 390, 402
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+25_Frame_00
+  rotate: false
+  xy: 2, 317
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+50%
+  rotate: false
+  xy: 375, 18
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+50_Bonus_Disable
+  rotate: true
+  xy: 969, 466
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+50_Bonus_Text
+  rotate: true
+  xy: 864, 72
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+50_Disable
+  rotate: false
+  xy: 482, 18
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+50_Frame
+  rotate: false
+  xy: 549, 547
+  size: 157, 144
+  orig: 157, 144
+  offset: 0, 0
+  index: -1
+50_Frame_00
+  rotate: false
+  xy: 196, 505
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+Big_Glow_13_00
+  rotate: false
+  xy: 2, 134
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+Disable_Frame
+  rotate: false
+  xy: 708, 548
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+Egg
+  rotate: false
+  xy: 874, 175
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Egg_Disable
+  rotate: false
+  xy: 744, 52
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Lotus_1
+  rotate: true
+  xy: 939, 119
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Lotus_10
+  rotate: false
+  xy: 506, 331
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Lotus_11
+  rotate: false
+  xy: 907, 549
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Lotus_12
+  rotate: false
+  xy: 864, 52
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Lotus_13
+  rotate: false
+  xy: 252, 2
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Lotus_2
+  rotate: false
+  xy: 745, 9
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Lotus_3
+  rotate: true
+  xy: 589, 24
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+Lotus_4
+  rotate: true
+  xy: 548, 376
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+Lotus_5
+  rotate: true
+  xy: 788, 2
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+Lotus_6
+  rotate: true
+  xy: 697, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+Lotus_7
+  rotate: true
+  xy: 339, 157
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Lotus_8
+  rotate: false
+  xy: 850, 29
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Lotus_9
+  rotate: false
+  xy: 316, 240
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Lotus_B_1
+  rotate: true
+  xy: 989, 117
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+Lotus_B_2
+  rotate: false
+  xy: 867, 548
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+Lotus_B_3
+  rotate: false
+  xy: 340, 186
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Lotus_B_3_Glow
+  rotate: false
+  xy: 788, 24
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Lotus_B_4
+  rotate: false
+  xy: 939, 89
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Lotus_B_4_Glow
+  rotate: false
+  xy: 931, 418
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Lotus_B_5
+  rotate: true
+  xy: 316, 193
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+Lotus_B_5_Glow
+  rotate: true
+  xy: 506, 347
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+Lotus_B_6
+  rotate: true
+  xy: 718, 262
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Lotus_B_6_Glow
+  rotate: false
+  xy: 697, 51
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Lotus_B_7
+  rotate: true
+  xy: 829, 24
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Lotus_B_7_Glow
+  rotate: false
+  xy: 570, 347
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Lotus_B_8
+  rotate: true
+  xy: 316, 157
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Lotus_B_8_Glow
+  rotate: true
+  xy: 539, 331
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Lotus_Light_40
+  rotate: false
+  xy: 196, 337
+  size: 156, 166
+  orig: 156, 166
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_00
+  rotate: false
+  xy: 548, 424
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_01
+  rotate: true
+  xy: 129, 4
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_02
+  rotate: false
+  xy: 186, 146
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_03
+  rotate: false
+  xy: 348, 208
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_04
+  rotate: true
+  xy: 252, 16
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_05
+  rotate: true
+  xy: 375, 78
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_06
+  rotate: false
+  xy: 478, 208
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_07
+  rotate: true
+  xy: 498, 78
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_08
+  rotate: false
+  xy: 678, 424
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_09
+  rotate: true
+  xy: 808, 418
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_10
+  rotate: false
+  xy: 608, 301
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_11
+  rotate: false
+  xy: 738, 295
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_12
+  rotate: false
+  xy: 868, 295
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_13
+  rotate: true
+  xy: 621, 78
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Lotus_fbf/Lotus_14
+  rotate: false
+  xy: 744, 172
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Particle
+  rotate: false
+  xy: 718, 242
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Slash_23
+  rotate: false
+  xy: 2, 7
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Slash_23_Disable
+  rotate: false
+  xy: 867, 566
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 994, 678
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

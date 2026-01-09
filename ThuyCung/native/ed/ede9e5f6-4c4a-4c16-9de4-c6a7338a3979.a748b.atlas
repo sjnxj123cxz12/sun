@@ -1,0 +1,139 @@
+
+manh vo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ruongdo/RD 01
+  rotate: true
+  xy: 898, 383
+  size: 127, 124
+  orig: 129, 126
+  offset: 1, 1
+  index: -1
+Ruongdo/RD 01 1
+  rotate: false
+  xy: 264, 143
+  size: 143, 135
+  orig: 145, 137
+  offset: 1, 1
+  index: -1
+Ruongdo/RD 02
+  rotate: false
+  xy: 548, 195
+  size: 126, 127
+  orig: 128, 129
+  offset: 1, 1
+  index: -1
+Ruongdo/RD 03
+  rotate: false
+  xy: 409, 142
+  size: 137, 136
+  orig: 139, 138
+  offset: 1, 1
+  index: -1
+Ruongdo/RD 04
+  rotate: false
+  xy: 77, 39
+  size: 152, 160
+  orig: 154, 162
+  offset: 1, 1
+  index: -1
+Ruongdo/RD thuyen 3
+  rotate: false
+  xy: 77, 4
+  size: 132, 33
+  orig: 134, 35
+  offset: 1, 1
+  index: -1
+Tiennu/TN Than
+  rotate: false
+  xy: 2, 201
+  size: 260, 309
+  orig: 262, 311
+  offset: 1, 1
+  index: -1
+Tiennu/TN duoi ca 1
+  rotate: false
+  xy: 684, 408
+  size: 212, 102
+  orig: 214, 104
+  offset: 1, 1
+  index: -1
+Tiennu/TN nhay mat
+  rotate: false
+  xy: 830, 290
+  size: 55, 52
+  orig: 57, 54
+  offset: 1, 1
+  index: -1
+Tiennu/TN nhay mat 1
+  rotate: false
+  xy: 211, 2
+  size: 40, 35
+  orig: 42, 37
+  offset: 1, 1
+  index: -1
+Tiennu/TN tay tr
+  rotate: false
+  xy: 830, 344
+  size: 64, 62
+  orig: 66, 64
+  offset: 1, 1
+  index: -1
+Tiennu/TN tim 1
+  rotate: false
+  xy: 548, 172
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+Tiennu/TN tim 2
+  rotate: false
+  xy: 231, 183
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+Tiennu/TN toc ph
+  rotate: false
+  xy: 528, 324
+  size: 154, 186
+  orig: 156, 188
+  offset: 1, 1
+  index: -1
+Tiennu/TN toc tr
+  rotate: true
+  xy: 684, 286
+  size: 120, 144
+  orig: 122, 146
+  offset: 1, 1
+  index: -1
+Tiennu/TN trong mat
+  rotate: false
+  xy: 528, 303
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+Tiennu/TN trong mat 1
+  rotate: false
+  xy: 528, 285
+  size: 15, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+Tiennu/Tn duoi ca 2
+  rotate: true
+  xy: 2, 2
+  size: 197, 73
+  orig: 199, 75
+  offset: 1, 1
+  index: -1
+chai_mo
+  rotate: false
+  xy: 264, 280
+  size: 262, 230
+  orig: 262, 230
+  offset: 0, 0
+  index: -1

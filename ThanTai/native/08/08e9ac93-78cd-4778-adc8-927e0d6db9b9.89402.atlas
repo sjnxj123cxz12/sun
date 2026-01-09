@@ -1,0 +1,90 @@
+
+GAMEBONUS_PACKED.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minigame_icon_1
+  rotate: false
+  xy: 326, 219
+  size: 145, 97
+  orig: 145, 97
+  offset: 0, 0
+  index: -1
+minigame_icon_10
+  rotate: false
+  xy: 609, 369
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+minigame_icon_11
+  rotate: false
+  xy: 475, 222
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+minigame_icon_12
+  rotate: true
+  xy: 733, 370
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+minigame_icon_2
+  rotate: true
+  xy: 475, 359
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+minigame_icon_3
+  rotate: true
+  xy: 729, 231
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+minigame_icon_4
+  rotate: false
+  xy: 651, 91
+  size: 125, 133
+  orig: 125, 133
+  offset: 0, 0
+  index: -1
+minigame_icon_5
+  rotate: false
+  xy: 609, 226
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+minigame_icon_6
+  rotate: false
+  xy: 778, 104
+  size: 118, 125
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+minigame_icon_7
+  rotate: false
+  xy: 853, 395
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+minigame_icon_8
+  rotate: true
+  xy: 778, 2
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+minigame_icon_9
+  rotate: true
+  xy: 529, 76
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1

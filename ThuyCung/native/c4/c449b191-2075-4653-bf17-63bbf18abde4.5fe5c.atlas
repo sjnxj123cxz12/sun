@@ -1,0 +1,48 @@
+
+Freespin_Bonus.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus
+  rotate: false
+  xy: 702, 348
+  size: 442, 142
+  orig: 450, 147
+  offset: 4, 3
+  index: -1
+freespin
+  rotate: false
+  xy: 2, 2
+  size: 477, 127
+  orig: 479, 137
+  offset: 2, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 131
+  size: 348, 359
+  orig: 348, 359
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 352, 131
+  size: 348, 359
+  orig: 348, 359
+  offset: 0, 0
+  index: -1
+moneo
+  rotate: true
+  xy: 1146, 253
+  size: 237, 257
+  orig: 257, 257
+  offset: 13, 0
+  index: -1
+tienca
+  rotate: true
+  xy: 702, 98
+  size: 248, 314
+  orig: 248, 314
+  offset: 0, 0
+  index: -1
