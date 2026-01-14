@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1l
+  rotate: false
+  xy: 2, 362
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 338, 321
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+icon/icon_00000
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00001
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00002
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00031
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00032
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00033
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00034
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00035
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00036
+  rotate: false
+  xy: 2, 302
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00003
+  rotate: false
+  xy: 131, 434
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00004
+  rotate: false
+  xy: 2, 242
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00005
+  rotate: true
+  xy: 71, 293
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00006
+  rotate: false
+  xy: 131, 374
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00007
+  rotate: false
+  xy: 200, 434
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00008
+  rotate: false
+  xy: 2, 182
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00009
+  rotate: true
+  xy: 71, 224
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00010
+  rotate: false
+  xy: 131, 314
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00011
+  rotate: false
+  xy: 200, 374
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00012
+  rotate: false
+  xy: 269, 434
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00013
+  rotate: false
+  xy: 2, 122
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00014
+  rotate: true
+  xy: 71, 155
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00015
+  rotate: false
+  xy: 131, 254
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00016
+  rotate: false
+  xy: 200, 314
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00017
+  rotate: false
+  xy: 269, 374
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00018
+  rotate: false
+  xy: 338, 434
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00019
+  rotate: false
+  xy: 2, 62
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00020
+  rotate: true
+  xy: 71, 86
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00021
+  rotate: false
+  xy: 131, 194
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00022
+  rotate: false
+  xy: 200, 254
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00023
+  rotate: false
+  xy: 269, 314
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00024
+  rotate: false
+  xy: 338, 374
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00025
+  rotate: false
+  xy: 407, 434
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00026
+  rotate: false
+  xy: 2, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00027
+  rotate: true
+  xy: 71, 17
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00028
+  rotate: false
+  xy: 131, 134
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00029
+  rotate: false
+  xy: 200, 194
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+icon/icon_00030
+  rotate: false
+  xy: 269, 254
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1

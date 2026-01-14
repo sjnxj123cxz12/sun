@@ -1,0 +1,41 @@
+
+MiniPoker.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6.MiniPoker/Spine/79-NoHu/nohu-light
+  rotate: false
+  xy: 964, 585
+  size: 655, 414
+  orig: 655, 414
+  offset: 0, 0
+  index: -1
+6.MiniPoker/Spine/79-NoHu/nohu-text
+  rotate: true
+  xy: 1621, 449
+  size: 550, 211
+  orig: 550, 211
+  offset: 0, 0
+  index: -1
+6.MiniPoker/Spine/79-NoHu/tiger
+  rotate: false
+  xy: 964, 124
+  size: 497, 459
+  orig: 497, 459
+  offset: 0, 0
+  index: -1
+6.MiniPoker/images/nohu-light
+  rotate: false
+  xy: 2, 2
+  size: 960, 997
+  orig: 1000, 1000
+  offset: 40, 0
+  index: -1
+6.MiniPoker/images/nohu-text
+  rotate: true
+  xy: 1834, 576
+  size: 423, 198
+  orig: 423, 198
+  offset: 0, 0
+  index: -1

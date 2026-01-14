@@ -1,0 +1,62 @@
+
+icon2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turle Front L Leg
+  rotate: false
+  xy: 195, 77
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Turtle Back Leg
+  rotate: false
+  xy: 98, 3
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Turtle Back Shell
+  rotate: true
+  xy: 142, 43
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Turtle Eyes Close
+  rotate: true
+  xy: 137, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Turtle Face
+  rotate: false
+  xy: 142, 63
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Turtle Front R Leg
+  rotate: true
+  xy: 159, 8
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Turtle Lower Shell
+  rotate: true
+  xy: 98, 34
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+Turtle Shell
+  rotate: true
+  xy: 2, 9
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1

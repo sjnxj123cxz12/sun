@@ -1,0 +1,48 @@
+
+Mariothanglon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin
+  rotate: false
+  xy: 2, 815
+  size: 1067, 770
+  orig: 1067, 770
+  offset: 0, 0
+  index: -1
+Glow In
+  rotate: false
+  xy: 1071, 1192
+  size: 377, 393
+  orig: 377, 393
+  offset: 0, 0
+  index: -1
+Glow Out
+  rotate: false
+  xy: 2, 94
+  size: 734, 719
+  orig: 734, 719
+  offset: 0, 0
+  index: -1
+Lon
+  rotate: false
+  xy: 1071, 1049
+  size: 224, 141
+  orig: 224, 141
+  offset: 0, 0
+  index: -1
+Number
+  rotate: false
+  xy: 2, 2
+  size: 634, 90
+  orig: 634, 90
+  offset: 0, 0
+  index: -1
+Thang
+  rotate: true
+  xy: 738, 447
+  size: 366, 172
+  orig: 366, 172
+  offset: 0, 0
+  index: -1

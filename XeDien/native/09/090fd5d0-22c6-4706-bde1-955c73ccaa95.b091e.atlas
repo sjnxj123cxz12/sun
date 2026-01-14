@@ -1,0 +1,41 @@
+
+icon3.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goomba Body
+  rotate: false
+  xy: 2, 2
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+Goomba Eye
+  rotate: true
+  xy: 106, 29
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Goomba Feet
+  rotate: true
+  xy: 68, 7
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Goomba Head
+  rotate: false
+  xy: 2, 50
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+Goomba Jaw
+  rotate: true
+  xy: 92, 60
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+icon1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buzzy Beetle
+  rotate: false
+  xy: 113, 69
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+Buzzy Beetle B Shell
+  rotate: false
+  xy: 89, 6
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Buzzy Beetle Close Eyes
+  rotate: false
+  xy: 224, 50
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Buzzy Beetle L Leg
+  rotate: false
+  xy: 46, 2
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+Buzzy Beetle R Leg
+  rotate: false
+  xy: 217, 78
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Buzzy Beetle Shell
+  rotate: false
+  xy: 2, 37
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 166, 26
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 203, 26
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 2, 2
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 113, 26
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1

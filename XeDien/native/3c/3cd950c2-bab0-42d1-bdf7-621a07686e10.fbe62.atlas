@@ -1,0 +1,27 @@
+
+icon4.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mario Body
+  rotate: true
+  xy: 84, 22
+  size: 95, 38
+  orig: 95, 38
+  offset: 0, 0
+  index: -1
+Mario Close Eyes
+  rotate: false
+  xy: 2, 2
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+Mario Head
+  rotate: false
+  xy: 2, 25
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+icon0.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb
+  rotate: false
+  xy: 2, 2
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+Bomb 2
+  rotate: false
+  xy: 94, 65
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+fire_flame
+  rotate: false
+  xy: 94, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

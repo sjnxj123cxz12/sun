@@ -1,0 +1,97 @@
+
+Icon4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 458, 233
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 610, 386
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+lua
+  rotate: false
+  xy: 2, 2
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 2, 357
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no10
+  rotate: false
+  xy: 306, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no2
+  rotate: false
+  xy: 2, 204
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no3
+  rotate: false
+  xy: 154, 357
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no4
+  rotate: false
+  xy: 2, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no5
+  rotate: false
+  xy: 154, 204
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no6
+  rotate: false
+  xy: 306, 357
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no7
+  rotate: false
+  xy: 154, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no8
+  rotate: false
+  xy: 306, 204
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no9
+  rotate: false
+  xy: 458, 357
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1

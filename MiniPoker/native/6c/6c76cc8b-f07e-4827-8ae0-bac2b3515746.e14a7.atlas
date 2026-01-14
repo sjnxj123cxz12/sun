@@ -1,0 +1,55 @@
+
+MiniPoker-NoHu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bar
+  rotate: false
+  xy: 2, 160
+  size: 622, 135
+  orig: 622, 135
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 2, 2
+  size: 156, 210
+  orig: 156, 210
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 2, 297
+  size: 874, 722
+  orig: 874, 722
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 1703, 503
+  size: 216, 203
+  orig: 216, 203
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 1703, 721
+  size: 158, 298
+  orig: 158, 298
+  offset: 0, 0
+  index: -1
+Star Glow
+  rotate: false
+  xy: 878, 297
+  size: 823, 722
+  orig: 823, 722
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 1863, 794
+  size: 169, 225
+  orig: 169, 225
+  offset: 0, 0
+  index: -1

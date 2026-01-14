@@ -1,0 +1,118 @@
+
+Marionohu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow F
+  rotate: true
+  xy: 1071, 537
+  size: 602, 590
+  orig: 602, 590
+  offset: 0, 0
+  index: -1
+Gold
+  rotate: false
+  xy: 2, 369
+  size: 1067, 770
+  orig: 1067, 770
+  offset: 0, 0
+  index: -1
+Hu
+  rotate: false
+  xy: 1663, 510
+  size: 253, 190
+  orig: 253, 190
+  offset: 0, 0
+  index: -1
+No
+  rotate: false
+  xy: 290, 2
+  size: 230, 229
+  orig: 230, 229
+  offset: 0, 0
+  index: -1
+Rainbow
+  rotate: false
+  xy: 2, 1141
+  size: 1158, 900
+  orig: 1158, 900
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 233
+  size: 480, 134
+  orig: 480, 134
+  offset: 0, 0
+  index: -1
+Star 1
+  rotate: false
+  xy: 1384, 400
+  size: 173, 135
+  orig: 173, 135
+  offset: 0, 0
+  index: -1
+Star 2
+  rotate: false
+  xy: 641, 282
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+Star 5
+  rotate: false
+  xy: 1559, 416
+  size: 97, 119
+  orig: 97, 119
+  offset: 0, 0
+  index: -1
+Star 6
+  rotate: false
+  xy: 2, 35
+  size: 286, 196
+  orig: 286, 196
+  offset: 0, 0
+  index: -1
+Star 7
+  rotate: false
+  xy: 484, 240
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+Star 9
+  rotate: false
+  xy: 1663, 954
+  size: 306, 255
+  orig: 306, 255
+  offset: 0, 0
+  index: -1
+Star-4_0000_Layer-1
+  rotate: false
+  xy: 1162, 1149
+  size: 168, 60
+  orig: 168, 60
+  offset: 0, 0
+  index: -1
+Star-4_0001_Layer-0
+  rotate: false
+  xy: 1162, 1211
+  size: 829, 830
+  orig: 829, 830
+  offset: 0, 0
+  index: -1
+Star-8_0000_Layer-1
+  rotate: false
+  xy: 1071, 387
+  size: 311, 148
+  orig: 311, 148
+  offset: 0, 0
+  index: -1
+Star-8_0001_Layer-0
+  rotate: false
+  xy: 1663, 702
+  size: 304, 250
+  orig: 304, 250
+  offset: 0, 0
+  index: -1

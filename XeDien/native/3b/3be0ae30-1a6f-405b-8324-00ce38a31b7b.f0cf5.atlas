@@ -1,0 +1,20 @@
+
+icon9.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spike Body
+  rotate: false
+  xy: 2, 2
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+Spike Eyes
+  rotate: false
+  xy: 125, 104
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

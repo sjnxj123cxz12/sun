@@ -1,0 +1,55 @@
+
+Sukien-MiniPoker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SK-MiniPoker-Khung-P/2
+  rotate: false
+  xy: 2, 92
+  size: 461, 143
+  orig: 463, 145
+  offset: 1, 1
+  index: -1
+SK-MiniPoker-Khung-P/3
+  rotate: false
+  xy: 277, 51
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+SK-MiniPoker-Khung-P/4
+  rotate: true
+  xy: 465, 99
+  size: 136, 29
+  orig: 138, 31
+  offset: 1, 1
+  index: -1
+Text-P/1
+  rotate: false
+  xy: 2, 2
+  size: 81, 88
+  orig: 83, 90
+  offset: 1, 1
+  index: -1
+Text-P/2
+  rotate: false
+  xy: 85, 15
+  size: 66, 75
+  orig: 68, 77
+  offset: 1, 1
+  index: -1
+Text-P/3
+  rotate: false
+  xy: 223, 20
+  size: 52, 70
+  orig: 54, 72
+  offset: 1, 1
+  index: -1
+Text-P/4
+  rotate: false
+  xy: 153, 20
+  size: 68, 70
+  orig: 70, 72
+  offset: 1, 1
+  index: -1

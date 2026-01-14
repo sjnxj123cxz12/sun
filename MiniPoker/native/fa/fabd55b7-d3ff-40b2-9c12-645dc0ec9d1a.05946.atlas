@@ -1,0 +1,20 @@
+
+thang_lon.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 1285, 247
+  orig: 1285, 247
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 1289, 118
+  size: 637, 131
+  orig: 637, 131
+  offset: 0, 0
+  index: -1
