@@ -1,0 +1,41 @@
+
+anim_bigwin_fx.png
+size: 515,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare_bg
+  rotate: false
+  xy: 2, 2
+  size: 384, 379
+  orig: 389, 382
+  offset: 2, 0
+  index: -1
+glow/Particle Blue
+  rotate: false
+  xy: 388, 163
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+glow/gl
+  rotate: false
+  xy: 388, 92
+  size: 69, 69
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+glow/spark
+  rotate: false
+  xy: 388, 275
+  size: 125, 106
+  orig: 125, 106
+  offset: 0, 0
+  index: -1
+glow/star2
+  rotate: false
+  xy: 388, 46
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

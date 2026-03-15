@@ -1,0 +1,104 @@
+
+BaoTriXocDia789.png
+size: 1000,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/Bao
+  rotate: false
+  xy: 615, 3
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+Images/Dang
+  rotate: false
+  xy: 382, 7
+  size: 207, 62
+  orig: 207, 62
+  offset: 0, 0
+  index: -1
+Images/Do_1
+  rotate: false
+  xy: 853, 23
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Images/Do_2
+  rotate: false
+  xy: 939, 385
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Images/Game
+  rotate: false
+  xy: 578, 215
+  size: 214, 62
+  orig: 214, 62
+  offset: 0, 0
+  index: -1
+Images/Quy Khach Vui Long
+  rotate: false
+  xy: 0, 439
+  size: 1000, 107
+  orig: 1000, 107
+  offset: 0, 0
+  index: -1
+Images/Trang_1
+  rotate: false
+  xy: 839, 180
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Images/Trang_2
+  rotate: false
+  xy: 763, 0
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Images/Tri
+  rotate: false
+  xy: 839, 96
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+Images/effect
+  rotate: false
+  xy: 578, 279
+  size: 359, 158
+  orig: 359, 158
+  offset: 0, 0
+  index: -1
+Images/effect2
+  rotate: false
+  xy: 0, 8
+  size: 380, 61
+  orig: 380, 61
+  offset: 0, 0
+  index: -1
+Images/overlay
+  rotate: false
+  xy: 0, 179
+  size: 576, 258
+  orig: 576, 258
+  offset: 0, 0
+  index: -1
+Images/quay lai sau
+  rotate: false
+  xy: 0, 71
+  size: 613, 106
+  orig: 613, 106
+  offset: 0, 0
+  index: -1
+Images/sparkle
+  rotate: false
+  xy: 615, 90
+  size: 222, 123
+  orig: 222, 123
+  offset: 0, 0
+  index: -1

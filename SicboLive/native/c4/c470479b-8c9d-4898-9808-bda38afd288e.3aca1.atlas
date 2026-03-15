@@ -1,0 +1,173 @@
+SunXdLiveJP38.png
+size: 1347,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 1174, 37
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 1244, 50
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 1096, 37
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+C10
+  rotate: false
+  xy: 1271, 25
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+C11
+  rotate: false
+  xy: 1135, 6
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+C12
+  rotate: false
+  xy: 1135, 37
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 1096, 2
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 1174, 9
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+C4
+  rotate: false
+  xy: 1271, 6
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+C5
+  rotate: false
+  xy: 760, 0
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+C6
+  rotate: false
+  xy: 0, 0
+  size: 37, 6
+  orig: 37, 6
+  offset: 0, 0
+  index: -1
+C7
+  rotate: false
+  xy: 1174, 0
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+C8
+  rotate: false
+  xy: 1310, 12
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+C9
+  rotate: false
+  xy: 1310, 29
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 1310, 50
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+JP
+  rotate: false
+  xy: 760, 13
+  size: 334, 61
+  orig: 334, 61
+  offset: 0, 0
+  index: -1
+JPframe
+  rotate: false
+  xy: 0, 8
+  size: 378, 149
+  orig: 378, 149
+  offset: 0, 0
+  index: -1
+JPframeHL38
+  rotate: false
+  xy: 380, 8
+  size: 378, 149
+  orig: 378, 149
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 1277, 50
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 1209, 50
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 1242, 11
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 1212, 11
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+runningHL
+  rotate: false
+  xy: 760, 76
+  size: 433, 81
+  orig: 433, 81
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 1195, 89
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1

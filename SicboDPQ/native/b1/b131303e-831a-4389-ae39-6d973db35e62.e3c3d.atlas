@@ -1,0 +1,55 @@
+
+anim_md5.png
+size: 170,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare4
+  rotate: true
+  xy: 114, 59
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+frame_06
+  rotate: true
+  xy: 114, 146
+  size: 111, 53
+  orig: 500, 100
+  offset: 52, 23
+  index: -1
+frame_10
+  rotate: true
+  xy: 114, 259
+  size: 281, 54
+  orig: 500, 100
+  offset: 52, 23
+  index: -1
+frame_13
+  rotate: true
+  xy: 2, 154
+  size: 386, 54
+  orig: 500, 100
+  offset: 58, 23
+  index: -1
+frame_16
+  rotate: true
+  xy: 58, 215
+  size: 325, 54
+  orig: 500, 100
+  offset: 124, 23
+  index: -1
+frame_20
+  rotate: true
+  xy: 58, 2
+  size: 211, 54
+  orig: 500, 100
+  offset: 238, 23
+  index: -1
+frame_24
+  rotate: true
+  xy: 2, 52
+  size: 100, 52
+  orig: 500, 100
+  offset: 349, 25
+  index: -1

@@ -1,0 +1,160 @@
+
+anim_toast_win_table.png
+size: 1320,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border_gl_07
+  rotate: false
+  xy: 1235, 132
+  size: 76, 74
+  orig: 300, 200
+  offset: 112, 63
+  index: -1
+border_gl_13
+  rotate: true
+  xy: 1135, 132
+  size: 150, 98
+  orig: 300, 200
+  offset: 75, 51
+  index: -1
+border_gl_16
+  rotate: false
+  xy: 814, 2
+  size: 176, 98
+  orig: 300, 200
+  offset: 62, 51
+  index: -1
+border_gl_21
+  rotate: true
+  xy: 440, 84
+  size: 198, 98
+  orig: 300, 200
+  offset: 51, 51
+  index: -1
+border_gl_27
+  rotate: true
+  xy: 540, 84
+  size: 198, 98
+  orig: 300, 200
+  offset: 51, 51
+  index: -1
+border_gl_lvl2_07
+  rotate: false
+  xy: 1235, 208
+  size: 83, 74
+  orig: 300, 200
+  offset: 108, 64
+  index: -1
+border_gl_lvl2_11
+  rotate: false
+  xy: 690, 2
+  size: 122, 90
+  orig: 300, 200
+  offset: 89, 57
+  index: -1
+border_gl_lvl2_16
+  rotate: true
+  xy: 1037, 125
+  size: 157, 96
+  orig: 300, 200
+  offset: 72, 52
+  index: -1
+border_gl_lvl2_19
+  rotate: true
+  xy: 842, 118
+  size: 164, 96
+  orig: 300, 200
+  offset: 68, 52
+  index: -1
+border_gl_lvl2_23
+  rotate: true
+  xy: 940, 117
+  size: 165, 95
+  orig: 300, 200
+  offset: 68, 52
+  index: -1
+border_gl_lvl3_05
+  rotate: false
+  xy: 1242, 67
+  size: 67, 63
+  orig: 300, 200
+  offset: 116, 68
+  index: -1
+border_gl_lvl3_10
+  rotate: true
+  xy: 1148, 14
+  size: 116, 92
+  orig: 300, 200
+  offset: 92, 54
+  index: -1
+border_gl_lvl3_14
+  rotate: false
+  xy: 992, 16
+  size: 154, 99
+  orig: 300, 200
+  offset: 73, 50
+  index: -1
+border_gl_lvl3_18
+  rotate: true
+  xy: 741, 102
+  size: 180, 99
+  orig: 300, 200
+  offset: 61, 50
+  index: -1
+border_gl_lvl3_23
+  rotate: true
+  xy: 640, 94
+  size: 188, 99
+  orig: 300, 200
+  offset: 57, 51
+  index: -1
+decor
+  rotate: true
+  xy: 2, 9
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+decor_lvl3
+  rotate: true
+  xy: 2, 22
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 404, 10
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+frame_lvl2
+  rotate: false
+  xy: 546, 8
+  size: 142, 74
+  orig: 143, 74
+  offset: 0, 0
+  index: -1
+frame_lvl3
+  rotate: false
+  xy: 247, 2
+  size: 155, 65
+  orig: 155, 65
+  offset: 0, 0
+  index: -1
+glow_05
+  rotate: false
+  xy: 2, 38
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1
+particle_00
+  rotate: true
+  xy: 247, 69
+  size: 213, 191
+  orig: 213, 191
+  offset: 0, 0
+  index: -1

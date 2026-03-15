@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+batdau
+  rotate: false
+  xy: 614, 244
+  size: 197, 71
+  orig: 197, 71
+  offset: 0, 0
+  index: -1
+cho
+  rotate: false
+  xy: 807, 317
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+datcuoc
+  rotate: false
+  xy: 226, 215
+  size: 277, 80
+  orig: 277, 80
+  offset: 0, 0
+  index: -1
+fast
+  rotate: false
+  xy: 558, 371
+  size: 126, 10
+  orig: 126, 10
+  offset: 0, 0
+  index: -1
+flare1
+  rotate: false
+  xy: 2, 331
+  size: 610, 32
+  orig: 610, 32
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: false
+  xy: 2, 297
+  size: 610, 32
+  orig: 610, 32
+  offset: 0, 0
+  index: -1
+ketqua
+  rotate: false
+  xy: 505, 161
+  size: 240, 81
+  orig: 240, 81
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 2, 374
+  size: 554, 7
+  orig: 554, 7
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 2, 365
+  size: 554, 7
+  orig: 554, 7
+  offset: 0, 0
+  index: -1
+mobat
+  rotate: false
+  xy: 2, 219
+  size: 222, 76
+  orig: 222, 76
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 720, 157
+  orig: 720, 157
+  offset: 0, 0
+  index: -1
+tri1
+  rotate: true
+  xy: 745, 334
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+tri2
+  rotate: true
+  xy: 686, 337
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1

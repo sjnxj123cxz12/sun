@@ -1,0 +1,55 @@
+
+anim_preloader.png
+size: 501,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 204, 104
+  orig: 204, 104
+  offset: 0, 0
+  index: -1
+dice1
+  rotate: false
+  xy: 374, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dice2
+  rotate: false
+  xy: 440, 47
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dice3
+  rotate: false
+  xy: 294, 22
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 208, 11
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 374, 10
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 208, 22
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Go_XocDiaLive.png
+size: 128,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+TraiTim
+  rotate: false
+  xy: 73, 24
+  size: 53, 47
+  orig: 54, 48
+  offset: 0, 1
+  index: -1

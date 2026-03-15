@@ -1,0 +1,41 @@
+
+anim_fr_bet.png
+size: 210,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fr_bet
+  rotate: false
+  xy: 111, 58
+  size: 97, 26
+  orig: 97, 26
+  offset: 0, 0
+  index: -1
+fr_bet_bonus
+  rotate: false
+  xy: 111, 30
+  size: 97, 26
+  orig: 97, 26
+  offset: 0, 0
+  index: -1
+fr_bet_fail
+  rotate: false
+  xy: 109, 2
+  size: 97, 26
+  orig: 97, 26
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 39
+  size: 107, 45
+  orig: 107, 45
+  offset: 0, 0
+  index: -1
+shadow_new
+  rotate: false
+  xy: 2, 3
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1

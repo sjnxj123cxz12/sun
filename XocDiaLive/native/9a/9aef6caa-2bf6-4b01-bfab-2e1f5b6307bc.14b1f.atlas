@@ -1,0 +1,34 @@
+
+minigame_banner.png
+size: 496,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 391, 83
+  orig: 391, 83
+  offset: 0, 0
+  index: -1
+backlight1
+  rotate: true
+  xy: 461, 33
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+lightpub1
+  rotate: false
+  xy: 461, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+shine1
+  rotate: false
+  xy: 395, 21
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

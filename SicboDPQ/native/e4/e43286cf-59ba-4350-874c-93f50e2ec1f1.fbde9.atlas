@@ -1,0 +1,83 @@
+
+anim_fr_result.png
+size: 1079,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 293, 5
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 289, 17
+  orig: 289, 17
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 599, 19
+  size: 289, 58
+  orig: 289, 58
+  offset: 0, 0
+  index: -1
+banner1
+  rotate: false
+  xy: 308, 5
+  size: 289, 72
+  orig: 289, 72
+  offset: 0, 0
+  index: -1
+border1
+  rotate: false
+  xy: 304, 79
+  size: 331, 92
+  orig: 331, 97
+  offset: 0, 5
+  index: -1
+glow
+  rotate: false
+  xy: 2, 21
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+line_add
+  rotate: false
+  xy: 637, 89
+  size: 323, 82
+  orig: 323, 82
+  offset: 0, 0
+  index: -1
+star_org
+  rotate: false
+  xy: 962, 84
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+text_result_bao
+  rotate: false
+  xy: 940, 36
+  size: 88, 46
+  orig: 102, 53
+  offset: 8, 4
+  index: -1
+text_result_tai
+  rotate: true
+  xy: 1030, 7
+  size: 75, 47
+  orig: 91, 55
+  offset: 8, 5
+  index: -1
+text_result_xiu
+  rotate: true
+  xy: 890, 9
+  size: 78, 48
+  orig: 97, 57
+  offset: 11, 3
+  index: -1

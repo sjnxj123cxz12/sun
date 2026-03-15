@@ -1,0 +1,97 @@
+
+anim_reconnect.png
+size: 510,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_disabled_3947
+  rotate: false
+  xy: 2, 4
+  size: 117, 6
+  orig: 117, 6
+  offset: 0, 0
+  index: -1
+bar_enabled_3947
+  rotate: false
+  xy: 121, 2
+  size: 122, 10
+  orig: 128, 16
+  offset: 3, 1
+  index: -1
+icon_close
+  rotate: true
+  xy: 478, 3
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+icon_globe
+  rotate: false
+  xy: 245, 4
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+icon_pc_connected_3947
+  rotate: true
+  xy: 172, 15
+  size: 61, 33
+  orig: 86, 71
+  offset: 13, 30
+  index: -1
+icon_pc_connected_light_3947
+  rotate: false
+  xy: 400, 36
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+icon_pc_disabled_3947
+  rotate: false
+  xy: 86, 14
+  size: 84, 62
+  orig: 86, 71
+  offset: 1, 7
+  index: -1
+wifi_0
+  rotate: false
+  xy: 318, 13
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+wifi_1
+  rotate: true
+  xy: 228, 20
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+wifi_2
+  rotate: true
+  xy: 228, 38
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+wifi_3
+  rotate: true
+  xy: 207, 19
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+wifi_4
+  rotate: false
+  xy: 400, 11
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+wifi_all
+  rotate: false
+  xy: 2, 12
+  size: 82, 64
+  orig: 90, 73
+  offset: 4, 6
+  index: -1

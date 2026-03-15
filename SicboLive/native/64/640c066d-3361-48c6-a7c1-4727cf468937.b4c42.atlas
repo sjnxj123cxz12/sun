@@ -1,0 +1,251 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100K
+  rotate: false
+  xy: 0, 26
+  size: 178, 109
+  orig: 178, 109
+  offset: 0, 0
+  index: -1
+10K
+  rotate: false
+  xy: 178, 53
+  size: 156, 119
+  orig: 156, 119
+  offset: 0, 0
+  index: -1
+10TR
+  rotate: true
+  xy: 0, 318
+  size: 191, 106
+  orig: 191, 106
+  offset: 0, 0
+  index: -1
+1K
+  rotate: true
+  xy: 326, 216
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+1TR
+  rotate: true
+  xy: 106, 341
+  size: 168, 114
+  orig: 168, 114
+  offset: 0, 0
+  index: -1
+2K
+  rotate: true
+  xy: 218, 177
+  size: 164, 108
+  orig: 164, 108
+  offset: 0, 0
+  index: -1
+500K
+  rotate: true
+  xy: 0, 135
+  size: 183, 107
+  orig: 183, 107
+  offset: 0, 0
+  index: -1
+50K
+  rotate: true
+  xy: 220, 351
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+5K
+  rotate: false
+  xy: 334, 66
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+5TR
+  rotate: true
+  xy: 107, 172
+  size: 169, 111
+  orig: 169, 111
+  offset: 0, 0
+  index: -1
+Group 24
+  rotate: false
+  xy: 192, 2
+  size: 196, 51
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+fr/Confetti Pop Tiny_00000
+  rotate: true
+  xy: 107, 136
+  size: 36, 28
+  orig: 100, 100
+  offset: 33, 51
+  index: -1
+fr/Confetti Pop Tiny_00001
+  rotate: false
+  xy: 326, 177
+  size: 51, 39
+  orig: 100, 100
+  offset: 23, 47
+  index: -1
+fr/Confetti Pop Tiny_00002
+  rotate: true
+  xy: 632, 207
+  size: 57, 45
+  orig: 100, 100
+  offset: 20, 43
+  index: -1
+fr/Confetti Pop Tiny_00003
+  rotate: true
+  xy: 524, 16
+  size: 63, 48
+  orig: 100, 100
+  offset: 17, 41
+  index: -1
+fr/Confetti Pop Tiny_00004
+  rotate: true
+  xy: 693, 440
+  size: 69, 53
+  orig: 100, 100
+  offset: 14, 38
+  index: -1
+fr/Confetti Pop Tiny_00005
+  rotate: false
+  xy: 672, 371
+  size: 73, 56
+  orig: 100, 100
+  offset: 12, 36
+  index: -1
+fr/Confetti Pop Tiny_00006
+  rotate: false
+  xy: 593, 364
+  size: 79, 60
+  orig: 100, 100
+  offset: 9, 33
+  index: -1
+fr/Confetti Pop Tiny_00007
+  rotate: false
+  xy: 510, 360
+  size: 83, 64
+  orig: 100, 100
+  offset: 6, 31
+  index: -1
+fr/Confetti Pop Tiny_00008
+  rotate: false
+  xy: 422, 356
+  size: 88, 68
+  orig: 100, 100
+  offset: 4, 28
+  index: -1
+fr/Confetti Pop Tiny_00009
+  rotate: false
+  xy: 330, 352
+  size: 92, 72
+  orig: 100, 100
+  offset: 1, 25
+  index: -1
+fr/Confetti Pop Tiny_00010
+  rotate: false
+  xy: 537, 185
+  size: 95, 75
+  orig: 100, 100
+  offset: 0, 22
+  index: -1
+fr/Confetti Pop Tiny_00011
+  rotate: false
+  xy: 440, 179
+  size: 97, 78
+  orig: 100, 100
+  offset: 0, 19
+  index: -1
+fr/Confetti Pop Tiny_00012
+  rotate: false
+  xy: 594, 427
+  size: 99, 82
+  orig: 100, 100
+  offset: 0, 16
+  index: -1
+fr/Confetti Pop Tiny_00013
+  rotate: false
+  xy: 494, 424
+  size: 100, 85
+  orig: 100, 100
+  offset: 0, 14
+  index: -1
+fr/Confetti Pop Tiny_00014
+  rotate: true
+  xy: 653, 7
+  size: 100, 89
+  orig: 100, 100
+  offset: 0, 11
+  index: -1
+fr/Confetti Pop Tiny_00015
+  rotate: true
+  xy: 629, 264
+  size: 100, 92
+  orig: 100, 100
+  offset: 0, 8
+  index: -1
+fr/Confetti Pop Tiny_00016
+  rotate: true
+  xy: 563, 85
+  size: 100, 90
+  orig: 100, 100
+  offset: 0, 6
+  index: -1
+fr/Confetti Pop Tiny_00017
+  rotate: true
+  xy: 653, 107
+  size: 100, 90
+  orig: 100, 100
+  offset: 0, 5
+  index: -1
+fr/Confetti Pop Tiny_00018
+  rotate: true
+  xy: 470, 79
+  size: 100, 93
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+fr/Confetti Pop Tiny_00019
+  rotate: true
+  xy: 535, 260
+  size: 100, 94
+  orig: 100, 100
+  offset: 0, 1
+  index: -1
+fr/Confetti Pop Tiny_00020
+  rotate: true
+  xy: 440, 257
+  size: 99, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+light open
+  rotate: false
+  xy: 330, 424
+  size: 164, 85
+  orig: 179, 100
+  offset: 15, 4
+  index: -1
+qua
+  rotate: false
+  xy: 388, 0
+  size: 136, 66
+  orig: 136, 73
+  offset: 0, 5
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 0
+  size: 192, 26
+  orig: 192, 26
+  offset: 0, 0
+  index: -1

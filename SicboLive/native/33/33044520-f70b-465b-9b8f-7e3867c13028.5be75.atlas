@@ -1,0 +1,90 @@
+
+tx-live38.png
+size: 571,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TAI
+  rotate: false
+  xy: 182, 0
+  size: 151, 146
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+XIU
+  rotate: false
+  xy: 0, 4
+  size: 180, 142
+  orig: 180, 142
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 335, 35
+  size: 115, 113
+  orig: 115, 113
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 452, 78
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 0, 310
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+dice
+  rotate: false
+  xy: 277, 192
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 452, 33
+  size: 114, 43
+  orig: 114, 43
+  offset: 0, 0
+  index: -1
+livestream
+  rotate: false
+  xy: 0, 240
+  size: 358, 68
+  orig: 358, 68
+  offset: 0, 0
+  index: -1
+metoer
+  rotate: false
+  xy: 360, 150
+  size: 198, 119
+  orig: 198, 119
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 0, 148
+  size: 275, 90
+  orig: 275, 90
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: false
+  xy: 402, 271
+  size: 157, 130
+  orig: 157, 130
+  offset: 0, 0
+  index: -1
+sd2
+  rotate: false
+  xy: 402, 403
+  size: 169, 132
+  orig: 169, 132
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+animsicbo.png
+size: 287,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-chen new
+  rotate: true
+  xy: 1, 271
+  size: 222, 285
+  orig: 222, 285
+  offset: 0, 0
+  index: -1
+anhsang
+  rotate: true
+  xy: 1, 1
+  size: 268, 274
+  orig: 268, 274
+  offset: 0, 0
+  index: -1

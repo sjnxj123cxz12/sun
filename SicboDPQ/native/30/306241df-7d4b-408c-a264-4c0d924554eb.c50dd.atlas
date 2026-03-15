@@ -1,0 +1,62 @@
+
+anim_toast_win_other.png
+size: 1114,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border_03
+  rotate: false
+  xy: 888, 8
+  size: 110, 92
+  orig: 300, 200
+  offset: 95, 54
+  index: -1
+border_09
+  rotate: false
+  xy: 748, 2
+  size: 138, 98
+  orig: 300, 200
+  offset: 81, 51
+  index: -1
+border_13
+  rotate: false
+  xy: 596, 2
+  size: 150, 98
+  orig: 300, 200
+  offset: 75, 51
+  index: -1
+border_19
+  rotate: false
+  xy: 402, 2
+  size: 192, 98
+  orig: 300, 200
+  offset: 54, 51
+  index: -1
+border_26
+  rotate: false
+  xy: 2, 2
+  size: 198, 98
+  orig: 300, 200
+  offset: 51, 51
+  index: -1
+border_32
+  rotate: false
+  xy: 202, 2
+  size: 198, 98
+  orig: 300, 200
+  offset: 51, 51
+  index: -1
+frame_refund
+  rotate: false
+  xy: 1000, 55
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
+frame_win
+  rotate: false
+  xy: 1000, 8
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
