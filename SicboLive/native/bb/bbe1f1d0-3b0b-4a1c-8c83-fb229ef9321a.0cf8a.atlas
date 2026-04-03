@@ -1,0 +1,90 @@
+
+N_time.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boomerang_01
+  rotate: true
+  xy: 117, 39
+  size: 55, 53
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+F13
+  rotate: true
+  xy: 210, 314
+  size: 34, 80
+  orig: 37, 83
+  offset: 1, 1
+  index: -1
+backsquarevfx
+  rotate: false
+  xy: 210, 351
+  size: 186, 155
+  orig: 188, 157
+  offset: 1, 1
+  index: -1
+bg_t
+  rotate: true
+  xy: 186, 140
+  size: 137, 224
+  orig: 145, 225
+  offset: 8, 0
+  index: -1
+circle1
+  rotate: false
+  xy: 3, 97
+  size: 180, 180
+  orig: 256, 256
+  offset: 38, 38
+  index: -1
+circle14
+  rotate: true
+  xy: 293, 317
+  size: 31, 79
+  orig: 37, 83
+  offset: 4, 0
+  index: -1
+clock
+  rotate: false
+  xy: 186, 5
+  size: 134, 132
+  orig: 138, 134
+  offset: 3, 1
+  index: -1
+dot1
+  rotate: false
+  xy: 3, 280
+  size: 204, 226
+  orig: 211, 232
+  offset: 7, 0
+  index: -1
+dot_patt
+  rotate: false
+  xy: 117, 12
+  size: 24, 24
+  orig: 30, 30
+  offset: 3, 3
+  index: -1
+elip2
+  rotate: true
+  xy: 399, 340
+  size: 166, 97
+  orig: 168, 105
+  offset: 1, 1
+  index: -1
+sparkles_v
+  rotate: false
+  xy: 323, 19
+  size: 120, 118
+  orig: 140, 135
+  offset: 11, 6
+  index: -1
+timer_w1
+  rotate: false
+  xy: 3, 3
+  size: 111, 91
+  orig: 196, 113
+  offset: 74, 21
+  index: -1

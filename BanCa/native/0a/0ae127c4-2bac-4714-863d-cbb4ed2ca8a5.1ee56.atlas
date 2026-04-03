@@ -1,0 +1,97 @@
+
+Fx_LevelUp.png
+size: 388,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_x18/Fx (1)
+  rotate: false
+  xy: 210, 350
+  size: 138, 129
+  orig: 225, 178
+  offset: 30, 20
+  index: -1
+11_x18/Fx (2)
+  rotate: true
+  xy: 212, 620
+  size: 207, 170
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+11_x18/Fx (3)
+  rotate: false
+  xy: 2, 471
+  size: 206, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+11_x18/Fx (4)
+  rotate: false
+  xy: 2, 651
+  size: 208, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+11_x18/Fx (5)
+  rotate: false
+  xy: 2, 291
+  size: 204, 178
+  orig: 225, 178
+  offset: 4, 0
+  index: -1
+11_x18/Fx (6)
+  rotate: true
+  xy: 208, 146
+  size: 202, 178
+  orig: 225, 178
+  offset: 7, 0
+  index: -1
+11_x18/Fx (7)
+  rotate: true
+  xy: 212, 829
+  size: 206, 174
+  orig: 225, 178
+  offset: 3, 0
+  index: -1
+11_x18/Fx (8)
+  rotate: false
+  xy: 210, 481
+  size: 159, 137
+  orig: 225, 178
+  offset: 28, 22
+  index: -1
+11_x18/Glow2a
+  rotate: true
+  xy: 2, 831
+  size: 204, 208
+  orig: 238, 241
+  offset: 19, 18
+  index: -1
+11_x18/Sparkle
+  rotate: false
+  xy: 300, 60
+  size: 84, 84
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+11_x18/fx2B
+  rotate: false
+  xy: 199, 45
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+11_x18/fx2a
+  rotate: false
+  xy: 2, 2
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+11_x18/fx_aura
+  rotate: true
+  xy: 2, 110
+  size: 179, 195
+  orig: 188, 198
+  offset: 9, 0
+  index: -1

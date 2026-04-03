@@ -1,0 +1,181 @@
+
+volta_win_anim.png
+size: 1890,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpots_cup
+  rotate: true
+  xy: 1589, 103
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cup2
+  rotate: true
+  xy: 1541, 101
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Jackpots_cupS1
+  rotate: false
+  xy: 1630, 6
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS2
+  rotate: true
+  xy: 1686, 104
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS3
+  rotate: false
+  xy: 1687, 7
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS4
+  rotate: false
+  xy: 1744, 7
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS5
+  rotate: false
+  xy: 1719, 172
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS6
+  rotate: false
+  xy: 1776, 172
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS7
+  rotate: true
+  xy: 1783, 115
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_cupS8
+  rotate: false
+  xy: 1833, 172
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Jackpots_sd
+  rotate: false
+  xy: 1654, 161
+  size: 63, 106
+  orig: 63, 106
+  offset: 0, 0
+  index: -1
+Jackpots_sd2
+  rotate: false
+  xy: 1589, 160
+  size: 63, 107
+  orig: 63, 107
+  offset: 0, 0
+  index: -1
+away
+  rotate: true
+  xy: 1402, 52
+  size: 215, 49
+  orig: 215, 49
+  offset: 0, 0
+  index: -1
+away_sd
+  rotate: true
+  xy: 1345, 46
+  size: 221, 55
+  orig: 221, 55
+  offset: 0, 0
+  index: -1
+backtext
+  rotate: false
+  xy: 1388, 4
+  size: 166, 40
+  orig: 166, 40
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1510, 100
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+glass2
+  rotate: false
+  xy: 988, 17
+  size: 355, 250
+  orig: 355, 250
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 1453, 47
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+home_sd
+  rotate: true
+  xy: 1453, 98
+  size: 169, 55
+  orig: 169, 55
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1345, 3
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+line_b
+  rotate: false
+  xy: 1556, 5
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+loe
+  rotate: false
+  xy: 1801, 27
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+result
+  rotate: false
+  xy: 2, 2
+  size: 742, 265
+  orig: 742, 265
+  offset: 0, 0
+  index: -1
+toa1
+  rotate: false
+  xy: 1510, 132
+  size: 77, 135
+  orig: 77, 135
+  offset: 0, 0
+  index: -1
+xoay1
+  rotate: false
+  xy: 746, 2
+  size: 240, 265
+  orig: 240, 265
+  offset: 0, 0
+  index: -1

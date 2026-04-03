@@ -1,0 +1,90 @@
+
+PACKED_emoticons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10/aw
+  rotate: true
+  xy: 1860, 235
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+10/bong
+  rotate: true
+  xy: 2, 114
+  size: 140, 31
+  orig: 141, 31
+  offset: 1, 0
+  index: -1
+10/giay
+  rotate: true
+  xy: 1028, 2
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+10/giay2
+  rotate: false
+  xy: 420, 114
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+10/khuonmat
+  rotate: false
+  xy: 1284, 177
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+10/mat
+  rotate: false
+  xy: 1826, 234
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+10/mieng
+  rotate: false
+  xy: 1505, 190
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+10/mieng2
+  rotate: false
+  xy: 1685, 211
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+10/tay1
+  rotate: true
+  xy: 1721, 182
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+10/tay2
+  rotate: false
+  xy: 55, 2
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+10/tay3
+  rotate: true
+  xy: 1705, 145
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+10/tay4
+  rotate: true
+  xy: 1674, 60
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1

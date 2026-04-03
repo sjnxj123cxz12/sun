@@ -1,0 +1,97 @@
+
+bet_quy.png
+size: 1280,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_1
+  rotate: false
+  xy: 544, 61
+  size: 354, 344
+  orig: 354, 344
+  offset: 0, 0
+  index: -1
+FX_3
+  rotate: false
+  xy: 1092, 110
+  size: 186, 167
+  orig: 186, 167
+  offset: 0, 0
+  index: -1
+FX_6
+  rotate: false
+  xy: 900, 87
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+MD5
+  rotate: false
+  xy: 486, 168
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+q_1
+  rotate: false
+  xy: 1127, 15
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+q_2
+  rotate: false
+  xy: 1092, 63
+  size: 110, 45
+  orig: 110, 45
+  offset: 0, 0
+  index: -1
+quy_1
+  rotate: false
+  xy: 2, 205
+  size: 540, 200
+  orig: 540, 200
+  offset: 0, 0
+  index: -1
+quy_2
+  rotate: false
+  xy: 2, 7
+  size: 482, 196
+  orig: 482, 196
+  offset: 0, 0
+  index: -1
+quy_3
+  rotate: false
+  xy: 900, 279
+  size: 329, 126
+  orig: 329, 126
+  offset: 0, 0
+  index: -1
+quy_5
+  rotate: false
+  xy: 747, 17
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+quy_light
+  rotate: false
+  xy: 486, 2
+  size: 259, 57
+  orig: 259, 57
+  offset: 0, 0
+  index: -1
+sapdoi
+  rotate: false
+  xy: 1031, 19
+  size: 94, 42
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 907, 26
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1

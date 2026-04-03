@@ -1,0 +1,83 @@
+
+Jackpots_web38.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gen_bokeh1
+  rotate: true
+  xy: 382, 140
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+Gen_bokeh2
+  rotate: false
+  xy: 2, 2
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+Gen_spark1
+  rotate: true
+  xy: 382, 24
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Jackpots
+  rotate: true
+  xy: 2, 95
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_light
+  rotate: true
+  xy: 294, 101
+  size: 143, 60
+  orig: 152, 81
+  offset: 4, 11
+  index: -1
+Jackpots_s1
+  rotate: true
+  xy: 75, 95
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s2
+  rotate: false
+  xy: 80, 22
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s3
+  rotate: true
+  xy: 148, 95
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s4
+  rotate: true
+  xy: 221, 95
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+Jackpots_s5
+  rotate: false
+  xy: 231, 22
+  size: 149, 71
+  orig: 152, 81
+  offset: 1, 4
+  index: -1
+sparkle
+  rotate: false
+  xy: 382, 80
+  size: 126, 58
+  orig: 142, 68
+  offset: 15, 5
+  index: -1

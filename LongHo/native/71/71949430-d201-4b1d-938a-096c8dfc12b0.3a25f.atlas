@@ -1,0 +1,90 @@
+
+PACKED_emoticons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21/bong
+  rotate: true
+  xy: 812, 171
+  size: 83, 12
+  orig: 83, 12
+  offset: 0, 0
+  index: -1
+21/chanmay1
+  rotate: true
+  xy: 1852, 201
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+21/chanmay2
+  rotate: false
+  xy: 1820, 182
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+21/khuonmat
+  rotate: false
+  xy: 824, 36
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+21/mat1
+  rotate: true
+  xy: 110, 147
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+21/mat2
+  rotate: false
+  xy: 1495, 104
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+21/mieng
+  rotate: true
+  xy: 1441, 182
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+21/ncmat0001
+  rotate: false
+  xy: 1354, 18
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+21/ncmat0002
+  rotate: false
+  xy: 1361, 101
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+21/ncmat0003
+  rotate: false
+  xy: 1363, 180
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+21/ncmat0004
+  rotate: false
+  xy: 1397, 25
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+21/ncmat0005
+  rotate: false
+  xy: 1404, 104
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1

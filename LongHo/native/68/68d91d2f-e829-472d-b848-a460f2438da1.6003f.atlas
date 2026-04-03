@@ -1,0 +1,376 @@
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card_10B
+  rotate: false
+  xy: 114, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_10C
+  rotate: false
+  xy: 1346, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_10R
+  rotate: false
+  xy: 1458, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_10T
+  rotate: false
+  xy: 1346, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_11B
+  rotate: false
+  xy: 1458, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_11C
+  rotate: false
+  xy: 1570, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_11R
+  rotate: false
+  xy: 1458, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_11T
+  rotate: false
+  xy: 1570, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_12B
+  rotate: false
+  xy: 1682, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_12C
+  rotate: false
+  xy: 1570, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_12R
+  rotate: false
+  xy: 1682, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_12T
+  rotate: false
+  xy: 1794, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_13B
+  rotate: false
+  xy: 1682, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_13C
+  rotate: false
+  xy: 1794, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_13R
+  rotate: false
+  xy: 1906, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_13T
+  rotate: false
+  xy: 1794, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_1B
+  rotate: false
+  xy: 2, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_1C
+  rotate: false
+  xy: 2, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_1R
+  rotate: false
+  xy: 2, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_1T
+  rotate: false
+  xy: 114, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_2B
+  rotate: false
+  xy: 226, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_2C
+  rotate: false
+  xy: 114, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_2R
+  rotate: false
+  xy: 226, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_2T
+  rotate: false
+  xy: 338, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_3B
+  rotate: false
+  xy: 226, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_3C
+  rotate: false
+  xy: 338, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_3R
+  rotate: false
+  xy: 450, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_3T
+  rotate: false
+  xy: 338, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_4B
+  rotate: false
+  xy: 450, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_4C
+  rotate: false
+  xy: 562, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_4R
+  rotate: false
+  xy: 450, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_4T
+  rotate: false
+  xy: 562, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_5B
+  rotate: false
+  xy: 674, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_5C
+  rotate: false
+  xy: 562, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_5R
+  rotate: false
+  xy: 674, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_5T
+  rotate: false
+  xy: 786, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_6B
+  rotate: false
+  xy: 674, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_6C
+  rotate: false
+  xy: 786, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_6R
+  rotate: false
+  xy: 898, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_6T
+  rotate: false
+  xy: 786, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_7B
+  rotate: false
+  xy: 898, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_7C
+  rotate: false
+  xy: 1010, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_7R
+  rotate: false
+  xy: 898, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_7T
+  rotate: false
+  xy: 1010, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_8B
+  rotate: false
+  xy: 1122, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_8C
+  rotate: false
+  xy: 1010, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_8R
+  rotate: false
+  xy: 1122, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_8T
+  rotate: false
+  xy: 1234, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_9B
+  rotate: false
+  xy: 1122, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_9C
+  rotate: false
+  xy: 1234, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_9R
+  rotate: false
+  xy: 1346, 296
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_9T
+  rotate: false
+  xy: 1234, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+Card_bc
+  rotate: false
+  xy: 1906, 149
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1

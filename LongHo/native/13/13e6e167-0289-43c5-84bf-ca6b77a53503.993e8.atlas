@@ -1,0 +1,83 @@
+
+PACKED_emoticons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+28/bong
+  rotate: true
+  xy: 768, 34
+  size: 83, 12
+  orig: 83, 12
+  offset: 0, 0
+  index: -1
+28/chanmay
+  rotate: true
+  xy: 1645, 208
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+28/khuonmat
+  rotate: false
+  xy: 427, 170
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+28/mat
+  rotate: true
+  xy: 685, 118
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+28/mieng
+  rotate: true
+  xy: 1601, 182
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+28/t1
+  rotate: false
+  xy: 1838, 140
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+28/t2
+  rotate: false
+  xy: 1836, 201
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+28/t3
+  rotate: false
+  xy: 1820, 199
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+28/t4
+  rotate: false
+  xy: 1619, 122
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+28/tay
+  rotate: false
+  xy: 1064, 38
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+28/tronmat
+  rotate: true
+  xy: 1592, 182
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

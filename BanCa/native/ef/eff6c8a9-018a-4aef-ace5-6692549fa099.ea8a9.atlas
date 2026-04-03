@@ -1,0 +1,181 @@
+
+FSW_Lobby_Tapsu.png
+size: 1565,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity 014 Charge Radial/Electricity 014  (1)
+  rotate: false
+  xy: 930, 142
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (2)
+  rotate: false
+  xy: 950, 15
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (3)
+  rotate: false
+  xy: 1057, 142
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (4)
+  rotate: false
+  xy: 1077, 15
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (5)
+  rotate: false
+  xy: 1184, 142
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (6)
+  rotate: false
+  xy: 1204, 15
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (7)
+  rotate: false
+  xy: 1311, 142
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (8)
+  rotate: false
+  xy: 1438, 142
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Electricity 014 Charge Radial/Electricity 014  (9)
+  rotate: false
+  xy: 1331, 15
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+EyeR
+  rotate: false
+  xy: 919, 24
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 235, 2
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 676, 105
+  size: 125, 162
+  orig: 125, 162
+  offset: 0, 0
+  index: -1
+Head_Glow
+  rotate: false
+  xy: 470, 68
+  size: 163, 199
+  orig: 163, 199
+  offset: 0, 0
+  index: -1
+LaserGun
+  rotate: true
+  xy: 321, 6
+  size: 56, 134
+  orig: 56, 134
+  offset: 0, 0
+  index: -1
+TopHead
+  rotate: false
+  xy: 803, 105
+  size: 125, 162
+  orig: 125, 162
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: false
+  xy: 111, 11
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bucchua1
+  rotate: false
+  xy: 786, 2
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+da2
+  rotate: true
+  xy: 320, 64
+  size: 203, 148
+  orig: 203, 148
+  offset: 0, 0
+  index: -1
+fin1
+  rotate: true
+  xy: 655, 12
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+fin2
+  rotate: false
+  xy: 635, 80
+  size: 39, 187
+  orig: 39, 187
+  offset: 0, 0
+  index: -1
+rongreu
+  rotate: true
+  xy: 569, 2
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+rongreu1
+  rotate: false
+  xy: 2, 16
+  size: 107, 251
+  orig: 107, 251
+  offset: 0, 0
+  index: -1
+rongreu2
+  rotate: true
+  xy: 457, 15
+  size: 47, 110
+  orig: 47, 110
+  offset: 0, 0
+  index: -1
+rongreu3
+  rotate: false
+  xy: 235, 56
+  size: 83, 211
+  orig: 83, 211
+  offset: 0, 0
+  index: -1
+texttapsu
+  rotate: true
+  xy: 111, 27
+  size: 240, 122
+  orig: 240, 122
+  offset: 0, 0
+  index: -1

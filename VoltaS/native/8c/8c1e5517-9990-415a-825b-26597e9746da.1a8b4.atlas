@@ -1,0 +1,76 @@
+
+text_minislot.png
+size: 140,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+text/A
+  rotate: true
+  xy: 2, 38
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+text/A2
+  rotate: true
+  xy: 2, 120
+  size: 26, 112
+  orig: 26, 112
+  offset: 0, 0
+  index: -1
+text/L
+  rotate: false
+  xy: 93, 35
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+text/L2
+  rotate: false
+  xy: 116, 33
+  size: 21, 113
+  orig: 21, 113
+  offset: 0, 0
+  index: -1
+text/O
+  rotate: false
+  xy: 36, 35
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+text/O2
+  rotate: true
+  xy: 2, 5
+  size: 26, 112
+  orig: 26, 112
+  offset: 0, 0
+  index: -1
+text/T
+  rotate: false
+  xy: 116, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+text/T2
+  rotate: true
+  xy: 2, 66
+  size: 24, 112
+  orig: 24, 112
+  offset: 0, 0
+  index: -1
+text/V
+  rotate: false
+  xy: 65, 35
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+text/V2
+  rotate: true
+  xy: 2, 92
+  size: 26, 112
+  orig: 26, 112
+  offset: 0, 0
+  index: -1

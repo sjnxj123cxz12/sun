@@ -1,0 +1,20 @@
+
+linebar_top.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_check
+  rotate: false
+  xy: 2003, 1
+  size: 1003, 83
+  orig: 1003, 83
+  offset: 0, 0
+  index: -1
+LIGHT GOLD LINE
+  rotate: false
+  xy: 1, 1
+  size: 2000, 2000
+  orig: 2000, 2000
+  offset: 0, 0
+  index: -1

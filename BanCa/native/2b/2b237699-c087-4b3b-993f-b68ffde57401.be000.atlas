@@ -1,0 +1,411 @@
+
+Fish_11.png
+size: 708,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_x18/fish/Mat
+  rotate: false
+  xy: 122, 88
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+11_x18/fish/Shadow
+  rotate: true
+  xy: 2, 87
+  size: 180, 118
+  orig: 186, 119
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv1_Tail
+  rotate: false
+  xy: 169, 2
+  size: 151, 31
+  orig: 151, 32
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv1_Tail copy
+  rotate: false
+  xy: 617, 14
+  size: 76, 18
+  orig: 76, 19
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv1_Than
+  rotate: false
+  xy: 2, 18
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv1_Than_add
+  rotate: false
+  xy: 164, 35
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv1_VayNho_Top
+  rotate: false
+  xy: 475, 16
+  size: 45, 20
+  orig: 46, 21
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv1_VayTruoc_Top
+  rotate: false
+  xy: 313, 204
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv1_crown
+  rotate: false
+  xy: 403, 37
+  size: 66, 68
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv1_tail_straight
+  rotate: false
+  xy: 2, 2
+  size: 165, 14
+  orig: 165, 15
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv2_tail_straight
+  rotate: false
+  xy: 2, 2
+  size: 165, 14
+  orig: 165, 15
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv2_Tail
+  rotate: false
+  xy: 322, 2
+  size: 151, 31
+  orig: 151, 32
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv2_Tail copy
+  rotate: false
+  xy: 522, 10
+  size: 76, 18
+  orig: 76, 19
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv2_Than
+  rotate: true
+  xy: 639, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv3_Than
+  rotate: true
+  xy: 639, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv4_Than
+  rotate: true
+  xy: 639, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv2_Than_add
+  rotate: true
+  xy: 403, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv3_Than_add
+  rotate: true
+  xy: 403, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv4_Than_add
+  rotate: true
+  xy: 403, 107
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv2_VayNho_Top
+  rotate: true
+  xy: 372, 222
+  size: 45, 20
+  orig: 46, 21
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv2_VayTruoc_Top
+  rotate: true
+  xy: 328, 145
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv2_crown
+  rotate: true
+  xy: 540, 30
+  size: 69, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv3_Tail
+  rotate: false
+  xy: 250, 109
+  size: 151, 31
+  orig: 151, 32
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv3_Tail copy
+  rotate: false
+  xy: 250, 180
+  size: 76, 18
+  orig: 76, 19
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv3_VayNho_Top
+  rotate: false
+  xy: 250, 158
+  size: 45, 20
+  orig: 46, 21
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv4_VayNho_Top
+  rotate: false
+  xy: 250, 158
+  size: 45, 20
+  orig: 46, 21
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv3_VayTruoc_Top
+  rotate: true
+  xy: 471, 38
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv3_crown
+  rotate: true
+  xy: 326, 36
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv4_Giap
+  rotate: true
+  xy: 122, 104
+  size: 163, 126
+  orig: 163, 127
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv4_Giap_add
+  rotate: false
+  xy: 475, 142
+  size: 162, 125
+  orig: 162, 126
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv4_Tail
+  rotate: false
+  xy: 472, 101
+  size: 151, 39
+  orig: 151, 40
+  offset: 0, 1
+  index: -1
+11_x18/fish/lv4_VayTruoc_Top
+  rotate: false
+  xy: 250, 200
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+11_x18/fish/lv4_crown
+  rotate: true
+  xy: 625, 34
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+
+Fish_112.png
+size: 914,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_x18/fx/Fx (1)
+  rotate: false
+  xy: 182, 8
+  size: 137, 128
+  orig: 225, 178
+  offset: 31, 21
+  index: -1
+11_x18/fx/Fx (2)
+  rotate: false
+  xy: 601, 144
+  size: 207, 169
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+11_x18/fx/Fx (3)
+  rotate: false
+  xy: 224, 343
+  size: 206, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+11_x18/fx/Fx (4)
+  rotate: true
+  xy: 432, 315
+  size: 206, 178
+  orig: 225, 178
+  offset: 1, 0
+  index: -1
+11_x18/fx/Fx (5)
+  rotate: true
+  xy: 224, 138
+  size: 203, 178
+  orig: 225, 178
+  offset: 4, 0
+  index: -1
+11_x18/fx/Fx (6)
+  rotate: true
+  xy: 2, 98
+  size: 201, 178
+  orig: 225, 178
+  offset: 7, 0
+  index: -1
+11_x18/fx/Fx (7)
+  rotate: false
+  xy: 612, 348
+  size: 202, 173
+  orig: 225, 178
+  offset: 7, 0
+  index: -1
+11_x18/fx/Fx (8)
+  rotate: false
+  xy: 601, 2
+  size: 160, 140
+  orig: 225, 178
+  offset: 29, 19
+  index: -1
+11_x18/fx/Glow2a
+  rotate: false
+  xy: 2, 301
+  size: 220, 220
+  orig: 238, 241
+  offset: 11, 10
+  index: -1
+11_x18/fx/Mat
+  rotate: true
+  xy: 182, 209
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+11_x18/fx/Ray
+  rotate: false
+  xy: 182, 229
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+11_x18/fx/Shadow
+  rotate: false
+  xy: 401, 14
+  size: 178, 119
+  orig: 186, 119
+  offset: 0, 0
+  index: -1
+11_x18/fx/Sparkle
+  rotate: true
+  xy: 321, 56
+  size: 80, 78
+  orig: 87, 87
+  offset: 3, 4
+  index: -1
+11_x18/fx/dot
+  rotate: false
+  xy: 182, 262
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+11_x18/fx/fx2B
+  rotate: false
+  xy: 810, 247
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+11_x18/fx/fx2a
+  rotate: true
+  xy: 2, 5
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+11_x18/fx/fx_aura
+  rotate: true
+  xy: 404, 135
+  size: 178, 195
+  orig: 188, 198
+  offset: 10, 0
+  index: -1
+11_x18/fx/glow0
+  rotate: true
+  xy: 810, 147
+  size: 98, 102
+  orig: 127, 127
+  offset: 14, 11
+  index: -1
+11_x18/fx/lv2_glow
+  rotate: false
+  xy: 321, 2
+  size: 57, 52
+  orig: 60, 57
+  offset: 2, 3
+  index: -1
+11_x18/fx/lv3_glow
+  rotate: false
+  xy: 816, 355
+  size: 50, 47
+  orig: 60, 57
+  offset: 4, 4
+  index: -1
+11_x18/fx/lv4_glow
+  rotate: false
+  xy: 763, 27
+  size: 125, 115
+  orig: 128, 128
+  offset: 1, 8
+  index: -1
+11_x18/fx/lv4_part
+  rotate: true
+  xy: 110, 17
+  size: 79, 68
+  orig: 81, 71
+  offset: 1, 2
+  index: -1
+11_x18/fx/smoke
+  rotate: true
+  xy: 816, 404
+  size: 117, 88
+  orig: 117, 89
+  offset: 0, 1
+  index: -1
+11_x18/fx/star1
+  rotate: false
+  xy: 182, 281
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1

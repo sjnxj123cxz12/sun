@@ -1,0 +1,139 @@
+
+PACKED_emoticons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19/bong
+  rotate: true
+  xy: 1047, 88
+  size: 82, 12
+  orig: 83, 12
+  offset: 0, 0
+  index: -1
+19/chanmay1
+  rotate: false
+  xy: 1826, 222
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+19/chanmay2
+  rotate: false
+  xy: 1796, 2
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+19/dieuthuoc
+  rotate: true
+  xy: 1664, 210
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+19/effSm0001
+  rotate: true
+  xy: 1617, 182
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0002
+  rotate: true
+  xy: 1651, 182
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0003
+  rotate: true
+  xy: 1685, 182
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0004
+  rotate: false
+  xy: 1823, 2
+  size: 14, 23
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0005
+  rotate: false
+  xy: 1792, 222
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0006
+  rotate: false
+  xy: 1765, 75
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0007
+  rotate: false
+  xy: 1771, 112
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0008
+  rotate: false
+  xy: 1787, 148
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/effSm0009
+  rotate: false
+  xy: 1809, 222
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+19/khuonmat
+  rotate: true
+  xy: 2, 25
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+19/lineKinh0002
+  rotate: false
+  xy: 169, 2
+  size: 53, 23
+  orig: 74, 27
+  offset: 0, 3
+  index: -1
+19/lineKinh0003
+  rotate: false
+  xy: 355, 2
+  size: 40, 24
+  orig: 74, 27
+  offset: 33, 2
+  index: -1
+19/lineKinh0004
+  rotate: true
+  xy: 1839, 7
+  size: 21, 20
+  orig: 74, 27
+  offset: 53, 2
+  index: -1
+19/mieng
+  rotate: true
+  xy: 456, 114
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+19/sao
+  rotate: false
+  xy: 1788, 182
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

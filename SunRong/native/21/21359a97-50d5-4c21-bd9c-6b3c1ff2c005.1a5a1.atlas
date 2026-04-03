@@ -1,0 +1,13 @@
+
+ResultEffect.png
+size: 41,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coE
+  rotate: false
+  xy: 1, 1
+  size: 39, 107
+  orig: 39, 107
+  offset: 0, 0
+  index: -1

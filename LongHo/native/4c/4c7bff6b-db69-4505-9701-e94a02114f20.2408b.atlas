@@ -1,0 +1,82 @@
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 283, 99
+  size: 208, 121
+  orig: 208, 121
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 315, 458
+  size: 187, 85
+  orig: 187, 86
+  offset: 0, 0
+  index: -1
+ho
+  rotate: false
+  xy: 2, 647
+  size: 402, 357
+  orig: 402, 359
+  offset: 0, 0
+  index: -1
+par
+  rotate: false
+  xy: 2, 34
+  size: 279, 273
+  orig: 279, 273
+  offset: 0, 0
+  index: -1
+par2
+  rotate: false
+  xy: 406, 2
+  size: 279, 273
+  orig: 279, 273
+  offset: 0, 0
+  index: -1
+par_1
+  rotate: true
+  xy: 315, 332
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+rong_1
+  rotate: true
+  xy: 2, 309
+  size: 336, 311
+  orig: 694, 475
+  offset: 229, 164
+  index: -1
+smoke_light_1
+  rotate: true
+  xy: 406, 277
+  size: 372, 306
+  orig: 386, 405
+  offset: 0, 58
+  index: -1
+smoke_light_2
+  rotate: true
+  xy: 714, 496
+  size: 153, 150
+  orig: 184, 150
+  offset: 24, 0
+  index: -1
+smoke_light_4
+  rotate: false
+  xy: 687, 5
+  size: 301, 270
+  orig: 341, 325
+  offset: 19, 37
+  index: -1
+â__Pngtreeâ__abstract light effect blue gold_6650836
+  rotate: true
+  xy: 406, 651
+  size: 353, 343
+  orig: 353, 343
+  offset: 0, 0
+  index: -1

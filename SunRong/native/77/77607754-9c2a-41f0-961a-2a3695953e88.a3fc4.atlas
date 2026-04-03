@@ -1,0 +1,20 @@
+
+dra100_doc.png
+size: 612,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smd
+  rotate: false
+  xy: 1, 3
+  size: 502, 74
+  orig: 502, 74
+  offset: 0, 0
+  index: -1
+smd1
+  rotate: false
+  xy: 504, 1
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1

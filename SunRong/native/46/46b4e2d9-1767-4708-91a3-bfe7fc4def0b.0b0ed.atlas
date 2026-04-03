@@ -1,0 +1,125 @@
+
+dradown100.png
+size: 1955,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cl
+  rotate: false
+  xy: 512, 22
+  size: 222, 127
+  orig: 222, 129
+  offset: 0, 1
+  index: -1
+d1a
+  rotate: true
+  xy: 250, 15
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+d2a
+  rotate: false
+  xy: 1, 71
+  size: 214, 460
+  orig: 214, 460
+  offset: 0, 0
+  index: -1
+d3a
+  rotate: true
+  xy: 863, 162
+  size: 369, 226
+  orig: 369, 226
+  offset: 0, 0
+  index: -1
+d3a1
+  rotate: false
+  xy: 1, 1
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+d3b
+  rotate: false
+  xy: 1326, 1
+  size: 537, 189
+  orig: 537, 189
+  offset: 0, 0
+  index: -1
+d3b1
+  rotate: false
+  xy: 735, 26
+  size: 305, 123
+  orig: 305, 123
+  offset: 0, 0
+  index: -1
+d4
+  rotate: true
+  xy: 1090, 191
+  size: 340, 244
+  orig: 340, 244
+  offset: 0, 0
+  index: -1
+d5a
+  rotate: false
+  xy: 216, 115
+  size: 295, 416
+  orig: 295, 416
+  offset: 0, 0
+  index: -1
+li
+  rotate: false
+  xy: 374, 21
+  size: 121, 93
+  orig: 125, 96
+  offset: 2, 2
+  index: -1
+par
+  rotate: false
+  xy: 1522, 228
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+smokew
+  rotate: true
+  xy: 1783, 217
+  size: 157, 161
+  orig: 157, 171
+  offset: 0, 10
+  index: -1
+thun
+  rotate: false
+  xy: 1335, 221
+  size: 186, 310
+  orig: 198, 319
+  offset: 6, 5
+  index: -1
+thund
+  rotate: false
+  xy: 512, 150
+  size: 350, 381
+  orig: 390, 390
+  offset: 20, 9
+  index: -1
+va
+  rotate: false
+  xy: 1783, 375
+  size: 171, 156
+  orig: 171, 156
+  offset: 0, 0
+  index: -1
+va1
+  rotate: true
+  xy: 78, 10
+  size: 60, 171
+  orig: 60, 171
+  offset: 0, 0
+  index: -1
+va2
+  rotate: false
+  xy: 1041, 4
+  size: 284, 157
+  orig: 284, 157
+  offset: 0, 0
+  index: -1

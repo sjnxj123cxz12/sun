@@ -1,0 +1,13 @@
+
+FX_luoi_effect.png
+size: 112,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Luoi
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

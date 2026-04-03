@@ -1,0 +1,97 @@
+
+Header_web38.png
+size: 1006,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Header
+  rotate: false
+  xy: 2, 83
+  size: 540, 100
+  orig: 542, 100
+  offset: 0, 0
+  index: -1
+Header_2
+  rotate: false
+  xy: 2, 6
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1
+Header_3
+  rotate: true
+  xy: 852, 128
+  size: 55, 68
+  orig: 65, 68
+  offset: 5, 0
+  index: -1
+Header_4
+  rotate: false
+  xy: 847, 12
+  size: 73, 73
+  orig: 81, 81
+  offset: 4, 4
+  index: -1
+Header_L1
+  rotate: true
+  xy: 994, 25
+  size: 89, 10
+  orig: 89, 10
+  offset: 0, 0
+  index: -1
+Header_L2
+  rotate: false
+  xy: 544, 87
+  size: 322, 29
+  orig: 359, 35
+  offset: 19, 6
+  index: -1
+Header_Sparks_1
+  rotate: false
+  xy: 544, 118
+  size: 306, 65
+  orig: 306, 65
+  offset: 0, 0
+  index: -1
+Header_Sparks_2
+  rotate: false
+  xy: 747, 10
+  size: 98, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+Header_line
+  rotate: true
+  xy: 2, 2
+  size: 2, 91
+  orig: 2, 91
+  offset: 0, 0
+  index: -1
+mockups/caidat
+  rotate: true
+  xy: 922, 116
+  size: 67, 76
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+mockups/khung
+  rotate: false
+  xy: 544, 32
+  size: 201, 53
+  orig: 201, 53
+  offset: 0, 0
+  index: -1
+mockups/tintuc
+  rotate: false
+  xy: 922, 42
+  size: 70, 72
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+treo2
+  rotate: true
+  xy: 479, 7
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1

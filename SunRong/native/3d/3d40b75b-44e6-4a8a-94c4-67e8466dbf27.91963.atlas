@@ -1,0 +1,55 @@
+
+slot100.png
+size: 742,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot
+  rotate: false
+  xy: 1, 62
+  size: 307, 78
+  orig: 307, 78
+  offset: 0, 0
+  index: -1
+slot1
+  rotate: false
+  xy: 1, 2
+  size: 307, 59
+  orig: 307, 78
+  offset: 0, 0
+  index: -1
+slot2
+  rotate: false
+  xy: 309, 66
+  size: 307, 74
+  orig: 307, 78
+  offset: 0, 1
+  index: -1
+slot3
+  rotate: false
+  xy: 309, 1
+  size: 307, 64
+  orig: 307, 78
+  offset: 0, 14
+  index: -1
+slotp
+  rotate: false
+  xy: 696, 95
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+slotp1
+  rotate: false
+  xy: 696, 19
+  size: 37, 75
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+slotp2
+  rotate: true
+  xy: 617, 66
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1

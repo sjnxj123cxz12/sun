@@ -1,0 +1,90 @@
+
+bet_chutuoc.png
+size: 1436,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_1
+  rotate: false
+  xy: 647, 96
+  size: 354, 344
+  orig: 354, 344
+  offset: 0, 0
+  index: -1
+FX_3
+  rotate: false
+  xy: 1229, 76
+  size: 186, 167
+  orig: 186, 167
+  offset: 0, 0
+  index: -1
+FX_4
+  rotate: false
+  xy: 1255, 255
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FX_5
+  rotate: false
+  xy: 1003, 245
+  size: 250, 195
+  orig: 250, 195
+  offset: 0, 0
+  index: -1
+MD5
+  rotate: false
+  xy: 1067, 56
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+chutuoc_1
+  rotate: false
+  xy: 328, 9
+  size: 317, 431
+  orig: 317, 431
+  offset: 0, 0
+  index: -1
+chutuoc_2
+  rotate: false
+  xy: 2, 3
+  size: 324, 437
+  orig: 324, 437
+  offset: 0, 0
+  index: -1
+chutuoc_3
+  rotate: false
+  xy: 1003, 93
+  size: 224, 150
+  orig: 224, 150
+  offset: 0, 0
+  index: -1
+chutuoc_5
+  rotate: false
+  xy: 938, 49
+  size: 127, 42
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+chutuoc_light
+  rotate: false
+  xy: 647, 2
+  size: 165, 92
+  orig: 165, 92
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 814, 35
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+t_2
+  rotate: false
+  xy: 938, 2
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1

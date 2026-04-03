@@ -1,0 +1,13 @@
+
+win_hoa.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuoc_hoa
+  rotate: false
+  xy: 1, 1
+  size: 176, 210
+  orig: 176, 210
+  offset: 0, 0
+  index: -1

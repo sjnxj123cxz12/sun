@@ -1,0 +1,76 @@
+
+minislot-anim.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+can-gat
+  rotate: false
+  xy: 273, 122
+  size: 14, 26
+  orig: 16, 28
+  offset: 1, 1
+  index: -1
+flare
+  rotate: false
+  xy: 273, 150
+  size: 58, 52
+  orig: 61, 55
+  offset: 1, 2
+  index: -1
+khung-tien
+  rotate: false
+  xy: 2, 86
+  size: 205, 57
+  orig: 207, 59
+  offset: 1, 1
+  index: -1
+khung-tien-glow1
+  rotate: false
+  xy: 273, 204
+  size: 73, 57
+  orig: 75, 59
+  offset: 1, 1
+  index: -1
+khung-tien-glow2
+  rotate: true
+  xy: 215, 72
+  size: 171, 56
+  orig: 188, 59
+  offset: 8, 1
+  index: -1
+khung-tien-glow3
+  rotate: false
+  xy: 2, 27
+  size: 205, 57
+  orig: 207, 59
+  offset: 1, 1
+  index: -1
+minislot-baucua
+  rotate: false
+  xy: 2, 145
+  size: 211, 98
+  orig: 211, 98
+  offset: 0, 0
+  index: -1
+minislot-xocdia
+  rotate: false
+  xy: 2, 245
+  size: 261, 103
+  orig: 263, 105
+  offset: 1, 1
+  index: -1
+small-flare
+  rotate: false
+  xy: 265, 263
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+trugat
+  rotate: true
+  xy: 2, 14
+  size: 11, 35
+  orig: 13, 38
+  offset: 1, 2
+  index: -1
