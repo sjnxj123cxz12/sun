@@ -1,0 +1,188 @@
+
+dragonball.png
+size: 204,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cadic2
+  rotate: false
+  xy: 167, 608
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Cadic_1
+  rotate: true
+  xy: 2, 536
+  size: 106, 163
+  orig: 106, 163
+  offset: 0, 0
+  index: -1
+Dra1
+  rotate: false
+  xy: 99, 59
+  size: 84, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+Dra2
+  rotate: false
+  xy: 2, 247
+  size: 122, 50
+  orig: 124, 50
+  offset: 2, 0
+  index: -1
+GC_light3
+  rotate: true
+  xy: 2, 138
+  size: 107, 108
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+Son_body
+  rotate: true
+  xy: 2, 299
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+Son_h2
+  rotate: true
+  xy: 167, 576
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Son_hand
+  rotate: true
+  xy: 2, 25
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+Son_head
+  rotate: true
+  xy: 134, 232
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Son_hr1
+  rotate: true
+  xy: 167, 521
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Son_hr2
+  rotate: false
+  xy: 186, 633
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Son_l2
+  rotate: true
+  xy: 167, 547
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ThunderB_1
+  rotate: false
+  xy: 112, 113
+  size: 85, 57
+  orig: 105, 66
+  offset: 1, 8
+  index: -1
+ThunderB_2
+  rotate: true
+  xy: 141, 422
+  size: 97, 61
+  orig: 105, 66
+  offset: 2, 4
+  index: -1
+ThunderB_3
+  rotate: false
+  xy: 2, 72
+  size: 95, 64
+  orig: 105, 66
+  offset: 3, 1
+  index: -1
+ThunderB_4
+  rotate: true
+  xy: 141, 324
+  size: 96, 59
+  orig: 105, 66
+  offset: 7, 5
+  index: -1
+ThunderB_5
+  rotate: false
+  xy: 112, 172
+  size: 87, 58
+  orig: 105, 66
+  offset: 17, 5
+  index: -1
+ThunderB_6
+  rotate: true
+  xy: 97, 2
+  size: 55, 57
+  orig: 105, 66
+  offset: 49, 5
+  index: -1
+ThunderB_7
+  rotate: false
+  xy: 68, 48
+  size: 27, 22
+  orig: 105, 66
+  offset: 76, 7
+  index: -1
+bd
+  rotate: false
+  xy: 2, 730
+  size: 192, 69
+  orig: 192, 69
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 420
+  size: 137, 114
+  orig: 137, 114
+  offset: 0, 0
+  index: -1
+board_1
+  rotate: false
+  xy: 2, 801
+  size: 197, 21
+  orig: 197, 21
+  offset: 0, 0
+  index: -1
+board_2
+  rotate: false
+  xy: 2, 824
+  size: 197, 22
+  orig: 197, 22
+  offset: 0, 0
+  index: -1
+board_3
+  rotate: false
+  xy: 196, 657
+  size: 3, 142
+  orig: 3, 143
+  offset: 0, 1
+  index: -1
+glass
+  rotate: false
+  xy: 2, 644
+  size: 182, 30
+  orig: 182, 31
+  offset: 0, 1
+  index: -1
+title
+  rotate: false
+  xy: 2, 676
+  size: 189, 52
+  orig: 189, 52
+  offset: 0, 0
+  index: -1

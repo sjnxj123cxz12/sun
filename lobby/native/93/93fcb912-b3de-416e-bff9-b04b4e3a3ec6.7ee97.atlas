@@ -1,0 +1,90 @@
+
+tuthanthu.png
+size: 1526,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 363, 3
+  size: 223, 354
+  orig: 223, 354
+  offset: 0, 0
+  index: -1
+THAN
+  rotate: true
+  xy: 1450, 107
+  size: 119, 71
+  orig: 122, 71
+  offset: 2, 0
+  index: -1
+THU
+  rotate: true
+  xy: 1377, 57
+  size: 91, 63
+  orig: 94, 63
+  offset: 2, 0
+  index: -1
+TU
+  rotate: true
+  xy: 1273, 56
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: true
+  xy: 2, 3
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: true
+  xy: 936, 32
+  size: 194, 176
+  orig: 194, 176
+  offset: 0, 0
+  index: -1
+dragon_eye
+  rotate: false
+  xy: 1273, 150
+  size: 175, 76
+  orig: 175, 76
+  offset: 0, 0
+  index: -1
+dragon_fur
+  rotate: true
+  xy: 719, 3
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+dragon_hand
+  rotate: true
+  xy: 1442, 24
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 1114, 55
+  size: 157, 171
+  orig: 165, 180
+  offset: 4, 4
+  index: -1
+portrailt icon
+  rotate: true
+  xy: 936, 2
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+web38/jp1
+  rotate: false
+  xy: 1114, 12
+  size: 218, 41
+  orig: 218, 41
+  offset: 0, 0
+  index: -1

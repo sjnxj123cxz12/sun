@@ -1,0 +1,69 @@
+
+avengers.png
+size: 1374,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER
+  rotate: true
+  xy: 363, 12
+  size: 213, 342
+  orig: 213, 342
+  offset: 0, 0
+  index: -1
+Levels 1
+  rotate: false
+  xy: 1173, 69
+  size: 125, 156
+  orig: 125, 156
+  offset: 0, 0
+  index: -1
+Levels 1 copy
+  rotate: false
+  xy: 1048, 39
+  size: 123, 186
+  orig: 123, 186
+  offset: 0, 0
+  index: -1
+Levels 1 copy 2
+  rotate: false
+  xy: 1300, 138
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+Levels 1 copy 3
+  rotate: true
+  xy: 707, 44
+  size: 181, 232
+  orig: 181, 232
+  offset: 0, 0
+  index: -1
+Levels 5 copy 4
+  rotate: false
+  xy: 1173, 2
+  size: 199, 65
+  orig: 199, 65
+  offset: 0, 0
+  index: -1
+Vector Smart Object7 copy 3
+  rotate: false
+  xy: 707, 17
+  size: 223, 25
+  orig: 223, 25
+  offset: 0, 0
+  index: -1
+app37/template_icon_boder
+  rotate: true
+  xy: 2, 2
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+web38/jp3
+  rotate: true
+  xy: 941, 7
+  size: 218, 105
+  orig: 218, 105
+  offset: 0, 0
+  index: -1

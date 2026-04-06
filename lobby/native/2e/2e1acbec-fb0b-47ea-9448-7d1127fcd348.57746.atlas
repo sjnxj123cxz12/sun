@@ -1,0 +1,132 @@
+
+XDTL_ICON.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+app37/template_icon_boder
+  rotate: false
+  xy: 601, 150
+  size: 223, 359
+  orig: 223, 359
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 826, 106
+  size: 55, 181
+  orig: 59, 190
+  offset: 1, 1
+  index: -1
+background
+  rotate: true
+  xy: 2, 280
+  size: 229, 365
+  orig: 229, 365
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 826, 163
+  size: 194, 346
+  orig: 228, 354
+  offset: 34, 0
+  index: -1
+dia_1
+  rotate: false
+  xy: 589, 36
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+dia_2
+  rotate: true
+  xy: 930, 15
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+dia_fx
+  rotate: true
+  xy: 721, 22
+  size: 126, 55
+  orig: 126, 55
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 369, 280
+  size: 229, 230
+  orig: 229, 230
+  offset: 0, 0
+  index: -1
+fx text
+  rotate: false
+  xy: 2, 77
+  size: 218, 201
+  orig: 218, 201
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 222, 89
+  size: 228, 189
+  orig: 228, 189
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 1009, 146
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 198, 55
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+lb_money_icon (1)
+  rotate: false
+  xy: 173, 33
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+text_tulinh
+  rotate: true
+  xy: 452, 49
+  size: 229, 135
+  orig: 229, 135
+  offset: 0, 0
+  index: -1
+text_tulinhlight
+  rotate: false
+  xy: 2, 10
+  size: 169, 65
+  orig: 169, 65
+  offset: 0, 0
+  index: -1
+text_xocdia
+  rotate: false
+  xy: 778, 49
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+text_xocdialight
+  rotate: false
+  xy: 442, 2
+  size: 141, 45
+  orig: 141, 45
+  offset: 0, 0
+  index: -1
+web38/jp1
+  rotate: false
+  xy: 222, 46
+  size: 218, 41
+  orig: 218, 41
+  offset: 0, 0
+  index: -1
