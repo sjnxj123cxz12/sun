@@ -1028,14 +1028,14 @@ cc.sys.isBrowser && this._htmlInput && "undefined" != typeof window && (this._la
 }
 };
 e.prototype.setString = function(t) {
-this._setString(t || "", !1);
+this._setString(t || "", !1, !0);
 };
 e.prototype.getString = function() {
 !cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && (this.string = this._nativeEditBox.string || "");
 return this.string;
 };
 e.prototype.clear = function() {
-this._setString("", !1);
+this._setString("", !1, !0);
 };
 e.prototype.focus = function() {
 if (!this._isDestroying && this._isAlive()) if (this._isEditing) {
@@ -1166,7 +1166,7 @@ var o;
 "function" == typeof (o = t).setSelectionRange && o.setSelectionRange(t.value.length, t.value.length);
 } catch (t) {}
 t.oninput = function() {
-!e._isDestroying && e._isAlive() && e._setString(t.value, !0);
+!e._isDestroying && e._isAlive() && e._setString(t.value, !0, !1);
 };
 t.onblur = function() {
 e._removeHtmlInput();
@@ -1212,13 +1212,13 @@ t._refreshView();
 e.textChanged = function() {
 if (!t._isDestroying && t._isAlive()) {
 var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
-t._setString(e, !0);
+t._setString(e, !0, !1);
 }
 };
 e.editingDidEnded = function() {
 if (!t._isDestroying && t._isAlive()) {
 var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
-t._setString(e, !1);
+t._setString(e, !1, !1);
 t._endInput();
 }
 };
@@ -1273,15 +1273,15 @@ this._htmlInput.parentNode && this._htmlInput.parentNode.removeChild(this._htmlI
 this._htmlInput = null;
 }
 };
-e.prototype._setString = function(t, e) {
+e.prototype._setString = function(t, e, n) {
 if (!this._isDestroying && this._isAlive()) {
-var n = t || "";
-this.maxLength > 0 && n.length > this.maxLength && (n = n.substr(0, this.maxLength));
-var o = this.string !== n;
-this.string = n;
-!cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && this._nativeEditBox.string !== n && (this._nativeEditBox.string = n);
+var o = t || "";
+this.maxLength > 0 && o.length > this.maxLength && (o = o.substr(0, this.maxLength));
+var i = this.string !== o;
+this.string = o;
+n && !cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && this._nativeEditBox.string !== o && (this._nativeEditBox.string = o);
 this._refreshView();
-e && o && this._emit(this.textChanged);
+e && i && this._emit(this.textChanged);
 }
 };
 e.prototype._refreshView = function() {
