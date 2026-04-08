@@ -949,7 +949,7 @@ return r > 3 && c && Object.defineProperty(e, n, c), c;
 Object.defineProperty(n, "__esModule", {
 value: !0
 });
-var c = cc._decorator, a = c.ccclass, s = c.property, p = c.menu, l = function(t) {
+var c = cc._decorator, a = c.ccclass, s = c.property, p = (c.menu, function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1209,23 +1209,23 @@ e.editingDidBegan = function() {
 };
 e.textChanged = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox && t._nativeEditBox.string || "";
-cc.log("[NativeEditBox] textChanged real:", e);
+var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
+cc.log("[NativeEditBox] textChanged(real):", e);
 t._setString(e, !0);
 }
 };
 e.editingDidEnded = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox ? t._nativeEditBox.string || "" : t.string;
-cc.log("[NativeEditBox] editingDidEnded real:", e);
+var e = t._nativeEditBox ? t._nativeEditBox.string : t.string;
+cc.log("[NativeEditBox] editingDidEnded:", e);
 t._setString(e, !1);
 t._endInput();
 }
 };
 e.editingReturn = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox ? t._nativeEditBox.string || "" : t.string;
-cc.log("[NativeEditBox] editingReturn real:", e);
+var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
+cc.log("[NativeEditBox] editingReturn(real):", e);
 t._emit(t.editingReturn);
 }
 };
@@ -1244,7 +1244,7 @@ void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
 void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
 this.scheduleOnce(function() {
 if (!t._isDestroying && t._isAlive() && t._nativeEditBox && cc.isValid(t._nativeEditBox)) try {
-cc.log("[NativeEditBox] focus, current real string:", t._nativeEditBox.string);
+cc.log("[NativeEditBox] focus");
 t._nativeEditBox.focus();
 } catch (t) {
 cc.error("[NativeEditBox] focus error", t);
@@ -1411,9 +1411,9 @@ r([ s({
 type: [ cc.Component.EventHandler ],
 tooltip: "Event khi nhấn return"
 }) ], e.prototype, "editingReturn", void 0);
-return n = r([ a, p("Custom/EditBoxController") ], e);
-}(cc.Component);
-n.default = l;
+return n = r([ a ], e);
+}(cc.Component));
+n.default = p;
 cc._RF.pop();
 }, {} ],
 EventEDB: [ function(t, e, n) {
