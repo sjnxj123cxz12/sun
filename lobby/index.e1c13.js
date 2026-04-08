@@ -1207,24 +1207,25 @@ this._nativeEditBox.placeholderLabel && cc.isValid(this._nativeEditBox.placehold
 e.editingDidBegan = function() {
 !t._isDestroying && t._isAlive() && cc.log("[NativeEditBox] editingDidBegan");
 };
-e.textChanged = function(e) {
+e.textChanged = function() {
 if (!t._isDestroying && t._isAlive()) {
-var n = "string" == typeof e ? e : t._nativeEditBox ? t._nativeEditBox.string : t.string;
-cc.log("[NativeEditBox] textChanged:", n);
-t._setString(n, !0);
+var e = t._nativeEditBox && t._nativeEditBox.string || "";
+cc.log("[NativeEditBox] textChanged real:", e);
+t._setString(e, !0);
 }
 };
 e.editingDidEnded = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox ? t._nativeEditBox.string : t.string;
-cc.log("[NativeEditBox] editingDidEnded:", e);
+var e = t._nativeEditBox ? t._nativeEditBox.string || "" : t.string;
+cc.log("[NativeEditBox] editingDidEnded real:", e);
 t._setString(e, !1);
 t._endInput();
 }
 };
 e.editingReturn = function() {
 if (!t._isDestroying && t._isAlive()) {
-cc.log("[NativeEditBox] editingReturn:", t._nativeEditBox ? t._nativeEditBox.string : t.string);
+var e = t._nativeEditBox ? t._nativeEditBox.string || "" : t.string;
+cc.log("[NativeEditBox] editingReturn real:", e);
 t._emit(t.editingReturn);
 }
 };
@@ -1243,7 +1244,7 @@ void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
 void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
 this.scheduleOnce(function() {
 if (!t._isDestroying && t._isAlive() && t._nativeEditBox && cc.isValid(t._nativeEditBox)) try {
-cc.log("[NativeEditBox] focus");
+cc.log("[NativeEditBox] focus, current real string:", t._nativeEditBox.string);
 t._nativeEditBox.focus();
 } catch (t) {
 cc.error("[NativeEditBox] focus error", t);
