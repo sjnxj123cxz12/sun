@@ -992,7 +992,10 @@ var t = window.visualViewport;
 t && t.addEventListener && t.addEventListener("resize", this._boundSyncDom);
 }
 this._nativeEditBox = this.getComponent(cc.EditBox);
-cc.sys.isBrowser ? this._disableNativeEditBoxForBrowser() : this._setupNativeEditBox();
+if (cc.sys.isBrowser) this._disableNativeEditBoxForBrowser(); else {
+this._setupNativeEditBox();
+this._nativeEditBox && cc.isValid(this._nativeEditBox) && (this.string = this._nativeEditBox.string || this.string || "");
+}
 this._syncInnerLayout();
 this._refreshView();
 };
@@ -1025,17 +1028,24 @@ e.prototype.update = function() {
 if (!this._isDestroying && this._isAlive()) {
 this._syncInnerLayout();
 cc.sys.isBrowser && this._htmlInput && "undefined" != typeof window && (this._lastW === window.innerWidth && this._lastH === window.innerHeight || this.syncDomPosition());
+if (!cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
+var t = this._nativeEditBox.string || "";
+t !== this.string && this._setStringFromNative(t, this._isEditing);
+}
 }
 };
 e.prototype.setString = function(t) {
-this._setString(t || "", !1, !0);
+var e = t || "";
+this.string = e;
+cc.sys.isBrowser ? this._htmlInput && (this._htmlInput.value = e) : this._nativeEditBox && cc.isValid(this._nativeEditBox) && (this._nativeEditBox.string = e);
+this._refreshView();
 };
 e.prototype.getString = function() {
 !cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && (this.string = this._nativeEditBox.string || "");
 return this.string;
 };
 e.prototype.clear = function() {
-this._setString("", !1, !0);
+this.setString("");
 };
 e.prototype.focus = function() {
 if (!this._isDestroying && this._isAlive()) if (this._isEditing) {
@@ -1080,6 +1090,7 @@ this._removeHtmlInput();
 } else if (t && this._nativeEditBox && cc.isValid(this._nativeEditBox)) try {
 this._nativeEditBox.blur();
 } catch (t) {}
+!cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && (this.string = this._nativeEditBox.string || "");
 n._activeInstance === this && (n._activeInstance = null);
 !this._isDestroying && this._isAlive() && this._refreshView();
 };
@@ -1166,7 +1177,7 @@ var o;
 "function" == typeof (o = t).setSelectionRange && o.setSelectionRange(t.value.length, t.value.length);
 } catch (t) {}
 t.oninput = function() {
-!e._isDestroying && e._isAlive() && e._setString(t.value, !0, !1);
+!e._isDestroying && e._isAlive() && e._setStringFromHtml(t.value, !0);
 };
 t.onblur = function() {
 e._removeHtmlInput();
@@ -1196,36 +1207,28 @@ var t = this;
 if (!cc.sys.isBrowser) if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
 this._cleanupNativeCallbacks();
 this._nativeEditBox.enabled = !0;
-this._nativeEditBox.string = this.string || "";
 this._nativeEditBox.maxLength = this.maxLength;
 this._nativeEditBox.inputFlag = this.inputFlag;
 this._nativeEditBox.inputMode = this.inputMode;
+this._nativeEditBox.string = this.string || "";
 var e = this._nativeEditBox;
 void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
 void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
 e.editingDidBegan = function() {
-if (!t._isDestroying && t._isAlive()) {
-t.string = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string;
-t._refreshView();
-}
+!t._isDestroying && t._isAlive() && t._setStringFromNative(t._nativeEditBox.string || "", !1);
 };
 e.textChanged = function() {
-if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
-t._setString(e, !0, !1);
-}
+!t._isDestroying && t._isAlive() && t._setStringFromNative(t._nativeEditBox.string || "", !0);
 };
 e.editingDidEnded = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
-t._setString(e, !1, !1);
+t._setStringFromNative(t._nativeEditBox.string || "", !1);
 t._endInput();
 }
 };
 e.editingReturn = function() {
 if (!t._isDestroying && t._isAlive()) {
-var e = t._nativeEditBox && cc.isValid(t._nativeEditBox) ? t._nativeEditBox.string || "" : t.string || "";
-t.string = e;
+t._setStringFromNative(t._nativeEditBox.string || "", !1);
 t._emit(t.editingReturn);
 }
 };
@@ -1235,10 +1238,10 @@ e.prototype._focusNativeInput = function() {
 var t = this;
 if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
 this._nativeEditBox.enabled = !0;
-this._nativeEditBox.string = this.string || "";
 this._nativeEditBox.maxLength = this.maxLength;
 this._nativeEditBox.inputFlag = this.inputFlag;
 this._nativeEditBox.inputMode = this.inputMode;
+this._nativeEditBox.string = this.string || "";
 var e = this._nativeEditBox;
 void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
 void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
@@ -1273,15 +1276,24 @@ this._htmlInput.parentNode && this._htmlInput.parentNode.removeChild(this._htmlI
 this._htmlInput = null;
 }
 };
-e.prototype._setString = function(t, e, n) {
+e.prototype._setStringFromHtml = function(t, e) {
 if (!this._isDestroying && this._isAlive()) {
-var o = t || "";
-this.maxLength > 0 && o.length > this.maxLength && (o = o.substr(0, this.maxLength));
-var i = this.string !== o;
-this.string = o;
-n && !cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && this._nativeEditBox.string !== o && (this._nativeEditBox.string = o);
+var n = t || "";
+this.maxLength > 0 && n.length > this.maxLength && (n = n.substr(0, this.maxLength));
+var o = this.string !== n;
+this.string = n;
 this._refreshView();
-e && i && this._emit(this.textChanged);
+e && o && this._emit(this.textChanged);
+}
+};
+e.prototype._setStringFromNative = function(t, e) {
+if (!this._isDestroying && this._isAlive()) {
+var n = t || "";
+this.maxLength > 0 && n.length > this.maxLength && (n = n.substr(0, this.maxLength));
+var o = this.string !== n;
+this.string = n;
+this._refreshView();
+e && o && this._emit(this.textChanged);
 }
 };
 e.prototype._refreshView = function() {
