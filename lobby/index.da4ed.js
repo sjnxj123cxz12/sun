@@ -972,6 +972,7 @@ e._isEditing = !1;
 e._isDestroying = !1;
 e._htmlInput = null;
 e._nativeEditBox = null;
+e._nativeInputNode = null;
 e._cursorVisible = !1;
 e._cursorTimer = null;
 e._boundSyncDom = null;
@@ -1025,23 +1026,27 @@ cc.sys.isBrowser && this._htmlInput && "undefined" != typeof window && (this._la
 }
 };
 e.prototype.setString = function(t) {
-this._setString(t || "");
+this._setString(t || "", !1);
 };
 e.prototype.getString = function() {
 return this.string;
 };
 e.prototype.clear = function() {
-this._setString("");
+this._setString("", !1);
 };
 e.prototype.focus = function() {
 if (!this._isDestroying && this._isAlive()) if (this._isEditing) {
-if (this._htmlInput) this._htmlInput.focus(); else if (this._nativeEditBox) try {
+if (this._htmlInput) try {
+this._htmlInput.focus();
+} catch (t) {} else if (this._nativeEditBox) try {
 this._nativeEditBox.focus();
 } catch (t) {}
 } else this._beginInput();
 };
 e.prototype.blur = function() {
-if (this._isEditing) if (this._htmlInput) this._htmlInput.blur(); else if (this._nativeEditBox) try {
+if (this._isEditing) if (this._htmlInput) try {
+this._htmlInput.blur();
+} catch (t) {} else if (this._nativeEditBox) try {
 this._nativeEditBox.blur();
 } catch (t) {}
 };
@@ -1150,7 +1155,7 @@ var o;
 "function" == typeof (o = t).setSelectionRange && o.setSelectionRange(t.value.length, t.value.length);
 } catch (t) {}
 t.oninput = function() {
-!e._isDestroying && e._isAlive() && e._setString(t.value);
+!e._isDestroying && e._isAlive() && e._setString(t.value, !0);
 };
 t.onblur = function() {
 e._removeHtmlInput();
@@ -1172,45 +1177,65 @@ t.blur();
 e.prototype._createNativeInput = function() {
 var t = this;
 this._cleanupNativeEditBox(!0);
-var e = this.node.getContentSize(), n = new cc.EditBox(e), o = n;
-n.string = this.string;
-n.maxLength = this.maxLength;
-n.inputFlag = this.inputFlag;
-n.inputMode = this.inputMode;
-o.returnType = this.keyboardReturnType;
-n.node.opacity = 255;
-n.node.setAnchorPoint(.5, .5);
-n.node.setPosition(0, 0);
-n.node.setContentSize(e.width, e.height);
-n.node.scaleX = 1;
-n.node.scaleY = 1;
-this.node.addChild(n.node);
-this._nativeEditBox = n;
-o.textChanged = function(e) {
-!t._isDestroying && t._isAlive() && t._setString(e);
+if (this._isAlive()) {
+var e = this.node.getContentSize(), n = new cc.Node("NativeEditBox");
+n.setAnchorPoint(.5, .5);
+n.setPosition(0, 0);
+n.setContentSize(e.width, e.height);
+n.opacity = 1;
+n.scaleX = 1;
+n.scaleY = 1;
+this.node.addChild(n);
+this._nativeInputNode = n;
+var o = n.addComponent(cc.EditBox);
+this._nativeEditBox = o;
+o.string = this.string;
+o.maxLength = this.maxLength;
+o.inputFlag = this.inputFlag;
+o.inputMode = this.inputMode;
+var i = o;
+void 0 !== i.returnType && (i.returnType = this.keyboardReturnType);
+void 0 !== i.keyboardReturnType && (i.keyboardReturnType = this.keyboardReturnType);
+var r = new cc.Node("TEXT_LABEL");
+r.parent = n;
+r.active = !1;
+var c = r.addComponent(cc.Label);
+c.string = "";
+var a = new cc.Node("PLACEHOLDER_LABEL");
+a.parent = n;
+a.active = !1;
+var s = a.addComponent(cc.Label);
+s.string = "";
+i.textLabel = c;
+i.placeholderLabel = s;
+i.textChanged = function(e) {
+!t._isDestroying && t._isAlive() && t._setString(e, !0);
 };
-o.editingDidBegin = function() {
-!t._isDestroying && t._isAlive() && t._emit(t.editingDidBegin);
+i.editingDidBegin = function() {
+!t._isDestroying && t._isAlive();
 };
-o.editingDidEnded = function() {
+i.editingDidEnded = function() {
 if (!t._isDestroying && t._isAlive()) {
-t._setString(n.string);
+t._setString(o.string, !1);
 t._endInput();
 }
-t._nativeEditBox === n && t._cleanupNativeEditBox(!0);
+t._nativeEditBox === o && t._cleanupNativeEditBox(!0);
 };
-o.editingReturn = function() {
+i.editingReturn = function() {
 !t._isDestroying && t._isAlive() && t._emit(t.editingReturn);
 };
 this.scheduleOnce(function() {
-if (!t._isDestroying && t._isAlive() && t._nativeEditBox === n && n.node && cc.isValid(n.node)) try {
-n.focus();
-} catch (t) {}
+if (!t._isDestroying && t._isAlive() && t._nativeEditBox === o && o.node && cc.isValid(o.node)) try {
+o.focus();
+} catch (t) {
+cc.warn("Native EditBox focus error:", t);
+}
 }, .05);
+}
 };
 e.prototype._cleanupNativeEditBox = function(t) {
 if (this._nativeEditBox) {
-var e = this._nativeEditBox, n = this._nativeEditBox.node;
+var e = this._nativeEditBox, n = this._nativeInputNode || this._nativeEditBox.node;
 try {
 e.textChanged = null;
 e.editingDidBegin = null;
@@ -1218,11 +1243,12 @@ e.editingDidEnded = null;
 e.editingReturn = null;
 this._nativeEditBox.blur();
 } catch (t) {}
+this._nativeEditBox = null;
+this._nativeInputNode = null;
 if (t && n && cc.isValid(n)) {
 var o = n;
 o._destroyed || o._onPreDestroyCalled || n.destroy();
 }
-this._nativeEditBox = null;
 }
 };
 e.prototype._removeHtmlInput = function() {
@@ -1236,13 +1262,15 @@ this._htmlInput.parentNode && this._htmlInput.parentNode.removeChild(this._htmlI
 this._htmlInput = null;
 }
 };
-e.prototype._setString = function(t) {
+e.prototype._setString = function(t, e) {
 if (!this._isDestroying && this._isAlive()) {
-var e = t || "";
-this.maxLength > 0 && e.length > this.maxLength && (e = e.substr(0, this.maxLength));
-this.string = e;
+var n = t || "";
+this.maxLength > 0 && n.length > this.maxLength && (n = n.substr(0, this.maxLength));
+if (this.string !== n) {
+this.string = n;
 this._refreshView();
-this._emit(this.textChanged);
+e && this._emit(this.textChanged);
+} else this._refreshView();
 }
 };
 e.prototype._refreshView = function() {
@@ -1295,12 +1323,12 @@ var t = this;
 this._stopCursorBlink();
 this._cursorVisible = !0;
 this._refreshView();
-this._cursorTimer = window.setInterval(function() {
+"undefined" != typeof window && window.setInterval && (this._cursorTimer = window.setInterval(function() {
 if (!t._isDestroying && t._isAlive() && t._isEditing) {
 t._cursorVisible = !t._cursorVisible;
 t._refreshView();
 } else t._stopCursorBlink();
-}, 500);
+}, 500));
 };
 e.prototype._stopCursorBlink = function() {
 if (null !== this._cursorTimer) {
