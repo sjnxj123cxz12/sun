@@ -972,7 +972,6 @@ e._isEditing = !1;
 e._isDestroying = !1;
 e._htmlInput = null;
 e._nativeEditBox = null;
-e._nativeInputNode = null;
 e._cursorVisible = !1;
 e._cursorTimer = null;
 e._boundSyncDom = null;
@@ -992,6 +991,8 @@ window.addEventListener("orientationchange", this._boundSyncDom);
 var t = window.visualViewport;
 t && t.addEventListener && t.addEventListener("resize", this._boundSyncDom);
 }
+this._nativeEditBox = this.getComponent(cc.EditBox);
+cc.sys.isBrowser ? this._disableNativeEditBoxForBrowser() : this._setupNativeEditBox();
 this._syncInnerLayout();
 this._refreshView();
 };
@@ -1000,6 +1001,7 @@ this._isDestroying = !1;
 this._syncInnerLayout();
 this._refreshView();
 this.syncDomPosition();
+cc.sys.isBrowser || this._setupNativeEditBox();
 };
 e.prototype.onDisable = function() {
 this.forceEndEditing(!1);
@@ -1017,7 +1019,7 @@ t && t.removeEventListener && t.removeEventListener("resize", this._boundSyncDom
 }
 this._stopCursorBlink();
 this._removeHtmlInput();
-this._cleanupNativeEditBox(!1);
+this._cleanupNativeCallbacks();
 };
 e.prototype.update = function() {
 if (!this._isDestroying && this._isAlive()) {
@@ -1036,17 +1038,21 @@ this._setString("", !1);
 };
 e.prototype.focus = function() {
 if (!this._isDestroying && this._isAlive()) if (this._isEditing) {
+if (cc.sys.isBrowser) {
 if (this._htmlInput) try {
 this._htmlInput.focus();
-} catch (t) {} else if (this._nativeEditBox) try {
+} catch (t) {}
+} else if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) try {
 this._nativeEditBox.focus();
 } catch (t) {}
 } else this._beginInput();
 };
 e.prototype.blur = function() {
-if (this._isEditing) if (this._htmlInput) try {
+if (this._isEditing) if (cc.sys.isBrowser) {
+if (this._htmlInput) try {
 this._htmlInput.blur();
-} catch (t) {} else if (this._nativeEditBox) try {
+} catch (t) {}
+} else if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) try {
 this._nativeEditBox.blur();
 } catch (t) {}
 };
@@ -1060,6 +1066,7 @@ e.prototype.forceEndEditing = function(t) {
 void 0 === t && (t = !0);
 this._isEditing = !1;
 this._stopCursorBlink();
+if (cc.sys.isBrowser) {
 if (this._htmlInput) {
 try {
 this._htmlInput.oninput = null;
@@ -1069,7 +1076,9 @@ this._htmlInput.blur();
 } catch (t) {}
 this._removeHtmlInput();
 }
-this._nativeEditBox && this._cleanupNativeEditBox(t);
+} else if (t && this._nativeEditBox && cc.isValid(this._nativeEditBox)) try {
+this._nativeEditBox.blur();
+} catch (t) {}
 n._activeInstance === this && (n._activeInstance = null);
 !this._isDestroying && this._isAlive() && this._refreshView();
 };
@@ -1108,7 +1117,7 @@ this._isEditing = !0;
 this._startCursorBlink();
 this._refreshView();
 this._emit(this.editingDidBegin);
-cc.sys.isBrowser ? this._createHtmlInput() : this._createNativeInput();
+cc.sys.isBrowser ? this._createHtmlInput() : this._focusNativeInput();
 }
 };
 e.prototype._endInput = function() {
@@ -1174,101 +1183,86 @@ t.blur();
 }
 };
 };
-e.prototype._createNativeInput = function() {
-var t = this;
-this._cleanupNativeEditBox(!0);
-if (this._isAlive()) {
-var e = this.node.getContentSize(), n = new cc.Node("NativeEditBox");
-n.setAnchorPoint(.5, .5);
-n.setPosition(0, 0);
-n.setContentSize(e.width, e.height);
-n.opacity = 1;
-n.scaleX = 1;
-n.scaleY = 1;
-this.node.addChild(n);
-this._nativeInputNode = n;
-var o = n.addComponent(cc.EditBox);
-this._nativeEditBox = o;
-o.string = this.string;
-o.maxLength = this.maxLength;
-o.inputFlag = this.inputFlag;
-o.inputMode = this.inputMode;
-var i = o;
-void 0 !== i.returnType && (i.returnType = this.keyboardReturnType);
-void 0 !== i.keyboardReturnType && (i.keyboardReturnType = this.keyboardReturnType);
-var r = new cc.Node("TEXT_LABEL");
-r.parent = n;
-r.setAnchorPoint(0, .5);
-r.setPosition(.5 * -e.width + 8, 0);
-r.setContentSize(e.width - 16, e.height);
-var c = r.addComponent(cc.Label);
-c.string = "";
-c.horizontalAlign = cc.Label.HorizontalAlign.LEFT;
-c.verticalAlign = cc.Label.VerticalAlign.CENTER;
-c.overflow = cc.Label.Overflow.CLAMP;
-var a = new cc.Node("PLACEHOLDER_LABEL");
-a.parent = n;
-a.setAnchorPoint(0, .5);
-a.setPosition(.5 * -e.width + 8, 0);
-a.setContentSize(e.width - 16, e.height);
-var s = a.addComponent(cc.Label);
-s.string = this.placeholder || "";
-s.horizontalAlign = cc.Label.HorizontalAlign.LEFT;
-s.verticalAlign = cc.Label.VerticalAlign.CENTER;
-s.overflow = cc.Label.Overflow.CLAMP;
-o.textLabel = c;
-o.placeholderLabel = s;
-r.opacity = 0;
-a.opacity = 0;
-n.on("text-changed", function(e) {
-if (!t._isDestroying && t._isAlive() && t._nativeEditBox === o) {
-cc.log("[NativeEditBox] text-changed:", e.string);
-t._setString(e.string, !0);
-}
-});
-n.on("editing-did-ended", function(e) {
-if (t._nativeEditBox === o) {
-cc.log("[NativeEditBox] editing-did-ended:", e.string);
-if (!t._isDestroying && t._isAlive()) {
-t._setString(e.string, !1);
-t._endInput();
-}
-t._nativeEditBox === o && t._cleanupNativeEditBox(!0);
-}
-});
-n.on("editing-return", function(e) {
-if (!t._isDestroying && t._isAlive() && t._nativeEditBox === o) {
-cc.log("[NativeEditBox] editing-return:", e.string);
-t._emit(t.editingReturn);
-}
-});
-this.scheduleOnce(function() {
-if (!t._isDestroying && t._isAlive() && t._nativeEditBox === o && o.node && cc.isValid(o.node)) try {
-cc.log("[NativeEditBox] focus");
-o.focus();
-} catch (t) {
-cc.warn("Native EditBox focus error:", t);
-}
-}, .05);
+e.prototype._disableNativeEditBoxForBrowser = function() {
+if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
+this._cleanupNativeCallbacks();
+this._nativeEditBox.enabled = !1;
+this._nativeEditBox.textLabel && cc.isValid(this._nativeEditBox.textLabel.node) && (this._nativeEditBox.textLabel.node.active = !1);
+this._nativeEditBox.placeholderLabel && cc.isValid(this._nativeEditBox.placeholderLabel.node) && (this._nativeEditBox.placeholderLabel.node.active = !1);
 }
 };
-e.prototype._cleanupNativeEditBox = function(t) {
-if (this._nativeEditBox) {
-var e = this._nativeInputNode || this._nativeEditBox.node;
+e.prototype._setupNativeEditBox = function() {
+var t = this;
+if (!cc.sys.isBrowser) if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
+this._nativeEditBox.enabled = !0;
+this._nativeEditBox.string = this.string || "";
+this._nativeEditBox.maxLength = this.maxLength;
+this._nativeEditBox.inputFlag = this.inputFlag;
+this._nativeEditBox.inputMode = this.inputMode;
+var e = this._nativeEditBox;
+void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
+void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
+this._nativeEditBox.textLabel && cc.isValid(this._nativeEditBox.textLabel.node) && (this._nativeEditBox.textLabel.node.opacity = 0);
+this._nativeEditBox.placeholderLabel && cc.isValid(this._nativeEditBox.placeholderLabel.node) && (this._nativeEditBox.placeholderLabel.node.opacity = 0);
+e.editingDidBegan = function() {
+!t._isDestroying && t._isAlive() && cc.log("[NativeEditBox] editingDidBegan");
+};
+e.textChanged = function(e) {
+if (!t._isDestroying && t._isAlive()) {
+var n = "string" == typeof e ? e : t._nativeEditBox ? t._nativeEditBox.string : t.string;
+cc.log("[NativeEditBox] textChanged:", n);
+t._setString(n, !0);
+}
+};
+e.editingDidEnded = function() {
+if (!t._isDestroying && t._isAlive()) {
+var e = t._nativeEditBox ? t._nativeEditBox.string : t.string;
+cc.log("[NativeEditBox] editingDidEnded:", e);
+t._setString(e, !1);
+t._endInput();
+}
+};
+e.editingReturn = function() {
+if (!t._isDestroying && t._isAlive()) {
+cc.log("[NativeEditBox] editingReturn:", t._nativeEditBox ? t._nativeEditBox.string : t.string);
+t._emit(t.editingReturn);
+}
+};
+} else cc.warn("[EditBoxController] Thiếu cc.EditBox trên cùng node");
+};
+e.prototype._focusNativeInput = function() {
+var t = this;
+if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
+this._nativeEditBox.enabled = !0;
+this._nativeEditBox.string = this.string || "";
+this._nativeEditBox.maxLength = this.maxLength;
+this._nativeEditBox.inputFlag = this.inputFlag;
+this._nativeEditBox.inputMode = this.inputMode;
+var e = this._nativeEditBox;
+void 0 !== e.returnType && (e.returnType = this.keyboardReturnType);
+void 0 !== e.keyboardReturnType && (e.keyboardReturnType = this.keyboardReturnType);
+this.scheduleOnce(function() {
+if (!t._isDestroying && t._isAlive() && t._nativeEditBox && cc.isValid(t._nativeEditBox)) try {
+cc.log("[NativeEditBox] focus");
+t._nativeEditBox.focus();
+} catch (t) {
+cc.error("[NativeEditBox] focus error", t);
+}
+}, .05);
+} else cc.warn("[EditBoxController] Không tìm thấy cc.EditBox trên node");
+};
+e.prototype._cleanupNativeCallbacks = function() {
+if (this._nativeEditBox && cc.isValid(this._nativeEditBox)) {
+var t = this._nativeEditBox;
+try {
+t.textChanged = null;
+t.editingDidBegan = null;
+t.editingDidEnded = null;
+t.editingReturn = null;
+} catch (t) {}
 try {
 this._nativeEditBox.blur();
 } catch (t) {}
-if (e && cc.isValid(e)) {
-e.off("text-changed");
-e.off("editing-did-ended");
-e.off("editing-return");
-}
-this._nativeEditBox = null;
-this._nativeInputNode = null;
-if (t && e && cc.isValid(e)) {
-var n = e;
-n._destroyed || n._onPreDestroyCalled || e.destroy();
-}
 }
 };
 e.prototype._removeHtmlInput = function() {
@@ -1286,11 +1280,11 @@ e.prototype._setString = function(t, e) {
 if (!this._isDestroying && this._isAlive()) {
 var n = t || "";
 this.maxLength > 0 && n.length > this.maxLength && (n = n.substr(0, this.maxLength));
-if (this.string !== n) {
+var o = this.string !== n;
 this.string = n;
+!cc.sys.isBrowser && this._nativeEditBox && cc.isValid(this._nativeEditBox) && this._nativeEditBox.string !== n && (this._nativeEditBox.string = n);
 this._refreshView();
-e && this._emit(this.textChanged);
-} else this._refreshView();
+e && o && this._emit(this.textChanged);
 }
 };
 e.prototype._refreshView = function() {
