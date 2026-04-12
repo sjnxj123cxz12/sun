@@ -1,0 +1,97 @@
+
+dongho.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongho
+  rotate: true
+  xy: 2, 62
+  size: 192, 61
+  orig: 192, 61
+  offset: 0, 0
+  index: -1
+dongho_l1
+  rotate: true
+  xy: 301, 89
+  size: 61, 54
+  orig: 65, 55
+  offset: 0, 1
+  index: -1
+dongho_l2
+  rotate: true
+  xy: 301, 152
+  size: 102, 61
+  orig: 104, 61
+  offset: 0, 0
+  index: -1
+dongho_l3
+  rotate: true
+  xy: 175, 133
+  size: 121, 61
+  orig: 124, 61
+  offset: 2, 0
+  index: -1
+dongho_l4
+  rotate: true
+  xy: 238, 133
+  size: 121, 61
+  orig: 123, 61
+  offset: 2, 0
+  index: -1
+dongho_l5
+  rotate: true
+  xy: 177, 3
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+dongho_l6
+  rotate: true
+  xy: 222, 89
+  size: 42, 53
+  orig: 44, 55
+  offset: 2, 0
+  index: -1
+donhho2
+  rotate: false
+  xy: 2, 2
+  size: 173, 58
+  orig: 173, 58
+  offset: 0, 0
+  index: -1
+in_li
+  rotate: true
+  xy: 134, 130
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+linel
+  rotate: true
+  xy: 65, 84
+  size: 7, 155
+  orig: 7, 155
+  offset: 0, 0
+  index: -1
+sd
+  rotate: true
+  xy: 65, 93
+  size: 161, 67
+  orig: 175, 76
+  offset: 6, 3
+  index: -1
+sparking2
+  rotate: true
+  xy: 303, 23
+  size: 64, 57
+  orig: 70, 63
+  offset: 3, 3
+  index: -1
+vfx_1
+  rotate: true
+  xy: 240, 8
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1

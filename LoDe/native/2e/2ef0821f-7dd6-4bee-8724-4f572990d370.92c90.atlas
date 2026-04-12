@@ -1,0 +1,167 @@
+
+btn_lode.png
+size: 1106,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12341234
+  rotate: false
+  xy: 508, 79
+  size: 172, 72
+  orig: 172, 72
+  offset: 0, 0
+  index: -1
+Gen_spark1
+  rotate: true
+  xy: 772, 25
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+bth_select/1
+  rotate: true
+  xy: 943, 54
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+bth_select/2
+  rotate: false
+  xy: 502, 5
+  size: 161, 56
+  orig: 161, 56
+  offset: 0, 0
+  index: -1
+bth_select/3
+  rotate: false
+  xy: 169, 5
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+bth_select/4
+  rotate: false
+  xy: 336, 5
+  size: 164, 56
+  orig: 164, 56
+  offset: 0, 0
+  index: -1
+bth_select/5
+  rotate: false
+  xy: 2, 5
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+btn_datcuoc
+  rotate: false
+  xy: 2, 63
+  size: 251, 88
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+btn_datcuoc2
+  rotate: false
+  xy: 255, 63
+  size: 251, 88
+  orig: 251, 88
+  offset: 0, 0
+  index: -1
+flare_btn1
+  rotate: false
+  xy: 827, 37
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+flare_btn2
+  rotate: true
+  xy: 943, 4
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+qs/1
+  rotate: false
+  xy: 827, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+qs/2
+  rotate: true
+  xy: 1001, 60
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+qs/3
+  rotate: true
+  xy: 987, 7
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+qs/33
+  rotate: true
+  xy: 665, 9
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+qs/4
+  rotate: true
+  xy: 1031, 19
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+qs/44
+  rotate: false
+  xy: 895, 20
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+qs/5
+  rotate: true
+  xy: 1043, 67
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+qs/55
+  rotate: true
+  xy: 1016, 104
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+spot
+  rotate: false
+  xy: 1071, 35
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 682, 111
+  size: 165, 40
+  orig: 165, 40
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 849, 111
+  size: 165, 40
+  orig: 165, 40
+  offset: 0, 0
+  index: -1
+text_xien
+  rotate: false
+  xy: 682, 81
+  size: 211, 28
+  orig: 211, 28
+  offset: 0, 0
+  index: -1

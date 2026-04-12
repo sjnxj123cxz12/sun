@@ -1,0 +1,230 @@
+
+lode_logo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_2
+  rotate: true
+  xy: 258, 99
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+ball_fire
+  rotate: false
+  xy: 297, 95
+  size: 78, 52
+  orig: 81, 53
+  offset: 3, 1
+  index: -1
+ball_fire2
+  rotate: true
+  xy: 2, 10
+  size: 29, 44
+  orig: 30, 46
+  offset: 0, 1
+  index: -1
+ball_hl1
+  rotate: true
+  xy: 233, 80
+  size: 36, 21
+  orig: 36, 23
+  offset: 0, 2
+  index: -1
+ball_hl2
+  rotate: false
+  xy: 496, 157
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+ball_hl3
+  rotate: true
+  xy: 409, 161
+  size: 43, 39
+  orig: 47, 43
+  offset: 2, 2
+  index: -1
+ball_red
+  rotate: false
+  xy: 68, 47
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+ball_rimlight
+  rotate: true
+  xy: 122, 8
+  size: 43, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+ball_tim1
+  rotate: false
+  xy: 2, 41
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+ball_vang
+  rotate: false
+  xy: 175, 10
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+bg_text
+  rotate: false
+  xy: 297, 253
+  size: 153, 58
+  orig: 158, 60
+  offset: 3, 1
+  index: -1
+blur_cir
+  rotate: false
+  xy: 178, 63
+  size: 53, 53
+  orig: 59, 59
+  offset: 3, 3
+  index: -1
+blur_cir_ball
+  rotate: true
+  xy: 56, 2
+  size: 43, 48
+  orig: 51, 52
+  offset: 5, 2
+  index: -1
+cir_lightspeed
+  rotate: false
+  xy: 2, 153
+  size: 174, 158
+  orig: 175, 160
+  offset: 0, 1
+  index: -1
+line_smell
+  rotate: false
+  xy: 450, 59
+  size: 44, 117
+  orig: 44, 117
+  offset: 0, 0
+  index: -1
+num_1
+  rotate: false
+  xy: 496, 133
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+num_3
+  rotate: false
+  xy: 279, 198
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+num_8
+  rotate: false
+  xy: 279, 173
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+num_9
+  rotate: false
+  xy: 279, 148
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 128, 53
+  size: 45, 49
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+sd_texthide
+  rotate: false
+  xy: 297, 199
+  size: 110, 52
+  orig: 118, 64
+  offset: 3, 5
+  index: -1
+sds
+  rotate: true
+  xy: 256, 55
+  size: 42, 37
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+sparking2
+  rotate: false
+  xy: 2, 94
+  size: 64, 57
+  orig: 70, 63
+  offset: 3, 3
+  index: -1
+text
+  rotate: true
+  xy: 452, 178
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: true
+  xy: 128, 104
+  size: 47, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+text_2
+  rotate: false
+  xy: 178, 118
+  size: 78, 49
+  orig: 86, 49
+  offset: 0, 0
+  index: -1
+text_3
+  rotate: false
+  xy: 297, 149
+  size: 95, 48
+  orig: 118, 52
+  offset: 2, 0
+  index: -1
+text_4
+  rotate: false
+  xy: 178, 169
+  size: 99, 52
+  orig: 103, 52
+  offset: 3, 0
+  index: -1
+text_5
+  rotate: false
+  xy: 68, 100
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+text_6
+  rotate: false
+  xy: 409, 206
+  size: 39, 45
+  orig: 43, 47
+  offset: 4, 0
+  index: -1
+xoay
+  rotate: true
+  xy: 178, 223
+  size: 88, 117
+  orig: 93, 126
+  offset: 4, 8
+  index: -1
+xoay2
+  rotate: false
+  xy: 394, 61
+  size: 45, 98
+  orig: 45, 99
+  offset: 0, 1
+  index: -1
