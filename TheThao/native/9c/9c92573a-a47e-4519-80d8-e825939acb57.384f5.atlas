@@ -1,0 +1,41 @@
+
+loadingSB.png
+size: 187,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 132, 41
+  size: 22, 47
+  orig: 22, 48
+  offset: 0, 1
+  index: -1
+larm
+  rotate: true
+  xy: 132, 65
+  size: 19, 53
+  orig: 20, 53
+  offset: 1, 0
+  index: -1
+lowerl
+  rotate: false
+  xy: 2, 2
+  size: 97, 31
+  orig: 97, 34
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 101, 4
+  size: 29, 70
+  orig: 29, 72
+  offset: 0, 1
+  index: -1
+trunk
+  rotate: true
+  xy: 2, 35
+  size: 49, 128
+  orig: 49, 128
+  offset: 0, 0
+  index: -1

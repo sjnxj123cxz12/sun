@@ -1,0 +1,76 @@
+
+cuocxien_s_37.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CX
+  rotate: false
+  xy: 201, 73
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+CX-T
+  rotate: true
+  xy: 2, 9
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+CX-bong
+  rotate: false
+  xy: 201, 23
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+CX-bong1
+  rotate: true
+  xy: 52, 9
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+CX-th
+  rotate: true
+  xy: 252, 111
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+Connect
+  rotate: false
+  xy: 230, 101
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 114, 39
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Li
+  rotate: false
+  xy: 2, 55
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+cuoc_xien
+  rotate: false
+  xy: 2, 38
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1

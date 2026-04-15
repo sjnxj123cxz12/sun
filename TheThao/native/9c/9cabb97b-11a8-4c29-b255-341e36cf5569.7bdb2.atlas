@@ -1,0 +1,69 @@
+
+ICON-S-38.png
+size: 138,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LSC-L
+  rotate: false
+  xy: 2, 2
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+doc
+  rotate: false
+  xy: 114, 3
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+pe1
+  rotate: false
+  xy: 95, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+tb
+  rotate: false
+  xy: 55, 21
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tb1
+  rotate: false
+  xy: 131, 35
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: -1
+tc
+  rotate: false
+  xy: 95, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+tc1
+  rotate: false
+  xy: 55, 3
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+tc2
+  rotate: false
+  xy: 114, 12
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+tc3
+  rotate: false
+  xy: 79, 3
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
