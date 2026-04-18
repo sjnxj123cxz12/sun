@@ -1,0 +1,286 @@
+
+idol.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_tim
+  rotate: true
+  xy: 442, 416
+  size: 93, 87
+  orig: 95, 89
+  offset: 1, 1
+  index: -1
+eff2
+  rotate: false
+  xy: 2, 166
+  size: 125, 164
+  orig: 127, 167
+  offset: 2, 0
+  index: -1
+idol
+  rotate: true
+  xy: 381, 18
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+sparky_g
+  rotate: false
+  xy: 373, 148
+  size: 90, 91
+  orig: 96, 102
+  offset: 1, 4
+  index: -1
+sparky_o
+  rotate: false
+  xy: 440, 247
+  size: 90, 91
+  orig: 96, 102
+  offset: 1, 4
+  index: -1
+sparky_p
+  rotate: false
+  xy: 531, 418
+  size: 90, 91
+  orig: 96, 102
+  offset: 1, 4
+  index: -1
+t1
+  rotate: false
+  xy: 419, 107
+  size: 32, 39
+  orig: 34, 41
+  offset: 0, 2
+  index: -1
+t2
+  rotate: true
+  xy: 416, 6
+  size: 45, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+t3
+  rotate: true
+  xy: 520, 351
+  size: 63, 41
+  orig: 65, 42
+  offset: 1, 0
+  index: -1
+t4
+  rotate: true
+  xy: 477, 344
+  size: 70, 41
+  orig: 73, 42
+  offset: 2, 0
+  index: -1
+t5
+  rotate: true
+  xy: 334, 336
+  size: 58, 41
+  orig: 61, 43
+  offset: 2, 1
+  index: -1
+t6
+  rotate: true
+  xy: 416, 53
+  size: 52, 41
+  orig: 55, 42
+  offset: 2, 1
+  index: -1
+t7
+  rotate: false
+  xy: 373, 107
+  size: 44, 39
+  orig: 45, 40
+  offset: 1, 0
+  index: -1
+t8
+  rotate: false
+  xy: 345, 221
+  size: 23, 18
+  orig: 25, 18
+  offset: 2, 0
+  index: -1
+tim1
+  rotate: true
+  xy: 2, 332
+  size: 177, 120
+  orig: 177, 122
+  offset: 0, 0
+  index: -1
+tim2
+  rotate: true
+  xy: 2, 2
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+tim_bgt
+  rotate: false
+  xy: 345, 241
+  size: 93, 93
+  orig: 104, 103
+  offset: 9, 6
+  index: -1
+tim_duoi
+  rotate: false
+  xy: 230, 336
+  size: 102, 58
+  orig: 108, 73
+  offset: 2, 0
+  index: -1
+tim_l1
+  rotate: false
+  xy: 157, 9
+  size: 113, 93
+  orig: 115, 109
+  offset: 1, 15
+  index: -1
+tim_l2
+  rotate: true
+  xy: 124, 396
+  size: 113, 107
+  orig: 115, 109
+  offset: 1, 1
+  index: -1
+tim_l3
+  rotate: true
+  xy: 266, 107
+  size: 112, 105
+  orig: 115, 109
+  offset: 2, 3
+  index: -1
+tim_l4
+  rotate: true
+  xy: 342, 396
+  size: 113, 98
+  orig: 115, 109
+  offset: 1, 10
+  index: -1
+tim_l5
+  rotate: true
+  xy: 129, 219
+  size: 113, 107
+  orig: 115, 109
+  offset: 1, 1
+  index: -1
+tim_l6
+  rotate: true
+  xy: 233, 396
+  size: 113, 107
+  orig: 115, 109
+  offset: 1, 1
+  index: -1
+tim_l7
+  rotate: true
+  xy: 157, 104
+  size: 113, 107
+  orig: 115, 109
+  offset: 1, 1
+  index: -1
+tim_l8
+  rotate: true
+  xy: 238, 221
+  size: 113, 105
+  orig: 115, 109
+  offset: 1, 3
+  index: -1
+tim_l9
+  rotate: true
+  xy: 272, 3
+  size: 102, 107
+  orig: 115, 109
+  offset: 12, 1
+  index: -1
+tim_v1
+  rotate: false
+  xy: 181, 335
+  size: 47, 59
+  orig: 81, 126
+  offset: 34, 1
+  index: -1
+tim_v2
+  rotate: false
+  xy: 377, 337
+  size: 54, 57
+  orig: 81, 126
+  offset: 20, 18
+  index: -1
+tim_v3
+  rotate: false
+  xy: 124, 334
+  size: 55, 60
+  orig: 81, 126
+  offset: 4, 35
+  index: -1
+tim_v4
+  rotate: false
+  xy: 433, 340
+  size: 42, 54
+  orig: 81, 126
+  offset: 0, 53
+  index: -1
+tim_v5
+  rotate: false
+  xy: 129, 168
+  size: 26, 49
+  orig: 81, 126
+  offset: 0, 73
+  index: -1
+triangle_1
+  rotate: false
+  xy: 493, 189
+  size: 24, 24
+  orig: 32, 32
+  offset: 0, 6
+  index: -1
+triangle_2
+  rotate: true
+  xy: 465, 183
+  size: 30, 26
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+triangle_3
+  rotate: true
+  xy: 453, 116
+  size: 30, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+triangle_4
+  rotate: false
+  xy: 459, 86
+  size: 28, 28
+  orig: 32, 32
+  offset: 3, 2
+  index: -1
+triangle_b1
+  rotate: false
+  xy: 495, 221
+  size: 24, 24
+  orig: 32, 32
+  offset: 0, 6
+  index: -1
+triangle_b2
+  rotate: true
+  xy: 465, 151
+  size: 30, 26
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+triangle_b3
+  rotate: true
+  xy: 465, 215
+  size: 30, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+triangle_b4
+  rotate: false
+  xy: 483, 121
+  size: 28, 28
+  orig: 32, 32
+  offset: 3, 2
+  index: -1

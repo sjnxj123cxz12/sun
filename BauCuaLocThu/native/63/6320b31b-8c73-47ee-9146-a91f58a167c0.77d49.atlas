@@ -1,0 +1,258 @@
+
+baucua_xocdia.png
+size: 1328,1328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1DO_3TRANG
+  rotate: false
+  xy: 207, 47
+  size: 192, 144
+  orig: 194, 146
+  offset: 1, 1
+  index: -1
+1DO_3TRANG_on
+  rotate: true
+  xy: 1072, 188
+  size: 214, 166
+  orig: 218, 170
+  offset: 2, 2
+  index: -1
+1TRANG_3DO
+  rotate: false
+  xy: 401, 7
+  size: 215, 144
+  orig: 217, 146
+  offset: 1, 1
+  index: -1
+1TRANG_3DOon
+  rotate: false
+  xy: 1016, 404
+  size: 237, 166
+  orig: 241, 170
+  offset: 2, 2
+  index: -1
+2DO_2TRANG
+  rotate: false
+  xy: 618, 2
+  size: 181, 144
+  orig: 183, 146
+  offset: 1, 1
+  index: -1
+2DO_2TRANG_on
+  rotate: false
+  xy: 2, 29
+  size: 203, 166
+  orig: 207, 170
+  offset: 2, 2
+  index: -1
+4_DO
+  rotate: false
+  xy: 845, 572
+  size: 215, 144
+  orig: 217, 146
+  offset: 1, 1
+  index: -1
+4_DO_on
+  rotate: false
+  xy: 1062, 589
+  size: 237, 166
+  orig: 241, 170
+  offset: 2, 2
+  index: -1
+4_TRANG
+  rotate: true
+  xy: 1173, 1132
+  size: 192, 144
+  orig: 194, 146
+  offset: 1, 1
+  index: -1
+4_TRANG_on
+  rotate: false
+  xy: 1072, 20
+  size: 214, 166
+  orig: 218, 170
+  offset: 2, 2
+  index: -1
+CHAN
+  rotate: true
+  xy: 828, 280
+  size: 286, 186
+  orig: 288, 188
+  offset: 1, 1
+  index: -1
+CHAN_on
+  rotate: false
+  xy: 2, 1155
+  size: 308, 169
+  orig: 312, 173
+  offset: 2, 2
+  index: -1
+LE
+  rotate: false
+  xy: 963, 937
+  size: 285, 185
+  orig: 287, 187
+  offset: 1, 1
+  index: -1
+LE_on
+  rotate: false
+  xy: 223, 867
+  size: 307, 168
+  orig: 311, 172
+  offset: 2, 2
+  index: -1
+bau glow
+  rotate: true
+  xy: 532, 782
+  size: 253, 219
+  orig: 258, 225
+  offset: 3, 3
+  index: -1
+border0
+  rotate: false
+  xy: 411, 153
+  size: 197, 208
+  orig: 197, 208
+  offset: 0, 0
+  index: -1
+border1
+  rotate: true
+  xy: 845, 718
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+border10
+  rotate: true
+  xy: 745, 1118
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+border11
+  rotate: false
+  xy: 533, 1116
+  size: 210, 208
+  orig: 210, 208
+  offset: 0, 0
+  index: -1
+border12
+  rotate: true
+  xy: 209, 403
+  size: 208, 203
+  orig: 208, 203
+  offset: 0, 0
+  index: -1
+border13
+  rotate: true
+  xy: 2, 197
+  size: 206, 203
+  orig: 206, 203
+  offset: 0, 0
+  index: -1
+border14
+  rotate: false
+  xy: 223, 659
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+border15
+  rotate: true
+  xy: 618, 366
+  size: 200, 208
+  orig: 200, 208
+  offset: 0, 0
+  index: -1
+border2
+  rotate: false
+  xy: 207, 193
+  size: 202, 208
+  orig: 202, 208
+  offset: 0, 0
+  index: -1
+border3
+  rotate: true
+  xy: 2, 405
+  size: 206, 205
+  orig: 206, 205
+  offset: 0, 0
+  index: -1
+border4
+  rotate: false
+  xy: 753, 915
+  size: 208, 201
+  orig: 208, 201
+  offset: 0, 0
+  index: -1
+border5
+  rotate: false
+  xy: 431, 575
+  size: 208, 205
+  orig: 208, 205
+  offset: 0, 0
+  index: -1
+border6
+  rotate: false
+  xy: 414, 363
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+border7
+  rotate: true
+  xy: 957, 1124
+  size: 200, 214
+  orig: 200, 214
+  offset: 0, 0
+  index: -1
+border8
+  rotate: false
+  xy: 618, 148
+  size: 198, 216
+  orig: 198, 216
+  offset: 0, 0
+  index: -1
+border9
+  rotate: false
+  xy: 641, 568
+  size: 202, 212
+  orig: 202, 212
+  offset: 0, 0
+  index: -1
+ca glow
+  rotate: true
+  xy: 2, 613
+  size: 256, 219
+  orig: 262, 224
+  offset: 3, 3
+  index: -1
+cua glow
+  rotate: true
+  xy: 312, 1037
+  size: 287, 219
+  orig: 293, 225
+  offset: 3, 3
+  index: -1
+ga glow
+  rotate: true
+  xy: 2, 871
+  size: 282, 219
+  orig: 288, 224
+  offset: 3, 3
+  index: -1
+nai glow
+  rotate: false
+  xy: 818, 100
+  size: 252, 178
+  orig: 258, 184
+  offset: 3, 3
+  index: -1
+tom glow
+  rotate: false
+  xy: 1055, 757
+  size: 255, 178
+  orig: 262, 184
+  offset: 3, 3
+  index: -1

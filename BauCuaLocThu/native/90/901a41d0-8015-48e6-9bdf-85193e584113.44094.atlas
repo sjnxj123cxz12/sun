@@ -1,0 +1,20 @@
+
+wincua.png
+size: 424,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cua
+  rotate: false
+  xy: 2, 12
+  size: 236, 172
+  orig: 236, 172
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 240, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1

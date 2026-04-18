@@ -1,0 +1,20 @@
+
+winca.png
+size: 352,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca
+  rotate: false
+  xy: 186, 2
+  size: 164, 191
+  orig: 164, 191
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 11
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1

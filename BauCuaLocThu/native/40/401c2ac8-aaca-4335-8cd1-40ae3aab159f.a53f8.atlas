@@ -1,0 +1,20 @@
+
+winnai.png
+size: 294,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+nai
+  rotate: false
+  xy: 186, 30
+  size: 106, 154
+  orig: 106, 154
+  offset: 0, 0
+  index: -1

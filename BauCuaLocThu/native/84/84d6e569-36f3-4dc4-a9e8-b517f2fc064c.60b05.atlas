@@ -1,0 +1,20 @@
+
+winbau.png
+size: 308,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bau
+  rotate: false
+  xy: 186, 32
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1

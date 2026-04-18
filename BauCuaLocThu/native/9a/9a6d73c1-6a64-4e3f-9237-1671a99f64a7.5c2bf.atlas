@@ -1,0 +1,20 @@
+
+winga.png
+size: 322,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ga
+  rotate: false
+  xy: 186, 38
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1

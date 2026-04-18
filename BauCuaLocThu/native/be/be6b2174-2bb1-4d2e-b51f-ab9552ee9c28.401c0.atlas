@@ -1,0 +1,97 @@
+
+popup_win.png
+size: 677,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bulb Yellow
+  rotate: false
+  xy: 244, 126
+  size: 82, 83
+  orig: 87, 87
+  offset: 3, 1
+  index: -1
+Frame Thang
+  rotate: false
+  xy: 244, 211
+  size: 201, 203
+  orig: 207, 205
+  offset: 3, 2
+  index: -1
+Frame Thang Cuc Lon
+  rotate: false
+  xy: 2, 116
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Frame Thang Lon
+  rotate: false
+  xy: 447, 204
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+Frame Thang Sieu Lon
+  rotate: false
+  xy: 2, 358
+  size: 214, 317
+  orig: 214, 317
+  offset: 0, 0
+  index: -1
+Light Circle
+  rotate: false
+  xy: 491, 405
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+Light Ray
+  rotate: true
+  xy: 218, 416
+  size: 152, 271
+  orig: 152, 271
+  offset: 0, 0
+  index: -1
+Ribbon Thang
+  rotate: false
+  xy: 290, 67
+  size: 202, 52
+  orig: 202, 53
+  offset: 0, 0
+  index: -1
+Ribbon Thang Cuc Lon
+  rotate: false
+  xy: 2, 2
+  size: 286, 112
+  orig: 286, 112
+  offset: 0, 0
+  index: -1
+Ribbon Thang Lon
+  rotate: false
+  xy: 328, 121
+  size: 228, 81
+  orig: 228, 81
+  offset: 0, 0
+  index: -1
+Ribbon Thang Sieu Lon
+  rotate: false
+  xy: 218, 570
+  size: 410, 105
+  orig: 410, 106
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 630, 632
+  size: 43, 43
+  orig: 46, 46
+  offset: 2, 1
+  index: -1
+Spinner
+  rotate: false
+  xy: 558, 101
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1

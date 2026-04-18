@@ -1,0 +1,48 @@
+
+slotmachine.png
+size: 640,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot/rec
+  rotate: false
+  xy: 610, 214
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+slot/slot
+  rotate: false
+  xy: 284, 8
+  size: 265, 101
+  orig: 265, 101
+  offset: 0, 0
+  index: -1
+slot/slot_Vfx
+  rotate: false
+  xy: 2, 111
+  size: 302, 131
+  orig: 302, 131
+  offset: 0, 0
+  index: -1
+slot/slot_Vfx1
+  rotate: false
+  xy: 306, 111
+  size: 302, 131
+  orig: 302, 131
+  offset: 0, 0
+  index: -1
+slot/slot_mcbg
+  rotate: false
+  xy: 2, 2
+  size: 280, 107
+  orig: 280, 107
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 551, 29
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

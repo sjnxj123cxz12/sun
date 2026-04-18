@@ -1,0 +1,27 @@
+
+icon.png
+size: 712,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bod
+  rotate: false
+  xy: 289, 10
+  size: 279, 204
+  orig: 279, 204
+  offset: 0, 0
+  index: -1
+win/boder
+  rotate: false
+  xy: 2, 2
+  size: 285, 212
+  orig: 285, 212
+  offset: 0, 0
+  index: -1
+win/wincircle
+  rotate: false
+  xy: 570, 74
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

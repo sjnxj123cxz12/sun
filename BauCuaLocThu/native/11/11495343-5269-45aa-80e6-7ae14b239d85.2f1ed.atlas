@@ -1,0 +1,55 @@
+
+xocdia_xingau2.png
+size: 258,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dice2
+  rotate: false
+  xy: 180, 386
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+images/ic_bau
+  rotate: false
+  xy: 167, 238
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+images/ic_ca
+  rotate: false
+  xy: 2, 380
+  size: 176, 84
+  orig: 176, 84
+  offset: 0, 0
+  index: -1
+images/ic_cua
+  rotate: false
+  xy: 2, 120
+  size: 155, 148
+  orig: 155, 148
+  offset: 0, 0
+  index: -1
+images/ic_ga
+  rotate: false
+  xy: 159, 85
+  size: 92, 151
+  orig: 92, 151
+  offset: 0, 0
+  index: -1
+images/ic_huu
+  rotate: true
+  xy: 2, 2
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+images/ic_tom
+  rotate: false
+  xy: 2, 270
+  size: 163, 108
+  orig: 163, 108
+  offset: 0, 0
+  index: -1

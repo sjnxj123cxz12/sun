@@ -1,0 +1,27 @@
+
+avatar.png
+size: 380,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/avatar/avb
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+images/circle
+  rotate: true
+  xy: 158, 16
+  size: 140, 138
+  orig: 140, 138
+  offset: 0, 0
+  index: -1
+images/star
+  rotate: false
+  xy: 298, 76
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
