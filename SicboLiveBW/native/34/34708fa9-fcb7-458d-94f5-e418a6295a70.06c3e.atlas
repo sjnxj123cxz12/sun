@@ -1,0 +1,62 @@
+
+player_win_effect.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin0
+  rotate: false
+  xy: 444, 537
+  size: 30, 38
+  orig: 39, 38
+  offset: 3, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 308, 181
+  size: 17, 38
+  orig: 39, 38
+  offset: 10, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 341, 221
+  size: 7, 38
+  orig: 39, 38
+  offset: 16, 0
+  index: -1
+coin3
+  rotate: true
+  xy: 483, 595
+  size: 19, 38
+  orig: 39, 38
+  offset: 11, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 308, 221
+  size: 31, 38
+  orig: 39, 38
+  offset: 5, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 444, 577
+  size: 37, 37
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+player_win_effect0
+  rotate: false
+  xy: 2, 261
+  size: 440, 353
+  orig: 440, 353
+  offset: 0, 0
+  index: -1
+player_win_effect7
+  rotate: true
+  xy: 2, 2
+  size: 257, 304
+  orig: 257, 304
+  offset: 0, 0
+  index: -1
