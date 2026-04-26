@@ -1,0 +1,27 @@
+
+Lotery_machine_B.png
+size: 749,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basebot
+  rotate: true
+  xy: 368, 2
+  size: 573, 272
+  orig: 573, 272
+  offset: 0, 0
+  index: -1
+coverdown
+  rotate: true
+  xy: 2, 30
+  size: 545, 364
+  orig: 545, 364
+  offset: 0, 0
+  index: -1
+railback
+  rotate: false
+  xy: 2, 577
+  size: 745, 385
+  orig: 745, 385
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+LDN_Timer.png
+size: 636,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clock/Ellipse 1 copy 2
+  rotate: false
+  xy: 374, 24
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+Clock/Ellipse 1 copy 4
+  rotate: false
+  xy: 200, 8
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Clock/Ellipse 1 copy 6
+  rotate: false
+  xy: 531, 79
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+Clock/Ellipse 1 copy 7
+  rotate: false
+  xy: 531, 53
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Clock/Group 32
+  rotate: false
+  xy: 1, 1
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1

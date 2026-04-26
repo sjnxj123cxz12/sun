@@ -1,0 +1,41 @@
+
+EFFECT_LODE.png
+size: 278,278
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+A1
+  rotate: false
+  xy: 2, 186
+  size: 243, 90
+  orig: 243, 90
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 2, 94
+  size: 243, 90
+  orig: 243, 90
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 2, 2
+  size: 243, 90
+  orig: 243, 90
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 247, 138
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+C2
+  rotate: true
+  xy: 247, 158
+  size: 118, 18
+  orig: 118, 18
+  offset: 0, 0
+  index: -1

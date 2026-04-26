@@ -1,0 +1,223 @@
+
+Logo.png
+size: 496,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball1
+  rotate: true
+  xy: 250, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Group 39
+  rotate: false
+  xy: 1, 48
+  size: 277, 158
+  orig: 277, 158
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 279, 53
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Layer 33 copy
+  rotate: true
+  xy: 279, 132
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 449, 45
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 35
+  rotate: true
+  xy: 357, 4
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 36
+  rotate: true
+  xy: 420, 25
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 37
+  rotate: true
+  xy: 1, 5
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 38
+  rotate: false
+  xy: 341, 70
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 39
+  rotate: true
+  xy: 295, 3
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 40
+  rotate: false
+  xy: 417, 134
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 41
+  rotate: false
+  xy: 420, 1
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 42
+  rotate: false
+  xy: 348, 161
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 45
+  rotate: false
+  xy: 348, 161
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 43
+  rotate: false
+  xy: 392, 161
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 44
+  rotate: false
+  xy: 159, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Base/Layer 46
+  rotate: false
+  xy: 415, 86
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 35
+  rotate: false
+  xy: 205, 1
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 36
+  rotate: false
+  xy: 369, 58
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 37
+  rotate: false
+  xy: 459, 87
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 38
+  rotate: false
+  xy: 63, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 39
+  rotate: false
+  xy: 436, 161
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 40
+  rotate: false
+  xy: 341, 58
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 41
+  rotate: false
+  xy: 395, 62
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 42
+  rotate: false
+  xy: 384, 132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 45
+  rotate: false
+  xy: 384, 132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 43
+  rotate: false
+  xy: 415, 58
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 44
+  rotate: false
+  xy: 348, 133
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Text/Text_Lode/Light/Layer 46
+  rotate: false
+  xy: 452, 133
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: true
+  xy: 113, 1
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+ball5
+  rotate: true
+  xy: 447, 9
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
