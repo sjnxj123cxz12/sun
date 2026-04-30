@@ -1,0 +1,279 @@
+
+rong_ho_live_c5.png
+size: 942,895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HDH_as_0
+  rotate: false
+  xy: 482, 7
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: -1
+HDH_as_1
+  rotate: false
+  xy: 2, 101
+  size: 272, 138
+  orig: 272, 138
+  offset: 0, 0
+  index: -1
+HDH_as_2
+  rotate: false
+  xy: 276, 280
+  size: 258, 145
+  orig: 258, 145
+  offset: 0, 0
+  index: -1
+HDH_as_3
+  rotate: false
+  xy: 2, 241
+  size: 272, 147
+  orig: 272, 147
+  offset: 0, 0
+  index: -1
+HDH_as_4
+  rotate: false
+  xy: 288, 13
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+HDH_as_5
+  rotate: false
+  xy: 551, 382
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+Hoa_as
+  rotate: false
+  xy: 2, 14
+  size: 284, 85
+  orig: 284, 85
+  offset: 0, 0
+  index: -1
+Hoa_as_1
+  rotate: false
+  xy: 304, 555
+  size: 286, 107
+  orig: 286, 107
+  offset: 0, 0
+  index: -1
+Hoa_as_2
+  rotate: false
+  xy: 551, 459
+  size: 274, 50
+  orig: 274, 50
+  offset: 0, 0
+  index: -1
+Hoa_as_3
+  rotate: false
+  xy: 608, 630
+  size: 278, 54
+  orig: 278, 54
+  offset: 0, 0
+  index: -1
+Hoa_as_4
+  rotate: false
+  xy: 265, 427
+  size: 284, 126
+  orig: 284, 126
+  offset: 0, 0
+  index: -1
+as_R_1
+  rotate: false
+  xy: 2, 638
+  size: 300, 255
+  orig: 300, 255
+  offset: 0, 0
+  index: -1
+as_R_2
+  rotate: false
+  xy: 276, 102
+  size: 203, 176
+  orig: 203, 176
+  offset: 0, 0
+  index: -1
+as_R_3
+  rotate: false
+  xy: 2, 390
+  size: 261, 246
+  orig: 261, 246
+  offset: 0, 0
+  index: -1
+as_R_4
+  rotate: false
+  xy: 608, 686
+  size: 312, 207
+  orig: 312, 207
+  offset: 0, 0
+  index: -1
+as_R_5
+  rotate: false
+  xy: 304, 664
+  size: 302, 229
+  orig: 302, 229
+  offset: 0, 0
+  index: -1
+as_R_6
+  rotate: false
+  xy: 592, 511
+  size: 265, 117
+  orig: 265, 117
+  offset: 0, 0
+  index: -1
+hdh_text_vfx
+  rotate: false
+  xy: 288, 47
+  size: 191, 53
+  orig: 191, 53
+  offset: 0, 0
+  index: -1
+ho/hofx_04
+  rotate: false
+  xy: 859, 459
+  size: 81, 83
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+ho/hofx_06
+  rotate: false
+  xy: 859, 544
+  size: 81, 84
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+ho/hofx_08
+  rotate: false
+  xy: 782, 125
+  size: 81, 83
+  orig: 81, 85
+  offset: 0, 1
+  index: -1
+ho/hofx_10
+  rotate: false
+  xy: 782, 40
+  size: 77, 83
+  orig: 81, 85
+  offset: 4, 2
+  index: -1
+ho/hofx_11
+  rotate: false
+  xy: 865, 126
+  size: 70, 82
+  orig: 81, 85
+  offset: 11, 3
+  index: -1
+ho_text_vfx
+  rotate: false
+  xy: 481, 47
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+hoa_text_vfx
+  rotate: false
+  xy: 797, 392
+  size: 94, 65
+  orig: 94, 65
+  offset: 0, 0
+  index: -1
+light_line
+  rotate: false
+  xy: 2, 2
+  size: 100, 10
+  orig: 100, 10
+  offset: 0, 0
+  index: -1
+rong/rongfx_06
+  rotate: false
+  xy: 601, 63
+  size: 88, 84
+  orig: 89, 89
+  offset: 1, 0
+  index: -1
+rong/rongfx_07
+  rotate: false
+  xy: 691, 56
+  size: 89, 88
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+rong/rongfx_08
+  rotate: false
+  xy: 800, 301
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+rong/rongfx_10
+  rotate: false
+  xy: 800, 210
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+rong/rongfx_12
+  rotate: false
+  xy: 861, 51
+  size: 73, 72
+  orig: 89, 89
+  offset: 1, 17
+  index: -1
+rong_text_vfx
+  rotate: false
+  xy: 536, 278
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 698, 268
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+sp2
+  rotate: false
+  xy: 587, 149
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+sp2_bl
+  rotate: false
+  xy: 481, 149
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+sp3
+  rotate: false
+  xy: 691, 146
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+sp3_bl
+  rotate: false
+  xy: 893, 382
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 265, 615
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+star_bl
+  rotate: false
+  xy: 551, 532
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

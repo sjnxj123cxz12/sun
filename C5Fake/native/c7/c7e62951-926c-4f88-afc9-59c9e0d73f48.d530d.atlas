@@ -1,0 +1,244 @@
+
+clock_bcrc5.png
+size: 998,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cl_base
+  rotate: false
+  xy: 2, 205
+  size: 284, 192
+  orig: 284, 192
+  offset: 0, 0
+  index: -1
+cl_bise
+  rotate: false
+  xy: 2, 41
+  size: 211, 162
+  orig: 211, 162
+  offset: 0, 0
+  index: -1
+cl_s102
+  rotate: false
+  xy: 215, 2
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+cl_s103
+  rotate: false
+  xy: 288, 268
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+cl_v
+  rotate: true
+  xy: 419, 318
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+clock/clokfx_00
+  rotate: true
+  xy: 215, 90
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_01
+  rotate: false
+  xy: 288, 195
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_02
+  rotate: false
+  xy: 569, 326
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_03
+  rotate: false
+  xy: 288, 122
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_04
+  rotate: false
+  xy: 684, 326
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_05
+  rotate: false
+  xy: 799, 326
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_06
+  rotate: false
+  xy: 419, 245
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_07
+  rotate: false
+  xy: 403, 172
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_08
+  rotate: false
+  xy: 403, 99
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_09
+  rotate: false
+  xy: 288, 49
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_10
+  rotate: false
+  xy: 403, 26
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_11
+  rotate: true
+  xy: 914, 284
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_12
+  rotate: true
+  xy: 518, 130
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_13
+  rotate: true
+  xy: 518, 15
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_14
+  rotate: false
+  xy: 534, 245
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_15
+  rotate: false
+  xy: 649, 253
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_16
+  rotate: false
+  xy: 764, 253
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_17
+  rotate: true
+  xy: 591, 130
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_18
+  rotate: true
+  xy: 591, 15
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_19
+  rotate: false
+  xy: 664, 180
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_20
+  rotate: false
+  xy: 664, 107
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_21
+  rotate: true
+  xy: 779, 138
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_22
+  rotate: false
+  xy: 664, 34
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_23
+  rotate: true
+  xy: 779, 23
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_24
+  rotate: true
+  xy: 852, 138
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_25
+  rotate: true
+  xy: 852, 23
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_26
+  rotate: true
+  xy: 925, 169
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+clock/clokfx_27
+  rotate: true
+  xy: 925, 54
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 2, 7
+  size: 202, 32
+  orig: 202, 32
+  offset: 0, 0
+  index: -1
